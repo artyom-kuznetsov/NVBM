@@ -222,6 +222,23 @@ widget = {
 		}
 	}
  
+	flowcontainer = {
+
+		name = "free_console_access_button"
+		spacing = 3
+		ignoreinvisible = yes
+		allow_outside = yes
+		
+		position = { 0 962		}
+		dockable_button = {
+            visible = "yes"
+			size = { 95 20 }
+			text = "debug_mode"
+			onclick = "[ExecuteConsoleCommand('debug_mode')]"
+            tooltip = "Enable debug_mode"
+			shortcut = "screenshot"
+		}
+	}
 	# game start animation effect (should continue from the state that the animation from lobby ends in)
 	widget = {
 		size = { 100% 100% }
