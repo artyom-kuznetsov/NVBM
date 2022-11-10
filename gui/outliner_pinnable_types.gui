@@ -326,10 +326,10 @@ types pinnable_outliner_items {
 
 		blockoverride "additional_info" {
 			flowcontainer = {
-				spacing = 10
+				spacing =3
 
 				flowcontainer = {
-					maximumsize = { 69 -1 }
+					maximumsize = { 115 -1 }
 					scissor = yes
 					righttoleft = yes
 					datamodel = "[Market.AccessGoodsSortedByBalance]"
@@ -345,12 +345,17 @@ types pinnable_outliner_items {
 							}
 						}
 					}
+					background = {
+						texture = "gfx/interface/progressbar/progressbar_market_blue_glow.dds"
+						alpha = 0.4
+					}
+
 				}
 
 				vertical_divider = {}
 
 				flowcontainer = {
-					maximumsize = { 69 -1 }
+					maximumsize = { 115 -1 }
 					scissor = yes
 					datamodel = "[Market.AccessGoodsSortedByBalance]"
 
@@ -365,6 +370,12 @@ types pinnable_outliner_items {
 							}
 						}
 					}
+					background = {
+						texture = "gfx/interface/progressbar/progressbar_market_gold_glow.dds"
+						alpha = 0.4
+
+					}
+
 				}
 			}
 		}
