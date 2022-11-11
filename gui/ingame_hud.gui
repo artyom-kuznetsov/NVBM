@@ -221,6 +221,7 @@ widget = {
 			}
 		}
 	}
+	
  
 	# game start animation effect (should continue from the state that the animation from lobby ends in)
 	widget = {
