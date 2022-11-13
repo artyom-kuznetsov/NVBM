@@ -14,7 +14,7 @@
 				size = 164404
 			}
 			create_pop = {
-				culture = dakota
+				culture = dakota1
 				size = 312000
 			}
 		}
@@ -24,7 +24,7 @@
 				size = 7104
 			}
 			create_pop = {
-				culture = british
+				culture = british1
 				size = 104
 			}
 		}
@@ -71,7 +71,7 @@
 				size = 500
 			}
 			create_pop = {
-				culture = british
+				culture = british1
 				size = 500
 			}
 			create_pop = {
@@ -170,7 +170,7 @@
 	s:STATE_BAHAMAS = {
 		region_state:GBR = {
 			create_pop = {
-				culture = british
+				culture = british1
 				size = 19200
 			}
 			create_pop = {
@@ -202,7 +202,7 @@
 		}
 		region_state:GBR = {
 			create_pop = {
-				culture = british
+				culture = british1
 				size = 34704
 			}
 			create_pop = {
@@ -222,7 +222,7 @@
 				size = 358596
 			}
 			create_pop = {
-				culture = british
+				culture = british1
 				size = 23040
 			}
 		}

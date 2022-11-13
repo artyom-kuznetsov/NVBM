@@ -240,7 +240,7 @@
 	s:STATE_URALSK = {
 		region_state:RUS = {
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 62000
 			}
 			create_pop = {
@@ -251,7 +251,7 @@
 
 		region_state:KAZ = {
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 30000
 			}
 		}
@@ -259,7 +259,7 @@
 	s:STATE_KHIVA = {
 		region_state:KHI = {
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 276396
 			}
 			create_pop = {
@@ -267,12 +267,12 @@
 				size = 7400
 			}
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 50500
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = kazak
+				culture = kazak1
 				size = 42000
 			}
 			create_pop = {
@@ -281,7 +281,7 @@
 				size = 5000
 			}
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 16000
 			}
 			create_pop = {
@@ -298,28 +298,28 @@
 	s:STATE_UZBEKIA = {
 		region_state:BUK = {
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 1552396
 			}
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 68000
 			}
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 120004
 			}
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 88204
 			}
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 10204
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = kazak
+				culture = kazak1
 				size = 30000
 			}
 			create_pop = {
@@ -329,7 +329,7 @@
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = kazak
+				culture = kazak1
 				size = 6700
 			}
 			create_pop = {
@@ -346,25 +346,25 @@
 	s:STATE_TAJIKISTAN = {
 		region_state:KOK = {
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 211004
 			}
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 160000
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = kazak
+				culture = kazak1
 				size = 25000
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = kazak
+				culture = kazak1
 				size = 5000
 			}
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 16000
 			}
 		}
@@ -372,21 +372,21 @@
 	s:STATE_KIRGHIZIA = {
 		region_state:KOK = {
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 232150
 			}
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 160196
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = kazak
+				culture = kazak1
 				size = 20000
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = kazak
+				culture = kazak1
 				size = 5000
 			}
 			create_pop = {
@@ -395,42 +395,42 @@
 				size = 3500
 			}
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 16002
 			}
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 12000
 			}
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 11600
 			}
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				# religion = animist
 				size = 8000
 			}
 		}
 		region_state:CHI = {
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 100150
 			}
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 80000
 			}
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 32002
 			}
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 22000
 			}
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				# religion = animist
 				size = 12100
 			}
@@ -439,7 +439,7 @@
 	s:STATE_TURKMENIA = {
 		region_state:KHI = {
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 186004
 			}
 			create_pop = {
@@ -447,12 +447,12 @@
 				size = 49996
 			}
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 220000
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = kazak
+				culture = kazak1
 				size = 54000
 			}
 			create_pop = {
@@ -461,12 +461,12 @@
 				size = 6000
 			}
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 31004
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = kazak
+				culture = kazak1
 				size = 5000
 			}
 			create_pop = {
@@ -475,7 +475,7 @@
 				size = 10000
 			}
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 12004
 			}
 		}
@@ -483,15 +483,15 @@
 	s:STATE_SEMIRECHE = {
 		region_state:KAZ = {
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 164162
 			}
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 11000
 			}
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 4000
 			}
 		}
@@ -500,15 +500,15 @@
 	s:STATE_JETISY = {
 		region_state:CHI = {
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 200642
 			}
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 33000
 			}
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 20000
 			}
 		}
@@ -516,7 +516,7 @@
 	s:STATE_AKMOLINSK = {
 		region_state:KAZ = {
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 260000
 			}
 			create_pop = {
@@ -524,7 +524,7 @@
 				size = 11992
 			}
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 56000
 			}
 		}
@@ -532,7 +532,7 @@
 	s:STATE_PASHTUNISTAN = {
 		region_state:PAN = {
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 655212
 			}
 			create_pop = {
@@ -544,11 +544,11 @@
 	s:STATE_WESTERN_AFGHANISTAN = {
 		region_state:AFG = {
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 670172
 			}
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 90356
 			}
 			create_pop = {
@@ -556,7 +556,7 @@
 				size = 120352
 			}
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 20320
 			}
 			create_pop = {
@@ -565,7 +565,7 @@
 				size = 72400
 			}
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 814404
 			}
 			create_pop = {
@@ -587,15 +587,15 @@
 	s:STATE_EASTERN_AFGHANISTAN = {
 		region_state:AFG = {
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 1131236
 			}
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 28600
 			}
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 604400
 			}
 			create_pop = {
@@ -614,7 +614,7 @@
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = kazak
+				culture = kazak1
 				size = 21000
 			}
 		}
@@ -622,7 +622,7 @@
 	s:STATE_BALUCHISTAN = {
 		region_state:MAK = {
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 440296
 			}
 			create_pop = {
@@ -632,17 +632,17 @@
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = kazak
+				culture = kazak1
 				size = 7000
 			}
 		}
 		region_state:KAL = {
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 512392
 			}
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 204000
 			}
 			create_pop = {
@@ -652,13 +652,13 @@
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = kazak
+				culture = kazak1
 				size = 10000
 			}
 		}
 		region_state:OMA = {
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 4100
 			}
 			create_pop = {

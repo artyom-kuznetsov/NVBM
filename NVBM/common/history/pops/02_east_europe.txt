@@ -18,7 +18,7 @@
 				size = 88000
 			}
 			create_pop = {
-				culture = latvian
+				culture = latvian1
 				size = 12000
 			}
 			create_pop = {
@@ -55,7 +55,7 @@
 				size = 698996
 			}
 			create_pop = {
-				culture = latvian
+				culture = latvian1
 				# religion = orthodox
 				size = 20000
 			}
@@ -73,7 +73,7 @@
 				size = 200000
 			}
 			create_pop = {
-				culture = latvian
+				culture = latvian1
 				size = 95996
 			}
 		}
@@ -170,7 +170,7 @@
 				size = 260004
 			}
 			create_pop = {
-				culture = latvian
+				culture = latvian1
 				size = 256000
 			}
 			create_pop = {
@@ -347,7 +347,7 @@
 				size = 7996
 			}
 			create_pop = {
-				culture = serb
+				culture = serb1
 				size = 12000
 			}
 		}
@@ -384,7 +384,7 @@
 				size = 104400
 			}
 			create_pop = {
-				culture = latvian
+				culture = latvian1
 				size = 4008
 			}
 			create_pop = {
@@ -461,7 +461,7 @@
 	s:STATE_LATVIA = {
 		region_state:RUS = {
 			create_pop = {
-				culture = latvian
+				culture = latvian1
 				size = 1047496
 			}
 			create_pop = {
@@ -498,7 +498,7 @@
 				size = 111796
 			}
 			create_pop = {
-				culture = latvian
+				culture = latvian1
 				size = 729000
 			}
 			create_pop = {
@@ -522,7 +522,7 @@
 				size = 1676000
 			}
 			create_pop = {
-				culture = latvian
+				culture = latvian1
 				size = 20000
 			}
 			create_pop = {
@@ -560,7 +560,7 @@
 				size = 228400
 			}
 			create_pop = {
-				culture = czech
+				culture = czech1
 				# religion = catholic
 				size = 60000
 			}
@@ -649,7 +649,7 @@
 				size = 2600
 			}
 			create_pop = {
-				culture = latvian
+				culture = latvian1
 				# religion = protestant
 				size = 117196
 			}
@@ -765,7 +765,7 @@
 				size = 71996
 			}
 			create_pop = {
-				culture = czech
+				culture = czech1
 				size = 31996
 			}
 		}
@@ -794,11 +794,11 @@
 				size = 730400
 			}
 			create_pop = {
-				culture = serb
+				culture = serb1
 				size = 117004
 			}
 			create_pop = {
-				culture = serb
+				culture = serb1
 				size = 20000
 			}
 			create_pop = {
@@ -815,7 +815,7 @@
 				size = 1375796
 			}
 			create_pop = {
-				culture = serb
+				culture = serb1
 				size = 60000
 			}
 			create_pop = {
@@ -833,7 +833,7 @@
 				size = 1100
 			}
 			create_pop = {
-				culture = czech
+				culture = czech1
 				size = 128000
 			}
 			create_pop = {
@@ -842,7 +842,7 @@
 				size = 35996
 			}
 			create_pop = {
-				culture = serb
+				culture = serb1
 				size = 59996
 			}
 		}
@@ -858,15 +858,15 @@
 				size = 160000
 			}
 			create_pop = {
-				culture = czech
+				culture = czech1
 				size = 40000
 			}
 			create_pop = {
-				culture = serb
+				culture = serb1
 				size = 284196
 			}
 			create_pop = {
-				culture = serb
+				culture = serb1
 				size = 36000
 			}
 			create_pop = {
@@ -890,7 +890,7 @@
 				size = 57228
 			}
 			create_pop = {
-				culture = serb
+				culture = serb1
 				size = 62296
 			}
 			create_pop = {
@@ -903,7 +903,7 @@
 				size = 1932
 			}
 			create_pop = {
-				culture = serb
+				culture = serb1
 				size = 245256
 			}
 			create_pop = {
@@ -924,7 +924,7 @@
 				size = 152800
 			}
 			create_pop = {
-				culture = czech
+				culture = czech1
 				size = 1140796
 			}
 			create_pop = {
@@ -953,7 +953,7 @@
 				size = 150848
 			}
 			create_pop = {
-				culture = czech
+				culture = czech1
 				size = 606000
 			}
 			create_pop = {
@@ -1100,7 +1100,7 @@
 				size = 808396
 			}
 			create_pop = {
-				culture = serb
+				culture = serb1
 				size = 12000
 			}
 			create_pop = {

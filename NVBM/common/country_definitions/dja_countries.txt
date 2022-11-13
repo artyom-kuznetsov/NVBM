@@ -6,7 +6,7 @@ QUE = {
 	
 	tier = principality
 	
-	cultures = { anglo_canadian }
+	cultures = { anglo_canadian1 }
 	capital = STATE_QUEBEC
 	
 	is_named_from_capital = yes
@@ -20,7 +20,7 @@ CAN = {
 	
 	tier = kingdom
 	
-	cultures = { anglo_canadian }
+	cultures = { anglo_canadian1 }
 	capital = STATE_ONTARIO
 }
 
@@ -32,7 +32,7 @@ NBS = {
 	
 	tier = principality
 	
-	cultures = { anglo_canadian }
+	cultures = { anglo_canadian1 }
 	capital = STATE_NEW_BRUNSWICK
 }
 
@@ -44,7 +44,7 @@ IRO = { # Haudenosaunee, archaically known as the Iroquois Confederacy
 	
 	tier = principality
 	
-	cultures = { dakota }
+	cultures = { dakota1 }
 	
 	capital = STATE_NEW_YORK
 }
@@ -56,7 +56,7 @@ CSC = { # Cascadia
 	
 	tier = principality
 	
-	cultures = { dakota }
+	cultures = { dakota1 }
 	
 	capital = STATE_BRITISH_COLUMBIA
 }
@@ -68,7 +68,7 @@ MSC = { # Muscogee
 	
 	tier = principality
 	
-	cultures = { dakota }
+	cultures = { dakota1 }
 	
 	capital = STATE_FLORIDA
 }
@@ -80,7 +80,7 @@ MUI = { # Muisca
 	
 	tier = principality
 	
-	cultures = { dakota }
+	cultures = { dakota1 }
 	
 	capital = STATE_CUNDINAMARCA
 }
@@ -92,7 +92,7 @@ NVL = { # Navajoland
 	
 	tier = principality
 	
-	cultures = { dakota }
+	cultures = { dakota1 }
 	
 	capital = STATE_ARIZONA
 }
@@ -104,7 +104,7 @@ ATB = { # Athabaska
 	
 	tier = principality
 	
-	cultures = { dakota }
+	cultures = { dakota1 }
 	
 	capital = STATE_NORTHWEST_TERRITORIES
 }
@@ -116,7 +116,7 @@ WYU = { # Wayuu
 	
 	tier = principality
 	
-	cultures = { amazonian }
+	cultures = { amazonian1 }
 	
 	capital = STATE_ANTIOQUIA
 }
@@ -128,7 +128,7 @@ TPI = { # Tupinamba
 	
 	tier = principality
 	
-	cultures = { amazonian }
+	cultures = { amazonian1 }
 	
 	capital = STATE_BAHIA
 }
@@ -140,7 +140,7 @@ PUE = { # Pueblo
 	
 	tier = principality
 	
-	cultures = { dakota }
+	cultures = { dakota1 }
 	
 	capital = STATE_NEW_MEXICO
 }
@@ -152,7 +152,7 @@ AYM = { # Aymara
 	
 	tier = principality
 	
-	cultures = { amazonian }
+	cultures = { amazonian1 }
 	
 	capital = STATE_LA_PAZ
 }
@@ -164,7 +164,7 @@ TWT = { # Tawantinsuyu
 	
 	tier = principality
 	
-	cultures = { amazonian }
+	cultures = { amazonian1 }
 	
 	capital = STATE_LIMA
 }
@@ -176,7 +176,7 @@ MCO = { # Michoacan
 	
 	tier = principality
 	
-	cultures = { dakota }
+	cultures = { dakota1 }
 	
 	capital = STATE_JALISCO
 }
@@ -188,7 +188,7 @@ OAX = { # Oaxaca
 	
 	tier = principality
 	
-	cultures = { dakota }
+	cultures = { dakota1 }
 	
 	capital = STATE_OAXACA
 }
@@ -200,7 +200,7 @@ COM = {
 
 	tier = principality
 	
-	cultures = { dakota }
+	cultures = { dakota1 }
 	capital = STATE_TEXAS
 }
 
@@ -234,7 +234,7 @@ ULS = {
 	tier = principality
 	
 	cultures = { british irish }
-	religion = protestant
+	#religion = protestant
 	capital = STATE_ULSTER
 	is_named_from_capital = yes
 }
@@ -246,8 +246,30 @@ SEQ = {
 
 	tier = principality
 	
-	cultures = { cherokee dakota }
+	cultures = { cherokee dakota1 }
 	capital = STATE_OKLAHOMA
+}
+
+DKT = {
+	color = { 68 14 98 }
+
+	country_type = decentralized
+
+	tier = principality
+	
+	cultures = { dakota1 }
+	capital = STATE_MINNESOTA
+}
+
+ABS = {
+	color = { 199 102 22 }
+
+	country_type = decentralized
+
+	tier = principality
+	
+	cultures = { dakota1 }
+	capital = STATE_MONTANA
 }
 
 WIN = {
@@ -268,7 +290,7 @@ PAT = {
 	
 	tier = principality
 	
-	cultures = { amazonian }
+	cultures = { amazonian1 }
 	capital = STATE_PATAGONIA
 }
 
@@ -279,8 +301,19 @@ THL = {
 	
 	tier = principality
 	
-	cultures = { amazonian }
+	cultures = { amazonian1 }
 	capital = STATE_PATAGONIA
+}
+
+LKT = {
+	color = { 198 114 168 }
+
+	country_type = decentralized
+
+	tier = principality
+	
+	cultures = { dakota1 }
+	capital = STATE_SOUTH_DAKOTA
 }
 
 SLK = {
@@ -290,14 +323,36 @@ SLK = {
 	
 	tier = principality
 	
-	cultures = { amazonian }
+	cultures = { amazonian1 }
 	capital = STATE_ARAUCANIA
+}
+
+NZP = {
+	color = { 220 190 50 }
+
+	country_type = decentralized
+
+	tier = principality
+	
+	cultures = { dakota1 }
+	capital = STATE_IDAHO
+}
+
+IRC = {
+	color = { 61 158 124 }
+
+	country_type = decentralized
+
+	tier = principality
+	
+	cultures = { dakota1 }
+	capital = STATE_SASKATCHEWAN
 }
 
 PWN = { # Pawnee
 	color = { 252 84 118 }
 	
-	cultures = { dakota }
+	cultures = { dakota1 }
 	
 	country_type = decentralized
 	
@@ -308,7 +363,7 @@ PWN = { # Pawnee
 APC = { # Apacheria
 	color = { 198 158 109 }
 	
-	cultures = { dakota }
+	cultures = { dakota1 }
 	
 	country_type = decentralized
 	
@@ -606,7 +661,7 @@ KBU = {
 	
 	cultures = { hausa }
 	
-	religion = animist
+	#religion = animist
 	
 	capital = STATE_GAMBIA
 }
@@ -617,7 +672,7 @@ SRR = {
 	
 	tier = principality
 
-	religion = animist
+	#religion = animist
 	
 	cultures = { hausa }
 	capital = STATE_GAMBIA
@@ -791,7 +846,7 @@ SYR = {
 	country_type = unrecognized
 	tier = principality
 	cultures = { bedouin }
-	religion = sunni
+	#religion = sunni
 	capital = STATE_SYRIA
 }
 
@@ -845,7 +900,7 @@ ZAI = {
 	tier = principality
 	
 	cultures = { bedouin }
-#   religion = Technically Sunni at game start, but if it re-emerges, it should be Shiite
+#   #religion = Technically Sunni at game start, but if it re-emerges, it should be Shiite
 	capital = STATE_YEMEN
 }
 
@@ -876,7 +931,7 @@ BOR = {
 	
 	tier = principality
 	
-	cultures = { kanuri }
+	cultures = { kanuri1 }
 	capital = STATE_BORNU
 }
 
@@ -887,7 +942,7 @@ SRA = { # Sara
 	
 	tier = principality
 	
-	cultures = { kanuri }
+	cultures = { kanuri1 }
 	capital = STATE_UBANGI_SHARI
 }
 
@@ -932,7 +987,7 @@ LAH = {
 	tier = principality
 	
 	cultures = { bedouin }
-	religion = sunni
+	#religion = sunni
 	capital = STATE_YEMEN
 }
 
@@ -944,7 +999,7 @@ PAL = {
 	tier = principality
 	
 	cultures = { bedouin }
-	religion = sunni
+	#religion = sunni
 	capital = STATE_PALESTINE
 }
 
@@ -1013,7 +1068,7 @@ DNK = {
 BLF = { # Niitsitapi / Blackfoot Confederacy
 	color = hsv{ 0.63 0.68 0.60 }
 	
-	cultures = { dakota }
+	cultures = { dakota1 }
 	
 	country_type = decentralized
 	
@@ -1029,7 +1084,7 @@ CCM = { # O'odham Country
 	
 	tier = principality
 	
-	cultures = { dakota }
+	cultures = { dakota1 }
 	
 	capital = STATE_CHIHUAHUA
 }
@@ -1041,7 +1096,7 @@ GNI = {
 	
 	tier = principality
 	
-	cultures = { dakota }
+	cultures = { dakota1 }
 	capital = STATE_ALTO_PARAGUAY
 }
 
@@ -1052,14 +1107,14 @@ NVJ = {
 
 	tier = principality
 	
-	cultures = { dakota }
+	cultures = { dakota1 }
 	capital = STATE_ARIZONA
 }
 
 UTE = { # Ute
 	color = { 235 126 175 }
 	
-	cultures = { paiute }
+	cultures = { dakota1 }
 	
 	country_type = decentralized
 	
@@ -1075,7 +1130,7 @@ ETH = {
 	
 	tier = empire
 	
-	cultures = { oromo }
+	cultures = { oromo1 }
 	capital = STATE_GONDER
 }
 AWS = {
@@ -1085,7 +1140,7 @@ AWS = {
 	
 	tier = principality
 	
-	cultures = { oromo }
+	cultures = { oromo1 }
 	capital = STATE_GONDER
 }
 
@@ -1095,8 +1150,8 @@ TGR = {
 	
 	tier = principality
 	
-	cultures =  { oromo }
-	capital = STATE_oromo
+	cultures =  { oromo1 }
+	capital = STATE_oromo1
 }
 
 BGM = {
@@ -1105,8 +1160,8 @@ BGM = {
 	
 	tier = principality
 	
-	cultures = { oromo }
-	capital = STATE_oromo
+	cultures = { oromo1 }
+	capital = STATE_oromo1
 }
 
 SHW = {
@@ -1116,7 +1171,7 @@ SHW = {
 	
 	tier = principality
 	
-	cultures = { oromo }
+	cultures = { oromo1 }
 	capital = STATE_OROMIA
 }
 
@@ -1127,7 +1182,7 @@ HAR = {
 	
 	tier = principality
 	
-	cultures = { somali oromo }
+	cultures = { somali oromo1 }
 	capital = STATE_OROMIA
 }
 
@@ -1137,8 +1192,8 @@ TGR = {
 	
 	tier = principality
 	
-	cultures =  { tigray oromo }
-	capital = STATE_oromo
+	cultures =  { tigray oromo1 }
+	capital = STATE_oromo1
 }
 
 
@@ -1148,8 +1203,8 @@ GJM = {
 	
 	tier = principality
 	
-	cultures = { oromo oromo }
-	capital = STATE_oromo
+	cultures = { oromo1 oromo1 }
+	capital = STATE_oromo1
 }
 
 WLO = {
@@ -1158,8 +1213,8 @@ WLO = {
 	
 	tier = principality
 	
-	cultures = { oromo }
-	capital = STATE_oromo
+	cultures = { oromo1 }
+	capital = STATE_oromo1
 }
 
 KKY = {
@@ -1212,7 +1267,7 @@ BGI = {
 	
 	tier = principality
 	
-	cultures = { kanuri }
+	cultures = { kanuri1 }
 	capital = STATE_WADDAI
 }
 
@@ -1403,7 +1458,7 @@ KUK = {
 	tier = empire
 	
 	capital = STATE_CENTRAL_HUNGARY
-	cultures = { hungarian romanian serb czech }
+	cultures = { hungarian romanian serb czech1 }
 }
 
 SLO = {
@@ -1692,7 +1747,7 @@ MCR = { # Micronesia
 
 	tier = principality
 	
-	cultures = { melanesian }
+	cultures = { melanesian1 }
 	capital = STATE_EAST_MICRONESIA
 }
 
@@ -1802,7 +1857,7 @@ TNG = {
 	
 	tier = principality
 	
-	cultures = { melanesian }
+	cultures = { melanesian1 }
 	capital = STATE_TONGA
 }
 
@@ -1813,7 +1868,7 @@ PLY = { # Polynesia
 
 	tier = principality
 	
-	cultures = { melanesian }
+	cultures = { melanesian1 }
 	capital = STATE_TAHITI
 }
 
@@ -1949,7 +2004,7 @@ SLV = {
 
 	tier = principality
 	
-	cultures = { czech }
+	cultures = { czech1 }
 	capital = STATE_WEST_SLOVAKIA
 }
 
@@ -1960,7 +2015,7 @@ CZH = {
 
 	tier = kingdom
 	
-	cultures = { czech }
+	cultures = { czech1 }
 	capital = STATE_BOHEMIA
 }
 
@@ -2004,8 +2059,8 @@ BUK = {
 	
 	tier = principality
 	
-	cultures = { kazak }
-	capital = STATE_kazakIA
+	cultures = { kazak1 }
+	capital = STATE_kazak1IA
 }
 
 KHI = {
@@ -2015,7 +2070,7 @@ KHI = {
 	
 	tier = principality
 	
-	cultures = { kazak }
+	cultures = { kazak1 }
 	capital = STATE_KHIVA
 }
 
@@ -2026,8 +2081,8 @@ TRH = { # Turkestan
 
 	tier = empire
 	
-	cultures = { kazak }
-	capital = STATE_kazakIA
+	cultures = { kazak1 }
+	capital = STATE_kazak1IA
 }
 
 AFG = {
@@ -2037,7 +2092,7 @@ AFG = {
 	
 	tier = principality
 	
-	cultures = { kazak }
+	cultures = { kazak1 }
 	capital = STATE_EASTERN_AFGHANISTAN
 }
 
@@ -2150,7 +2205,7 @@ KAL = {
 	
 	tier = principality
 	
-	cultures = { kazak }
+	cultures = { kazak1 }
 	capital = STATE_BALUCHISTAN
 }
 
@@ -2230,7 +2285,7 @@ MAK = {
 	
 	tier = principality
 	
-	cultures = { kazak }
+	cultures = { kazak1 }
 	capital = STATE_BALUCHISTAN
 }
 
@@ -2241,7 +2296,7 @@ BLH = {
 
 	tier = kingdom
 
-	cultures = { kazak }
+	cultures = { kazak1 }
 	capital = STATE_BALUCHISTAN
 }
 
@@ -2252,7 +2307,7 @@ KOK = {
 	
 	tier = principality
 	
-	cultures = { kazak }
+	cultures = { kazak1 }
 	capital = STATE_KIRGHIZIA
 }
 
@@ -2263,7 +2318,7 @@ TRC = { # Turkmenia
 	
 	tier = principality
 
-	cultures = { kazak }
+	cultures = { kazak1 }
 
 	capital = STATE_TURKMENIA
 }
@@ -2275,7 +2330,7 @@ XIN = {
 	
 	tier = kingdom
 	
-	cultures = { kazak }
+	cultures = { kazak1 }
 	capital = STATE_TIANSHAN
 }
 
@@ -2462,7 +2517,7 @@ BOB = {
 	
 	tier = principality
 	
-	cultures = { fluvian_bantu bakongo }
+	cultures = { fluvian_bantu bakongo1 }
 	capital = STATE_EQUATEUR
 }
 
@@ -2473,7 +2528,7 @@ KZM = {
 	
 	tier = principality
 	
-	cultures = { bakongo }
+	cultures = { bakongo1 }
 	capital = STATE_KAZEMBE
 }
 
@@ -2484,7 +2539,7 @@ KSN = {
 	
 	tier = principality
 	
-	cultures = { bakongo }
+	cultures = { bakongo1 }
 	capital = STATE_EAST_ANGOLA
 }
 CHK = {
@@ -2494,7 +2549,7 @@ CHK = {
 	
 	tier = principality
 	
-	cultures = { bakongo }
+	cultures = { bakongo1 }
 	capital = STATE_EAST_ANGOLA
 }
 
@@ -2505,7 +2560,7 @@ LND = {
 	
 	tier = principality
 	
-	cultures = { bakongo }
+	cultures = { bakongo1 }
 	capital = STATE_EAST_ANGOLA
 }
 
@@ -2516,7 +2571,7 @@ YKA = {
 	
 	tier = principality
 	
-	cultures = { bakongo bakongo }
+	cultures = { bakongo1 bakongo1 }
 	capital = STATE_BAS_CONGO
 }
 
@@ -2527,7 +2582,7 @@ OVM = {
 	
 	tier = principality
 	
-	cultures = { bakongo }
+	cultures = { bakongo1 }
 	capital = STATE_SOUTH_ANGOLA
 }
 
@@ -2538,7 +2593,7 @@ LZO = {
 	
 	tier = principality
 	
-	cultures = { bakongo }
+	cultures = { bakongo1 }
 	capital = STATE_ZAMBIA
 }
 
@@ -2549,7 +2604,7 @@ TSW = {
 	
 	tier = principality
 	
-	cultures = { bakongo }
+	cultures = { bakongo1 }
 	capital = STATE_BOTSWANA
 }
 
@@ -2560,7 +2615,7 @@ WBL = {
 	
 	tier = principality
 	
-	cultures = { khoisan bakongo }
+	cultures = { khoisan1 bakongo1 }
 	capital = STATE_NORTHERN_CAPE
 }
 
@@ -2571,7 +2626,7 @@ BST = {
 	
 	tier = principality
 	
-	cultures = { bakongo }
+	cultures = { bakongo1 }
 	capital = STATE_ZULULAND
 }
 
@@ -2582,7 +2637,7 @@ HRO = {
 	
 	tier = principality
 	
-	cultures = { khoisan }
+	cultures = { khoisan1 }
 	capital = STATE_HEREROLAND
 }
 
@@ -2593,7 +2648,7 @@ ZUL = {
 	
 	tier = principality
 	
-	cultures = { bakongo }
+	cultures = { bakongo1 }
 	capital = STATE_ZULULAND
 	is_named_from_capital = yes
 }
@@ -2605,7 +2660,7 @@ XHO = { # Xhosa
 	
 	tier = principality
 	
-	cultures = { bakongo }
+	cultures = { bakongo1 }
 	capital = STATE_EASTERN_CAPE
 }
 
@@ -2616,7 +2671,7 @@ BTG = { # Batonga
 	
 	tier = principality
 	
-	cultures = { bakongo }
+	cultures = { bakongo1 }
 	capital = STATE_LOURENCO_MARQUES
 }
 
@@ -2627,7 +2682,7 @@ MTB = {
 	
 	tier = principality
 	
-	cultures = { nguni bakongo }
+	cultures = { nguni bakongo1 }
 	capital = STATE_ZAMBEZI
 }
 
@@ -2638,7 +2693,7 @@ MSH = {
 	
 	tier = principality
 	
-	cultures = { bakongo }
+	cultures = { bakongo1 }
 	capital = STATE_ZAMBEZI
 }
 
@@ -2649,7 +2704,7 @@ MNC = {
 	
 	tier = principality
 	
-	cultures = { bakongo }
+	cultures = { bakongo1 }
 	capital = STATE_ZAMBEZIA
 }
 
@@ -2660,7 +2715,7 @@ MSK = {
 	
 	tier = principality
 	
-	cultures = { bakongo }
+	cultures = { bakongo1 }
 	capital = STATE_ZAMBEZIA
 }
 
@@ -2671,7 +2726,7 @@ SNA = { # Sena
 	
 	tier = principality
 	
-	cultures = { bakongo }
+	cultures = { bakongo1 }
 	capital = STATE_MOCAMBIQUE
 }
 
@@ -2682,7 +2737,7 @@ MKU = { # Makua
 	
 	tier = principality
 	
-	cultures = { bakongo }
+	cultures = { bakongo1 }
 	capital = STATE_MOCAMBIQUE
 }
 
@@ -2693,7 +2748,7 @@ UYA = { # Uyao
 	
 	tier = principality
 	
-	cultures = { bakongo }
+	cultures = { bakongo1 }
 	capital = STATE_MOCAMBIQUE
 }
 
@@ -2703,7 +2758,7 @@ KFA = {
 	
 	tier = principality
 	
-	cultures = { oromo }
+	cultures = { oromo1 }
 	capital = STATE_AMHARA
 }
 
@@ -2713,7 +2768,7 @@ SDM = {
 	
 	tier = principality
 	
-	cultures = { oromo }
+	cultures = { oromo1 }
 	capital = STATE_AMHARA
 }
 

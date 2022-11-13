@@ -6,7 +6,7 @@
 				size = 9124092
 			}
 			create_pop = {
-				culture = british
+				culture = british1
 				size = 192
 			}
 			create_pop = {
@@ -59,7 +59,7 @@
 				size = 922404
 			}
 			create_pop = {
-				culture = british
+				culture = british1
 				size = 96
 			}
 			create_pop = {
@@ -111,7 +111,7 @@
 				size = 8100320
 			}
 			create_pop = {
-				culture = british
+				culture = british1
 				size = 304
 			}
 			create_pop = {
@@ -256,7 +256,7 @@
 				size = 81200
 			}
 			create_pop = {
-				culture = british
+				culture = british1
 				size = 32
 			}
 			create_pop = {
@@ -399,7 +399,7 @@
 				size = 3239096
 			}
 			create_pop = {
-				culture = british
+				culture = british1
 				size = 96
 			}
 			create_pop = {
@@ -439,7 +439,7 @@
 				size = 249384
 			}
 			create_pop = {
-				culture = kazak
+				culture = kazak1
 				size = 37727
 			}
 		}
@@ -482,7 +482,7 @@
 				size = 326183
 			}
 			create_pop = {
-				culture = british
+				culture = british1
 				size = 3072
 			}
 			create_pop = {
@@ -629,7 +629,7 @@
 				size = 6602700
 			}
 			create_pop = {
-				culture = british
+				culture = british1
 				size = 18520
 			}
 			create_pop = {
@@ -770,7 +770,7 @@
 				size = 461052
 			}
 			create_pop = {
-				culture = british
+				culture = british1
 				size = 48
 			}
 			create_pop = {
@@ -815,7 +815,7 @@
 				size = 16400
 			}
 			create_pop = {
-				culture = british
+				culture = british1
 				size = 7992
 			}
 			create_pop = {
@@ -870,7 +870,7 @@
 				size = 94612
 			}
 			create_pop = {
-				culture = british
+				culture = british1
 				size = 800
 			}
 			create_pop = {
@@ -906,7 +906,7 @@
 				size = 869092
 			}
 			create_pop = {
-				culture = british
+				culture = british1
 				size = 96
 			}
 			create_pop = {
@@ -927,7 +927,7 @@
 				size = 9712168
 			}
 			create_pop = {
-				culture = british
+				culture = british1
 				size = 594
 			}
 			create_pop = {
@@ -1076,7 +1076,7 @@
 				size = 91145
 			}
 			create_pop = {
-				culture = british
+				culture = british1
 				size = 30369
 			}
 			create_pop = {
@@ -1183,7 +1183,7 @@
 				size = 2032854
 			}
 			create_pop = {
-				culture = british
+				culture = british1
 				size = 37911
 			}
 			create_pop = {

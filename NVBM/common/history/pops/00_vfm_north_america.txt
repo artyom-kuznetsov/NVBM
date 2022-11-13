@@ -6,35 +6,35 @@ POPS = {
 			}
 			region_state:USA = {
 				create_pop = {
-					culture = dakota
+					culture = dakota1
 					size = 7000
 				}
 				create_pop = {
-					culture = dakota
+					culture = dakota1
 					size = 2000
 				}
 			}
 			region_state:ORG = {
 				create_pop = {
-					culture = dakota
+					culture = dakota1
 					size = 3000
 				}
 			}
 			region_state:ABS = {
 				create_pop = {
-					culture = dakota
+					culture = dakota1
 					size = 28000
 				}
 			}
 			region_state:LKT = {
 				create_pop = {
-					culture = dakota
+					culture = dakota1
 					size = 6000
 				}
 			}
 			region_state:BLF = {
 				create_pop = {
-					culture = dakota
+					culture = dakota1
 					size = 14000
 				}
 			}
@@ -42,17 +42,17 @@ POPS = {
 		else = {
 			region_state:USA = {
 				create_pop = {
-					culture = dakota
+					culture = dakota1
 					size = 52000
 				}
 				create_pop = {
-					culture = dakota
+					culture = dakota1
 					size = 8000
 				}
 			}
 			region_state:ORG = {
 				create_pop = {
-					culture = dakota
+					culture = dakota1
 					size = 3000
 				}
 			}
@@ -65,39 +65,39 @@ POPS = {
 				size = 8000
 			}		
 			create_pop = {
-				culture = dakota
+				culture = dakota1
 				size = 27396
 			}
 			create_pop = {
-				culture = dakota
+				culture = dakota1
 				size = 25200
 			}
 		}
 		region_state:HBC = {
 			create_pop = {
-				culture = dakota
+				culture = dakota1
 				size = 30000
 			}
 		}
 	}
-	s:STATE_NORTH_DAKOTA = {
+	s:STATE_NORTH_dakota1 = {
 		if = {
 			limit = {
 				has_game_rule = yes_NA_decentralized
 			}
 			region_state:USA = {
 				create_pop = {
-					culture = dakota
+					culture = dakota1
 					size = 6000
 				}
 			}
 			region_state:LKT = {
 				create_pop = {
-					culture = dakota
+					culture = dakota1
 					size = 30000
 				}
 				create_pop = {
-					culture = dakota
+					culture = dakota1
 					size = 4000
 				}
 			}
@@ -105,30 +105,30 @@ POPS = {
 		else = {
 			region_state:USA = {
 				create_pop = {
-					culture = dakota
+					culture = dakota1
 					size = 10000
 				}
 				create_pop = {
-					culture = dakota
+					culture = dakota1
 					size = 30000
 				}
 			}
 		}
 	}
-	s:STATE_SOUTH_DAKOTA = {
+	s:STATE_SOUTH_dakota1 = {
 	if = {
 			limit = {
 				has_game_rule = yes_NA_decentralized
 			}
 			region_state:LKT = {
 				create_pop = {
-					culture = dakota
+					culture = dakota1
 					size = 34000
 				}
 			}
 			region_state:USA = {
 				create_pop = {
-					culture = dakota
+					culture = dakota1
 					size = 4000
 				}
 			}
@@ -136,11 +136,11 @@ POPS = {
 		else = {
 			region_state:USA = {
 				create_pop = {
-					culture = dakota
+					culture = dakota1
 					size = 4000
 				}
 				create_pop = {
-					culture = dakota
+					culture = dakota1
 					size = 34000
 				}
 			}
@@ -153,19 +153,19 @@ POPS = {
 				}
 			region_state:USA = {
 				create_pop = {
-					culture = dakota
+					culture = dakota1
 					size = 14000
 				}
 			}
 			region_state:ONT = {
 				create_pop = {
-					culture = dakota
+					culture = dakota1
 					size = 2000
 				}
 			}
 			region_state:LKT = {
 				create_pop = {
-					culture = dakota
+					culture = dakota1
 					size = 22000
 				}
 			}
@@ -173,17 +173,17 @@ POPS = {
 		else = {
 			region_state:USA = {
 				create_pop = {
-					culture = dakota
+					culture = dakota1
 					size = 14000
 				}
 				create_pop = {
-					culture = dakota
+					culture = dakota1
 					size = 22000
 				}
 			}
 			region_state:ONT = {
 				create_pop = {
-					culture = dakota
+					culture = dakota1
 					size = 2000
 				}
 			}
@@ -196,23 +196,23 @@ POPS = {
 			}
 			region_state:USA = {
 				create_pop = {
-					culture = dakota
+					culture = dakota1
 					size = 4000
 				}
 			}
 			region_state:LKT = {
 				create_pop = {
-					culture = dakota
+					culture = dakota1
 					size = 4000
 				}
 			}
 			region_state:PWN = {
 				create_pop = {
-					culture = dakota
+					culture = dakota1
 					size = 10000
 				}
 				create_pop = {
-					culture = dakota
+					culture = dakota1
 					size = 2000
 				}
 			}
@@ -220,15 +220,15 @@ POPS = {
 		else = {
 			region_state:USA = {
 				create_pop = {
-					culture = dakota
+					culture = dakota1
 					size = 6000
 				}
 				create_pop = {
-					culture = dakota
+					culture = dakota1
 					size = 10000
 				}
 				create_pop = {
-					culture = dakota
+					culture = dakota1
 					size = 4000
 				}
 			}	

@@ -24,7 +24,7 @@ POPS = {
 	#		}
 	#
 	#		create_pop = {
-	#			culture = latvian
+	#			culture = latvian1
 	#			size = 1002
 	#		}
 	#
@@ -55,11 +55,11 @@ POPS = {
 	#		# NOTE: This isn't accurate, it's here as an example
 	#		create_pop = {
 	#			cultures = {
-	#				latvian = 0.33
+	#				latvian1 = 0.33
 	#				russian = 0.67
 	#			}
 	#			split_# religion = {
-	#				latvian = {
+	#				latvian1 = {
 	#					catholic = 0.5
 	#					orthodox = 0.5
 	#				}

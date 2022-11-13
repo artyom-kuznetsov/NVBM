@@ -44,7 +44,7 @@
 				size = 117192
 			}
 			create_pop = {
-				culture = british
+				culture = british1
 				size = 2792
 			}
 		}
@@ -311,7 +311,7 @@
 				size = 49024
 			}
 			create_pop = {
-				culture = british
+				culture = british1
 				size = 12336
 			}
 			create_pop = {
@@ -426,7 +426,7 @@
 				size = 7996
 			}
 			create_pop = {
-				culture = serb
+				culture = serb1
 				size = 80004
 			}
 			create_pop = {
@@ -460,7 +460,7 @@
 				size = 3000
 			}
 			create_pop = {
-				culture = serb
+				culture = serb1
 				size = 90004
 			}
 			create_pop = {
@@ -482,7 +482,7 @@
 				size = 9000
 			}
 			create_pop = {
-				culture = serb
+				culture = serb1
 				size = 2000
 			}
 			create_pop = {
@@ -520,7 +520,7 @@
 	s:STATE_BOSNIA = {
 		region_state:TUR = {
 			create_pop = {
-				culture = serb
+				culture = serb1
 				size = 304908
 			}
 			create_pop = {
@@ -528,11 +528,11 @@
 				size = 3196
 			}
 			create_pop = {
-				culture = serb
+				culture = serb1
 				size = 372400
 			}
 			create_pop = {
-				culture = serb
+				culture = serb1
 				size = 183996
 			}
 		}
@@ -544,7 +544,7 @@
 				size = 273408
 			}
 			create_pop = {
-				culture = serb
+				culture = serb1
 				size = 497600
 			}
 			create_pop = {
@@ -552,7 +552,7 @@
 				size = 40004
 			}
 			create_pop = {
-				culture = serb
+				culture = serb1
 				# religion = sunni
 				size = 35600
 			}
@@ -569,7 +569,7 @@
 				size = 210404
 			}
 			create_pop = {
-				culture = serb
+				culture = serb1
 				size = 660000
 			}
 			create_pop = {
@@ -581,7 +581,7 @@
 	s:STATE_SLOVENIA = {
 		region_state:AUS = {
 			create_pop = {
-				culture = serb
+				culture = serb1
 				size = 464400
 			}
 			create_pop = {
@@ -593,11 +593,11 @@
 	s:STATE_DALMATIA = {
 		region_state:AUS = {
 			create_pop = {
-				culture = serb
+				culture = serb1
 				size = 297796
 			}
 			create_pop = {
-				culture = serb
+				culture = serb1
 				size = 80000
 			}
 			create_pop = {
@@ -609,11 +609,11 @@
 	s:STATE_CROATIA = {
 		region_state:AUS = {
 			create_pop = {
-				culture = serb
+				culture = serb1
 				size = 563592
 			}
 			create_pop = {
-				culture = czech
+				culture = czech1
 				# religion = catholic
 				size = 20004
 			}
@@ -626,7 +626,7 @@
 				size = 40396
 			}
 			create_pop = {
-				culture = serb
+				culture = serb1
 				size = 176000
 			}
 		}
@@ -634,11 +634,11 @@
 	s:STATE_SLAVONIA = {
 		region_state:AUS = {
 			create_pop = {
-				culture = serb
+				culture = serb1
 				size = 282048
 			}
 			create_pop = {
-				culture = serb
+				culture = serb1
 				size = 48040
 			}
 			create_pop = {
@@ -662,7 +662,7 @@
 				size = 4000
 			}
 			create_pop = {
-				culture = serb
+				culture = serb1
 				size = 344504
 			}
 			create_pop = {
@@ -670,7 +670,7 @@
 				size = 9792
 			}
 			create_pop = {
-				culture = serb
+				culture = serb1
 				size = 124000
 			}
 		}
@@ -678,11 +678,11 @@
 	s:STATE_MONTENEGRO = {
 		region_state:TUR = {
 			create_pop = {
-				culture = serb
+				culture = serb1
 				size = 43196
 			}
 			create_pop = {
-				culture = serb
+				culture = serb1
 				size = 114000
 			}
 			create_pop = {
@@ -692,7 +692,7 @@
 		}
 		region_state:MON = {
 			create_pop = {
-				culture = serb
+				culture = serb1
 				size = 104396
 			}
 			create_pop = {
@@ -704,7 +704,7 @@
 	s:STATE_NORTHERN_SERBIA = {
 		region_state:SER = {
 			create_pop = {
-				culture = serb
+				culture = serb1
 				size = 809604
 			}
 		}
@@ -716,11 +716,11 @@
 				size = 124400
 			}
 			create_pop = {
-				culture = serb
+				culture = serb1
 				size = 22396
 			}
 			create_pop = {
-				culture = serb
+				culture = serb1
 				size = 581800
 			}
 			create_pop = {
@@ -732,7 +732,7 @@
 				size = 192596
 			}
 			create_pop = {
-				culture = serb
+				culture = serb1
 				size = 49404
 			}
 		}
@@ -818,7 +818,7 @@
 				size = 7996
 			}
 			create_pop = {
-				culture = serb
+				culture = serb1
 				size = 384000
 			}
 			create_pop = {
@@ -842,7 +842,7 @@
 				size = 276000
 			}
 			create_pop = {
-				culture = serb
+				culture = serb1
 				size = 28000
 			}
 			create_pop = {
@@ -872,7 +872,7 @@
 				size = 376000
 			}
 			create_pop = {
-				culture = serb
+				culture = serb1
 				size = 80000
 			}
 			create_pop = {
@@ -895,7 +895,7 @@
 				size = 186404
 			}
 			create_pop = {
-				culture = british
+				culture = british1
 				size = 16
 			}
 			create_pop = {

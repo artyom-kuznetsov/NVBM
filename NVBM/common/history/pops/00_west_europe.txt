@@ -229,16 +229,16 @@
 	s:STATE_HOME_COUNTIES = {
 		region_state:GBR = {
 			create_pop = {
-				culture = british
+				culture = british1
 				size = 2657596
 			}
 			create_pop = {
-				culture = british
+				culture = british1
 				# religion = jewish
 				size = 20000
 			}
 			create_pop = {
-				culture = british
+				culture = british1
 				# religion = catholic
 				size = 100000
 			}
@@ -251,11 +251,11 @@
 	s:STATE_LANCASHIRE = {
 		region_state:GBR = {
 			create_pop = {
-				culture = british
+				culture = british1
 				size = 1986404
 			}
 			create_pop = {
-				culture = british
+				culture = british1
 				# religion = catholic
 				size = 85700
 			}
@@ -272,7 +272,7 @@
 				size = 778557
 			}
 			create_pop = {
-				culture = british
+				culture = british1
 				size = 194639
 			}
 		}
@@ -280,7 +280,7 @@
 	s:STATE_YORKSHIRE = {
 		region_state:GBR = {
 			create_pop = {
-				culture = british
+				culture = british1
 				size = 2026592
 			}
 			create_pop = {
@@ -288,7 +288,7 @@
 				size = 16000
 			}
 			create_pop = {
-				culture = british
+				culture = british1
 				# religion = catholic
 				size = 48000
 			}
@@ -297,11 +297,11 @@
 	s:STATE_HIGHLANDS = {
 		region_state:GBR = {
 			create_pop = {
-				culture = british
+				culture = british1
 				size = 672396
 			}
 			create_pop = {
-				culture = british
+				culture = british1
 				# religion = catholic
 				size = 8000
 			}
@@ -310,11 +310,11 @@
 	s:STATE_MIDLANDS = {
 		region_state:GBR = {
 			create_pop = {
-				culture = british
+				culture = british1
 				size = 2543604
 			}
 			create_pop = {
-				culture = british
+				culture = british1
 				# religion = catholic
 				size = 24400
 			}
@@ -327,11 +327,11 @@
 	s:STATE_EAST_ANGLIA = {
 		region_state:GBR = {
 			create_pop = {
-				culture = british
+				culture = british1
 				size = 1565208
 			}
 			create_pop = {
-				culture = british
+				culture = british1
 				# religion = catholic
 				size = 8000
 			}
@@ -340,11 +340,11 @@
 	s:STATE_WEST_COUNTRY = {
 		region_state:GBR = {
 			create_pop = {
-				culture = british
+				culture = british1
 				size = 1969600
 			}
 			create_pop = {
-				culture = british
+				culture = british1
 				# religion = catholic
 				size = 12400
 			}
@@ -357,11 +357,11 @@
 	s:STATE_LOWLANDS = {
 		region_state:GBR = {
 			create_pop = {
-				culture = british
+				culture = british1
 				size = 1397200
 			}
 			create_pop = {
-				culture = british
+				culture = british1
 				# religion = catholic
 				size = 188000
 			}
@@ -378,7 +378,7 @@
 				size = 1183122
 			}
 			create_pop = {
-				culture = british # Anglicans
+				culture = british1 # Anglicans
 				size = 407111
 			}
 			create_pop = {
@@ -387,7 +387,7 @@
 				size = 71843
 			}
 			create_pop = {
-				culture = british  # Presbyterians and Methodists
+				culture = british1  # Presbyterians and Methodists
 				size = 575084
 			}
 			create_pop = {
@@ -404,7 +404,7 @@
 				size = 2214388
 			}
 			create_pop = {
-				culture = british # Anglicans
+				culture = british1 # Anglicans
 				size = 71856
 			}
 			create_pop = {
@@ -413,7 +413,7 @@
 				size = 47904
 			}
 			create_pop = {
-				culture = british  # Presbyterians and Methodists
+				culture = british1  # Presbyterians and Methodists
 				size = 10049
 			}
 			create_pop = {
@@ -430,7 +430,7 @@
 				size = 1677581
 			}
 			create_pop = {
-				culture = british # Anglicans
+				culture = british1 # Anglicans
 				size = 160989
 			}
 			create_pop = {
@@ -439,11 +439,11 @@
 				size = 68994
 			}
 			create_pop = {
-				culture = british  # Presbyterians and Methodists
+				culture = british1  # Presbyterians and Methodists
 				size = 14385
 			}
 			create_pop = {
-				culture = british  # Presbyterians and Methodists
+				culture = british1  # Presbyterians and Methodists
 				size = 4300
 			}
 			create_pop = {
@@ -452,7 +452,7 @@
 				size = 8007
 			}
 			create_pop = {
-				culture = british
+				culture = british1
 				# religion = jewish
 				size = 237
 			}
@@ -465,7 +465,7 @@
 				size = 1319428
 			}
 			create_pop = {
-				culture = british # Anglicans
+				culture = british1 # Anglicans
 				size = 28463
 			}
 			create_pop = {
@@ -474,7 +474,7 @@
 				size = 33413
 			}
 			create_pop = {
-				culture = british  # Presbyterians and Methodists
+				culture = british1  # Presbyterians and Methodists
 				size = 4007
 			}
 			create_pop = {
@@ -800,7 +800,7 @@
 				size = 16000
 			}
 			create_pop = {
-				culture = czech
+				culture = czech1
 				# religion = catholic
 				size = 24000
 			}
@@ -818,7 +818,7 @@
 				size = 1499608
 			}
 			create_pop = {
-				culture = czech
+				culture = czech1
 				# religion = catholic
 				size = 2574808
 			}
@@ -835,7 +835,7 @@
 				size = 480408
 			}
 			create_pop = {
-				culture = czech
+				culture = czech1
 				# religion = catholic
 				size = 1131996
 			}
@@ -856,7 +856,7 @@
 				size = 664796
 			}
 			create_pop = {
-				culture = serb
+				culture = serb1
 				size = 72000
 			}
 		}
