@@ -801,7 +801,7 @@
 				size = 194000
 			}
 			create_pop = {
-				culture = mashriqi
+				culture = bedouin
 				# religion = sunni
 				size = 32000
 			}

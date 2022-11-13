@@ -324,7 +324,7 @@
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = mashriqi
+				culture = bedouin
 				size = 3500
 			}
 			create_pop = {
@@ -333,7 +333,7 @@
 				size = 6700
 			}
 			create_pop = {
-				culture = mashriqi
+				culture = bedouin
 				# religion = sunni
 				size = 36000
 			}

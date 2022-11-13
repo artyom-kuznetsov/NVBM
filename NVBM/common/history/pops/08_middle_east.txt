@@ -12,7 +12,7 @@
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = sudanese
+				culture = bedouine
 				# religion = animist
 				size = 7000
 			}
@@ -50,7 +50,7 @@
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = sudanese
+				culture = bedouine
 				# religion = animist
 				size = 7000
 			}
@@ -70,7 +70,7 @@
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = sudanese
+				culture = bedouine
 				# religion = animist
 				size = 3200
 			}
@@ -113,7 +113,7 @@
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = sudanese
+				culture = bedouine
 				# religion = animist
 				size = 100
 			}
@@ -136,7 +136,7 @@
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = sudanese
+				culture = bedouine
 				# religion = animist
 				size = 2430
 			}
@@ -151,17 +151,17 @@
 		region_state:ZAI = {
 			create_pop = {
 				pop_type = slaves
-				culture = sudanese
+				culture = bedouine
 				# religion = animist
 				size = 32800
 			}
 			create_pop = {
-				culture = yemenite
+				culture = bedouin
 				# religion = shiite
 				size = 630000
 			}
 			create_pop = {
-				culture = yemenite
+				culture = bedouin
 				# religion = sunni
 				size = 221000
 			}
@@ -179,7 +179,7 @@
 		region_state:HDJ = {
 			create_pop = {
 				pop_type = slaves
-				culture = sudanese
+				culture = bedouine
 				# religion = animist
 				size = 8200
 			}
@@ -189,12 +189,12 @@
 				size = 16400
 			}
 			create_pop = {
-				culture = yemenite
+				culture = bedouin
 				# religion = sunni
 				size = 28000
 			}
 			create_pop = {
-				culture = yemenite
+				culture = bedouin
 				# religion = shiite
 				size = 9000
 			}
@@ -211,7 +211,7 @@
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = sudanese
+				culture = bedouine
 				# religion = animist
 				size = 3200
 			}
@@ -223,19 +223,19 @@
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = sudanese
+				culture = bedouine
 				# religion = animist
 				size = 4900
 			}
 		}
 		region_state:LAH = {
 			create_pop = {
-				culture = yemenite
+				culture = bedouin
 				# religion = sunni
 				size = 44000
 			}
 			create_pop = {
-				culture = yemenite
+				culture = bedouin
 				# religion = shiite
 				size = 8000
 			}
@@ -250,7 +250,7 @@
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = sudanese
+				culture = bedouine
 				# religion = animist
 				size = 8100
 			}
@@ -265,7 +265,7 @@
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = sudanese
+				culture = bedouine
 				# religion = animist
 				size = 28000
 			}
@@ -275,12 +275,12 @@
 				size = 3000
 			}
 			create_pop = {
-				culture = mashriqi
+				culture = bedouin
 				# religion = sunni
 				size = 249200
 			}
 			create_pop = {
-				culture = yemenite
+				culture = bedouin
 				# religion = sunni
 				size = 40600
 			}
@@ -309,7 +309,7 @@
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = sudanese
+				culture = bedouine
 				size = 2300
 			}
 		}
@@ -330,7 +330,7 @@
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = sudanese
+				culture = bedouine
 				size = 3600
 			}
 		}
@@ -351,7 +351,7 @@
 				size = 670
 			}
 			create_pop = {
-				culture = mashriqi
+				culture = bedouin
 				# religion = catholic
 				size = 859
 			}
@@ -380,17 +380,17 @@
 				size = 800
 			}
 			create_pop = {
-				culture = mashriqi
+				culture = bedouin
 				# religion = sunni
 				size = 13600
 			}
 			create_pop = {
-				culture = mashriqi
+				culture = bedouin
 				# religion = orthodox
 				size = 5200
 			}
 			create_pop = {
-				culture = mashriqi
+				culture = bedouin
 				# religion = shiite
 				size = 1600
 			}
@@ -409,22 +409,22 @@
 	s:STATE_PALESTINE = {
 		region_state:EGY = {
 			create_pop = {
-				culture = mashriqi
+				culture = bedouin
 				# religion = sunni
 				size = 248000
 			}
 			create_pop = {
-				culture = mashriqi
+				culture = bedouin
 				# religion = shiite
 				size = 8000
 			}
 			create_pop = {
-				culture = mashriqi
+				culture = bedouin
 				# religion = shiite
 				size = 25600
 			}
 			create_pop = {
-				culture = mashriqi
+				culture = bedouin
 				# religion = orthodox
 				size = 58000
 			}
@@ -457,7 +457,7 @@
 	s:STATE_LEBANON = {
 		region_state:EGY = {
 			create_pop = {
-				culture = mashriqi
+				culture = bedouin
 				# religion = sunni
 				size = 88000
 			}
@@ -466,22 +466,22 @@
 				size = 6000
 			}
 			create_pop = {
-				culture = mashriqi
+				culture = bedouin
 				# religion = catholic
 				size = 26000
 			}
 			create_pop = {
-				culture = mashriqi
+				culture = bedouin
 				# religion = shiite
 				size = 128000
 			}
 			create_pop = {
-				culture = mashriqi
+				culture = bedouin
 				# religion = orthodox
 				size = 36000
 			}
 			create_pop = {
-				culture = mashriqi
+				culture = bedouin
 				# religion = shiite
 				size = 78000
 			}
@@ -514,22 +514,22 @@
 	s:STATE_SYRIA = {
 		region_state:EGY = {
 			create_pop = {
-				culture = mashriqi
+				culture = bedouin
 				# religion = shiite
 				size = 25000
 			}
 			create_pop = {
-				culture = mashriqi
+				culture = bedouin
 				# religion = shiite
 				size = 32000
 			}
 			create_pop = {
-				culture = mashriqi
+				culture = bedouin
 				# religion = sunni
 				size = 312000
 			}
 			create_pop = {
-				culture = mashriqi
+				culture = bedouin
 				# religion = orthodox
 				size = 148000
 			}
@@ -557,27 +557,27 @@
 	s:STATE_ALEPPO = {
 		region_state:EGY = {
 			create_pop = {
-				culture = mashriqi
+				culture = bedouin
 				# religion = sunni
 				size = 172000
 			}
 			create_pop = {
-				culture = mashriqi
+				culture = bedouin
 				# religion = shiite
 				size = 84000
 			}
 			create_pop = {
-				culture = mashriqi
+				culture = bedouin
 				# religion = shiite
 				size = 8000
 			}
 			create_pop = {
-				culture = mashriqi
+				culture = bedouin
 				# religion = orthodox
 				size = 32000
 			}
 			create_pop = {
-				culture = mashriqi
+				culture = bedouin
 				# religion = orthodox
 				size = 63000
 			}
@@ -619,17 +619,17 @@
 	s:STATE_BAGHDAD = {
 		region_state:TUR = {
 			create_pop = {
-				culture = mashriqi
+				culture = bedouin
 				# religion = sunni
 				size = 204608
 			}
 			create_pop = {
-				culture = mashriqi
+				culture = bedouin
 				# religion = oriental_orthodox
 				size = 23996
 			}
 			create_pop = {
-				culture = mashriqi
+				culture = bedouin
 				size = 116000
 			}
 			create_pop = {
@@ -646,7 +646,7 @@
 				size = 19996
 			}
 			create_pop = {
-				culture = mashriqi
+				culture = bedouin
 				# religion = orthodox
 				size = 16000
 			}
@@ -678,7 +678,7 @@
 				size = 52000
 			}
 			create_pop = {
-				culture = mashriqi
+				culture = bedouin
 				# religion = sunni
 				size = 194296
 			}
@@ -705,7 +705,7 @@
 	s:STATE_DEIR_EZ_ZOR = {
 		region_state:TUR = {
 			create_pop = {
-				culture = mashriqi
+				culture = bedouin
 				# religion = sunni
 				size = 144000
 			}
@@ -737,11 +737,11 @@
 	s:STATE_BASRA = {
 		region_state:TUR = {
 			create_pop = {
-				culture = mashriqi
+				culture = bedouin
 				size = 272000
 			}
 			create_pop = {
-				culture = mashriqi
+				culture = bedouin
 				# religion = sunni
 				size = 13404
 			}
@@ -803,7 +803,7 @@
 				pop_type = slaves
 			}
 			create_pop = {
-				culture = bambara
+				culture = hausa
 				size = 8720
 				pop_type = slaves
 			}
@@ -823,7 +823,7 @@
 				pop_type = slaves
 			}
 			create_pop = {
-				culture = bambara
+				culture = hausa
 				size = 2200
 				pop_type = slaves
 			}
@@ -878,7 +878,7 @@
 				size = 1004
 			}
 			create_pop = {
-				culture = mashriqi
+				culture = bedouin
 				size = 94996
 			}
 			create_pop = {
@@ -1183,7 +1183,7 @@
 				size = 76381
 			}
 			create_pop = {
-				culture = mashriqi
+				culture = bedouin
 				# religion = sunni
 				size = 29129
 			}
