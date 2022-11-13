@@ -2,7 +2,7 @@
 	s:STATE_SAN_SALVADOR = {
 		region_state:UCA = {
 			create_pop = {
-				culture = central_american
+				culture = mexican
 				size = 428204
 			}
 		}
@@ -10,7 +10,7 @@
 	s:STATE_GUATEMALA = {
 		region_state:UCA = {
 			create_pop = {
-				culture = central_american
+				culture = mexican
 				size = 164404
 			}
 			create_pop = {
@@ -32,7 +32,7 @@
 	s:STATE_HONDURAS = {
 		region_state:UCA = {
 			create_pop = {
-				culture = central_american
+				culture = mexican
 				size = 385204
 			}
 			create_pop = {
@@ -44,7 +44,7 @@
 	s:STATE_NICARAGUA = {
 		region_state:UCA = {
 			create_pop = {
-				culture = central_american
+				culture = mexican
 				size = 284000
 			}
 			create_pop = {
@@ -84,7 +84,7 @@
 	s:STATE_COSTA_RICA = {
 		region_state:UCA = {
 			create_pop = {
-				culture = central_american
+				culture = mexican
 				size = 83992
 			}
 		}
@@ -92,7 +92,7 @@
 	s:STATE_PANAMA = {
 		region_state:CLM = {
 			create_pop = {
-				culture = central_american
+				culture = mexican
 				size = 87792
 			}
 			create_pop = {
@@ -125,7 +125,7 @@
 				size = 40000
 			}
 			create_pop = {
-				culture = caribeno
+				culture = mexican
 				size = 40000
 			}
 		}
@@ -141,7 +141,7 @@
 				size = 24000
 			}
 			create_pop = {
-				culture = caribeno
+				culture = mexican
 				size = 20000
 			}
 		}
@@ -149,7 +149,7 @@
 	s:STATE_PUERTO_RICO = {
 		region_state:SPA = {
 			create_pop = {
-				culture = caribeno
+				culture = mexican
 				size = 182500
 			}
 			create_pop = {
@@ -231,7 +231,7 @@
 		region_state:CUB = {
 			# 896400
 			create_pop = {
-				culture = caribeno
+				culture = mexican
 				size = 461304 # est. "white" population in 1836 of 483308, minus the explicit Spanish pops below
 			}
 			create_pop = {

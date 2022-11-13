@@ -1672,7 +1672,7 @@
 				size = 5562
 			}
 			create_pop = {
-				culture = central_american
+				culture = mexican
 				size = 1854
 			}
 			create_pop = {

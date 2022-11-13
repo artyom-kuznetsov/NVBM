@@ -29,7 +29,7 @@ POPS = {
 	s:STATE_GUAYANA = {
 		region_state:NET = {
 			create_pop = {
-				culture = afro_american
+				culture = afro_caribbean
 				# religion = animist
 				size = 36000
 			}
@@ -42,7 +42,7 @@ POPS = {
 				size = 7796
 			}
 			create_pop = {
-				culture = afro_american
+				culture = afro_caribbean
 				size = 12000
 			}
 		}
@@ -62,7 +62,7 @@ POPS = {
 		}
 		region_state:GBR = {
 			create_pop = {
-				culture = afro_american
+				culture = afro_caribbean
 				size = 92000
 			}
 			create_pop = {
@@ -96,7 +96,7 @@ POPS = {
 				size = 25300
 			}
 			create_pop = {
-				culture = guajiro
+				culture = amazonian
 				size = 4004
 			}
 			
@@ -153,7 +153,7 @@ POPS = {
 				size = 269804
 			}
 			create_pop = {
-				culture = guajiro
+				culture = amazonian
 				size = 12000
 			}
 			create_pop = {
@@ -166,7 +166,7 @@ POPS = {
 				size = 62000
 			}
 			create_pop = {
-				culture = amazonian
+				culture = muisca
 				# religion = catholic
 				size = 32004
 			}
@@ -209,7 +209,7 @@ POPS = {
 				size = 3000
 			}
 			create_pop = {
-				culture = amazonian
+				culture = muisca
 				# religion = catholic
 				size = 44204
 			}
@@ -222,7 +222,7 @@ POPS = {
 				size = 164400
 			}
 			create_pop = {
-				culture = amazonian
+				culture = muisca
 				size = 12000
 			}
 			create_pop = {
@@ -474,7 +474,7 @@ POPS = {
 	s:STATE_URUGUAY = {
 		region_state:URU = {
 			create_pop = {
-				culture = amazonian
+				culture = platinean
 				size = 95192
 			}
 			create_pop = {
@@ -503,13 +503,13 @@ POPS = {
 				size = 48000
 			}
 			create_pop = {
-				culture = amazonian
+				culture = platinean
 				size = 4000
 			}
 		}
 		region_state:ARG = {
 			create_pop = {
-				culture = amazonian
+				culture = platinean
 				size = 29304
 			}
 			create_pop = {
@@ -525,7 +525,7 @@ POPS = {
 				size = 11000
 			}
 			create_pop = {
-				culture = amazonian
+				culture = platinean
 				size = 1030
 			}
 		}
@@ -533,7 +533,7 @@ POPS = {
 	s:STATE_BAJO_PARAGUAY = {
 		region_state:PRG = {
 			create_pop = {
-				culture = amazonian
+				culture = platinean
 				size = 308396
 			}
 			create_pop = {
@@ -559,7 +559,7 @@ POPS = {
 	s:STATE_BUENOS_AIRES = {
 		region_state:ARG = {
 			create_pop = {
-				culture = amazonian
+				culture = platinean
 				size = 206600
 			}
 			create_pop = {
@@ -596,7 +596,7 @@ POPS = {
 				size = 31100
 			}
 			create_pop = {
-				culture = amazonian
+				culture = platinean
 				size = 8000
 			}			
 		}
@@ -608,7 +608,7 @@ POPS = {
 				size = 6880
 			}
 			create_pop = {
-				culture = amazonian
+				culture = platinean
 				size = 6096
 			}
 			create_pop = {
@@ -627,7 +627,7 @@ POPS = {
 				size = 17000
 			}
 			create_pop = {
-				culture = amazonian
+				culture = platinean
 				size = 13900
 			}
 		}
@@ -635,7 +635,7 @@ POPS = {
 	s:STATE_LA_PAMPA = {
 		region_state:ARG = {
 			create_pop = {
-				culture = amazonian
+				culture = platinean
 				size = 159740
 			}
 			create_pop = {
@@ -656,7 +656,7 @@ POPS = {
 	s:STATE_SANTA_FE = {
 		region_state:ARG = {
 			create_pop = {
-				culture = amazonian
+				culture = platinean
 				size = 94658
 			}
 			create_pop = {
@@ -679,7 +679,7 @@ POPS = {
 	s:STATE_CORRIENTES = {
 		region_state:ARG = {
 			create_pop = {
-				culture = amazonian
+				culture = platinean
 				size = 101462
 			}
 			create_pop = {
@@ -704,7 +704,7 @@ POPS = {
 	s:STATE_TUCUMAN = {
 		region_state:ARG = {
 			create_pop = {
-				culture = amazonian
+				culture = platinean
 				size = 76078
 			}
 			create_pop = {
@@ -735,7 +735,7 @@ POPS = {
 		}
 		region_state:ARG = {
 			create_pop = {
-				culture = amazonian
+				culture = platinean
 				size = 34804
 			}
 			create_pop = {
@@ -864,7 +864,7 @@ POPS = {
 				size = 38000
 			}
 			create_pop = {
-				culture = amazonian
+				culture = platinean
 				size = 4000
 			}
 		}
