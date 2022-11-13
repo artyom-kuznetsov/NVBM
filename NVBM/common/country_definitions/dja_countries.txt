@@ -803,6 +803,81 @@ ZAI = {
 	capital = STATE_YEMEN
 }
 
+TIV = { # Tivland
+	color = { 240 213 100 }
+	
+	country_type = decentralized
+	
+	tier = principality
+	
+	cultures = { hausa }
+	capital = STATE_NIGERIA
+}
+
+EWE = {
+	color = { 210 34 131 }
+	country_type = decentralized
+	
+	tier = principality
+	
+	cultures = { hausa }
+	capital = STATE_TOGO
+}
+
+BOR = {
+	color = { 30 131 162 }
+	country_type = unrecognized
+	
+	tier = principality
+	
+	cultures = { kanuri }
+	capital = STATE_BORNU
+}
+
+SRA = { # Sara
+	color = { 179 236 217 }
+	
+	country_type = decentralized
+	
+	tier = principality
+	
+	cultures = { kanuri }
+	capital = STATE_UBANGI_SHARI
+}
+
+TPS = {
+	color = { 232 101 68 }
+	
+	country_type = decentralized
+	
+	tier = principality
+	
+	cultures = { maasai }
+	capital = STATE_EQUATORIA
+}
+
+NBA = { # Nuba
+	color = { 138 187 72 }
+	
+	country_type = decentralized
+	
+	tier = principality
+	
+	cultures = { maasai }
+	capital = STATE_EQUATORIA
+}
+
+EQU = { # Equatoria
+	color = { 236 173 104 }
+	
+	country_type = decentralized
+	
+	tier = principality
+	
+	cultures = { maasai }
+	capital = STATE_EQUATORIA
+}
+
 LAH = {
 	color = { 209  41  41 }
 	
