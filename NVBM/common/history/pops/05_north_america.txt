@@ -1302,7 +1302,7 @@
 		}
 		region_state:COM = {
 			create_pop = {
-				culture = comanche
+				culture = dakota
 				size = 18000
 			}
 			create_pop = {
