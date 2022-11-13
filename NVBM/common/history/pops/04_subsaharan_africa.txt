@@ -227,7 +227,7 @@
 	s:STATE_SIERRA_LEONE = {
 		region_state:SIL = {
 			create_pop = {
-				culture = afro_caribbean
+				culture = afro_american
 				size = 38000
 			}
 			create_pop = {

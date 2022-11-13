@@ -874,7 +874,7 @@
 				size = 800
 			}
 			create_pop = {
-				culture = afro_caribbean
+				culture = afro_american
 				size = 5900
 			}
 		}

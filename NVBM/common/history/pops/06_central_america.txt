@@ -20,7 +20,7 @@
 		}
 		region_state:GBR = {
 			create_pop = {
-				culture = afro_caribbean
+				culture = afro_american
 				size = 7104
 			}
 			create_pop = {
@@ -36,7 +36,7 @@
 				size = 385204
 			}
 			create_pop = {
-				culture = miskito # Cape of Gracias a Dios Miskito
+				culture = afro_american # Cape of Gracias a Dios afro_american
 				size = 3000
 			}
 		}
@@ -48,22 +48,22 @@
 				size = 284000
 			}
 			create_pop = {
-				culture = miskito # Miskito pop. across the 'borders'
+				culture = afro_american # afro_american pop. across the 'borders'
 				size = 4000
 			}
 		}
 		region_state:MKT = {
 			create_pop = {
-				culture = miskito # Tawira Miskito
+				culture = afro_american # Tawira afro_american
 				size = 30000
 			}
 			create_pop = {
-				culture = miskito
+				culture = afro_american
 				# religion = protestant
 				size = 10000
 			}
 			create_pop = {
-				culture = afro_caribbean # Miskito Sambu
+				culture = afro_american # afro_american Sambu
 				size = 20000
 			}
 			create_pop = {
@@ -174,7 +174,7 @@
 				size = 19200
 			}
 			create_pop = {
-				culture = afro_caribbean
+				culture = afro_american
 				size = 100400
 			}
 		}
@@ -196,7 +196,7 @@
 				size = 3992
 			}
 			create_pop = {
-				culture = afro_caribbean
+				culture = afro_american
 				size = 39996
 			}
 		}
@@ -206,7 +206,7 @@
 				size = 34704
 			}
 			create_pop = {
-				culture = afro_caribbean
+				culture = afro_american
 				size = 234768
 			}
 			create_pop = {
@@ -218,7 +218,7 @@
 	s:STATE_JAMAICA = {
 		region_state:GBR = {
 			create_pop = {
-				culture = afro_caribbean
+				culture = afro_american
 				size = 358596
 			}
 			create_pop = {
