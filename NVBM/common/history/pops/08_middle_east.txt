@@ -582,7 +582,7 @@
 				size = 63000
 			}
 			create_pop = {
-				culture = kurdish
+				culture = persian
 				# religion = sunni
 				size = 96000
 			}
@@ -669,7 +669,7 @@
 	s:STATE_MOSUL = {
 		region_state:TUR = {
 			create_pop = {
-				culture = kurdish
+				culture = persian
 				size = 203004
 			}
 			create_pop = {
@@ -715,7 +715,7 @@
 				size = 43996
 			}
 			create_pop = {
-				culture = kurdish
+				culture = persian
 				size = 49600
 			}
 			create_pop = {
@@ -972,12 +972,12 @@
 				size = 112000
 			}
 			create_pop = {
-				culture = kurdish
+				culture = persian
 				# religion = shiite
 				size = 79900
 			}
 			create_pop = {
-				culture = kurdish
+				culture = persian
 				size = 79996
 			}
 			create_pop = {
@@ -1006,11 +1006,11 @@
 				size = 2000
 			}
 			create_pop = {
-				culture = kurdish
+				culture = persian
 				size = 196008
 			}
 			create_pop = {
-				culture = kurdish
+				culture = persian
 				# religion = shiite
 				size = 52000
 			}
@@ -1040,7 +1040,7 @@
 				size = 63277
 			}
 			create_pop = {
-				culture = bulgarian
+				culture = serb
 				size = 931
 			}
 			create_pop = {
@@ -1088,7 +1088,7 @@
 				size = 14059
 			}
 			create_pop = {
-				culture = bulgarian
+				culture = serb
 				size = 240
 			}
 			create_pop = { # "Latins"
@@ -1114,7 +1114,7 @@
 				size = 720204
 			}
 			create_pop = {
-				culture = kurdish
+				culture = persian
 				size = 20102
 			}
 			create_pop = {
@@ -1170,7 +1170,7 @@
 	s:STATE_DIYARBAKIR = {
 		region_state:TUR = {
 			create_pop = {
-				culture = kurdish
+				culture = persian
 				size = 351906
 			}
 			create_pop = {
@@ -1210,7 +1210,7 @@
 				size = 270062
 			}
 			create_pop = {
-				culture = kurdish
+				culture = persian
 				size = 24002
 			}
 			create_pop = {
@@ -1310,7 +1310,7 @@
 				size = 244045
 			}
 			create_pop = {
-				culture = kurdish
+				culture = persian
 				size = 380301
 			}
 			create_pop = {
@@ -1364,7 +1364,7 @@
 				size = 4500
 			}
 			create_pop = {
-				culture = kurdish
+				culture = persian
 				size = 15000
 			}
 			create_pop = {
@@ -1392,7 +1392,7 @@
 				size = 17000
 			}
 			create_pop = {
-				culture = kurdish
+				culture = persian
 				size = 7000
 			}
 			create_pop = {
@@ -1408,7 +1408,7 @@
 				size = 1206365
 			}
 			create_pop = {
-				culture = kurdish
+				culture = persian
 				size = 124470
 			}
 			create_pop = {

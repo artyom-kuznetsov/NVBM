@@ -95,7 +95,7 @@
 				size = 7980
 			}
 			create_pop = {
-				culture = yakut
+				culture = siberian
 				size = 2568
 			}
 		}
@@ -158,11 +158,11 @@
 	s:STATE_OKHOTSK = {
 		region_state:RUS = {
 			create_pop = {
-				culture = yakut
+				culture = siberian
 				size = 43008
 			}
 			create_pop = {
-				culture = yakut
+				culture = siberian
 				# religion = orthodox
 				size = 20196
 			}
@@ -180,11 +180,11 @@
 	s:STATE_YAKUTSK = {
 		region_state:RUS = {
 			create_pop = {
-				culture = yakut
+				culture = siberian
 				size = 41100
 			}
 			create_pop = {
-				culture = yakut
+				culture = siberian
 				# religion = orthodox
 				size = 9000
 			}
@@ -207,7 +207,7 @@
 				size = 122000
 			}
 			create_pop = {
-				culture = yakut
+				culture = siberian
 				size = 5992
 			}
 			create_pop = {
