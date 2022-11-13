@@ -81,7 +81,7 @@
 				size = 20100
 			}
 			create_pop = {
-				culture = kurdish
+				culture = persian
 				size = 8004
 			}
 			create_pop = {
@@ -536,7 +536,7 @@
 				size = 655212
 			}
 			create_pop = {
-				culture = panjabi
+				culture = marathi
 				size = 1992
 			}
 		}
@@ -609,7 +609,7 @@
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = panjabi
+				culture = marathi
 				size = 32000
 			}
 			create_pop = {
@@ -684,7 +684,7 @@
 				size = 100000
 			}
 			create_pop = {
-				culture = kachin
+				culture = burmese
 				size = 54000
 			}
 		}
@@ -701,7 +701,7 @@
 				size = 42000
 			}
 			create_pop = {
-				culture = kachin
+				culture = burmese
 				size = 24000
 			}
 		}
@@ -733,7 +733,7 @@
 				size = 619204
 			}
 			create_pop = {
-				culture = bihari
+				culture = marathi
 				# religion = animist
 				size = 172000
 			}

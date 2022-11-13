@@ -297,11 +297,11 @@
 	s:STATE_HIGHLANDS = {
 		region_state:GBR = {
 			create_pop = {
-				culture = scottish
+				culture = british
 				size = 672396
 			}
 			create_pop = {
-				culture = scottish
+				culture = british
 				# religion = catholic
 				size = 8000
 			}
@@ -357,11 +357,11 @@
 	s:STATE_LOWLANDS = {
 		region_state:GBR = {
 			create_pop = {
-				culture = scottish
+				culture = british
 				size = 1397200
 			}
 			create_pop = {
-				culture = scottish
+				culture = british
 				# religion = catholic
 				size = 188000
 			}
@@ -387,7 +387,7 @@
 				size = 71843
 			}
 			create_pop = {
-				culture = scottish  # Presbyterians and Methodists
+				culture = british  # Presbyterians and Methodists
 				size = 575084
 			}
 			create_pop = {
@@ -443,7 +443,7 @@
 				size = 14385
 			}
 			create_pop = {
-				culture = scottish  # Presbyterians and Methodists
+				culture = british  # Presbyterians and Methodists
 				size = 4300
 			}
 			create_pop = {
@@ -856,7 +856,7 @@
 				size = 664796
 			}
 			create_pop = {
-				culture = slovene
+				culture = serb
 				size = 72000
 			}
 		}

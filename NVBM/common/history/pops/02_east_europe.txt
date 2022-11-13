@@ -347,7 +347,7 @@
 				size = 7996
 			}
 			create_pop = {
-				culture = bulgarian
+				culture = serb
 				size = 12000
 			}
 		}
@@ -798,7 +798,7 @@
 				size = 117004
 			}
 			create_pop = {
-				culture = croat
+				culture = serb
 				size = 20000
 			}
 			create_pop = {
@@ -815,7 +815,7 @@
 				size = 1375796
 			}
 			create_pop = {
-				culture = croat
+				culture = serb
 				size = 60000
 			}
 			create_pop = {
@@ -842,7 +842,7 @@
 				size = 35996
 			}
 			create_pop = {
-				culture = slovene
+				culture = serb
 				size = 59996
 			}
 		}
@@ -866,7 +866,7 @@
 				size = 284196
 			}
 			create_pop = {
-				culture = croat
+				culture = serb
 				size = 36000
 			}
 			create_pop = {
@@ -890,7 +890,7 @@
 				size = 57228
 			}
 			create_pop = {
-				culture = croat
+				culture = serb
 				size = 62296
 			}
 			create_pop = {
@@ -1100,7 +1100,7 @@
 				size = 808396
 			}
 			create_pop = {
-				culture = bulgarian
+				culture = serb
 				size = 12000
 			}
 			create_pop = {
