@@ -46,7 +46,7 @@
 				size = 2741
 			}
 			create_pop = {
-				culture = bedouine
+				culture = bedouin
 				size = 15500
 			}
 			create_pop = {
@@ -55,7 +55,7 @@
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = bedouine
+				culture = bedouin
 				size = 79230
 			}
 		}
@@ -86,12 +86,12 @@
 				size = 402
 			}
 			create_pop = {
-				culture = bedouine
+				culture = bedouin
 				size = 1021
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = bedouine
+				culture = bedouin
 				size = 4102
 			}
 		}
@@ -127,12 +127,12 @@
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = bedouine
+				culture = bedouin
 				size = 2601
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = bedouine
+				culture = bedouin
 				size = 16210
 			}
 		}
@@ -153,12 +153,12 @@
 				size = 13206
 			}
 			create_pop = {
-				culture = bedouine
+				culture = bedouin
 				size = 8123
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = bedouine
+				culture = bedouin
 				size = 1589
 			}
 		}
@@ -205,7 +205,7 @@
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = bedouine
+				culture = bedouin
 				size = 101
 			}
 		}
@@ -235,7 +235,7 @@
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = bedouine
+				culture = bedouin
 				size = 4200
 			}
 		}
@@ -267,7 +267,7 @@
 				size = 156000
 			}
 			create_pop = {
-				culture = bedouine
+				culture = bedouin
 				size = 40004
 			}
 			create_pop = {
@@ -277,7 +277,7 @@
 			# 20-30% of Northern Sudan's population may have been enslaved in the early 19th century
 			create_pop = {
 				pop_type = slaves
-				culture = bedouine
+				culture = bedouin
 				size = 46000
 			}
 			create_pop = {
@@ -290,11 +290,11 @@
 	s:STATE_KORDOFAN = {
 		region_state:EGY = {
 			create_pop = {
-				culture = bedouine
+				culture = bedouin
 				size = 224396
 			}
 			create_pop = {
-				culture = nuba
+				culture = maasai
 				size = 105608
 			}
 			create_pop = {
@@ -303,7 +303,7 @@
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = nuba
+				culture = maasai
 				size = 50400
 			}
 			create_pop = {
@@ -337,7 +337,7 @@
 	s:STATE_BLUE_NILE = {
 		region_state:EGY = {
 			create_pop = {
-				culture = bedouine
+				culture = bedouin
 				size = 307600
 			}
 			create_pop = {
@@ -345,7 +345,7 @@
 				size = 1992
 			}
 			create_pop = {
-				culture = nuba
+				culture = maasai
 				size = 344100
 			}
 			create_pop = {
@@ -366,7 +366,7 @@
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = bedouine
+				culture = bedouin
 				size = 228000
 			}
 		}

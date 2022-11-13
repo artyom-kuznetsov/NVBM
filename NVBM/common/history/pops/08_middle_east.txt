@@ -12,7 +12,7 @@
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = bedouine
+				culture = bedouin
 				# religion = animist
 				size = 7000
 			}
@@ -50,7 +50,7 @@
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = bedouine
+				culture = bedouin
 				# religion = animist
 				size = 7000
 			}
@@ -70,7 +70,7 @@
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = bedouine
+				culture = bedouin
 				# religion = animist
 				size = 3200
 			}
@@ -113,7 +113,7 @@
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = bedouine
+				culture = bedouin
 				# religion = animist
 				size = 100
 			}
@@ -136,7 +136,7 @@
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = bedouine
+				culture = bedouin
 				# religion = animist
 				size = 2430
 			}
@@ -151,7 +151,7 @@
 		region_state:ZAI = {
 			create_pop = {
 				pop_type = slaves
-				culture = bedouine
+				culture = bedouin
 				# religion = animist
 				size = 32800
 			}
@@ -179,7 +179,7 @@
 		region_state:HDJ = {
 			create_pop = {
 				pop_type = slaves
-				culture = bedouine
+				culture = bedouin
 				# religion = animist
 				size = 8200
 			}
@@ -211,7 +211,7 @@
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = bedouine
+				culture = bedouin
 				# religion = animist
 				size = 3200
 			}
@@ -223,7 +223,7 @@
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = bedouine
+				culture = bedouin
 				# religion = animist
 				size = 4900
 			}
@@ -250,7 +250,7 @@
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = bedouine
+				culture = bedouin
 				# religion = animist
 				size = 8100
 			}
@@ -265,7 +265,7 @@
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = bedouine
+				culture = bedouin
 				# religion = animist
 				size = 28000
 			}
@@ -309,7 +309,7 @@
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = bedouine
+				culture = bedouin
 				size = 2300
 			}
 		}
@@ -330,7 +330,7 @@
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = bedouine
+				culture = bedouin
 				size = 3600
 			}
 		}
