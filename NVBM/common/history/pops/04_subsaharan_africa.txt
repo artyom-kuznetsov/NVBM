@@ -408,12 +408,12 @@
 				size = 268000
 			}
 			create_pop = {
-				culture = tiv
+				culture = hausa
 				size = 186000
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = tiv
+				culture = hausa
 				size = 186000
 			}
 		}
@@ -548,7 +548,7 @@
 	s:STATE_NIGERIA = {
 		region_state:SOK = {
 			create_pop = {
-				culture = tiv
+				culture = hausa
 				size = 173200
 			}
 			create_pop = {
@@ -575,7 +575,7 @@
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = tiv
+				culture = hausa
 				size = 10000
 			}
 			create_pop = {
@@ -711,7 +711,7 @@
 				size = 4844
 			}
 			create_pop = {
-				culture = ewe
+				culture = hausa
 				size = 6984
 			}
 		}
@@ -735,12 +735,12 @@
 				size = 43996
 			}
 			create_pop = {
-				culture = ewe
+				culture = hausa
 				size = 88996
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = ewe
+				culture = hausa
 				size = 15000
 			}
 		}
@@ -752,7 +752,7 @@
 				size = 116308
 			}
 			create_pop = {
-				culture = ewe
+				culture = hausa
 				size = 115996
 			}
 			create_pop = {
@@ -762,7 +762,7 @@
 		}
 		region_state:ASH = {
 			create_pop = {
-				culture = ewe
+				culture = hausa
 				size = 20000
 			}
 			create_pop = {
@@ -785,12 +785,12 @@
 		}
 		region_state:EWE = {
 			create_pop = {
-				culture = ewe
+				culture = hausa
 				size = 355996
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = ewe
+				culture = hausa
 				size = 28000
 			}
 		}
@@ -1067,7 +1067,7 @@
 				size = 3000
 			}
 		}
-		region_state:maasai = {
+		region_state:LUO = {
 			create_pop = {
 				culture = maasai
 				size = 102404
@@ -1080,7 +1080,7 @@
 		}
 		region_state:TRK = {
 			create_pop = {
-				culture = nilotic
+				culture = maasai
 				size = 155800
 			}
 			create_pop = {
@@ -1089,7 +1089,7 @@
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = nilotic
+				culture = maasai
 				size = 13000
 			}
 			create_pop = {
@@ -1592,11 +1592,11 @@
 	s:STATE_EQUATORIA = {
 		region_state:DNK = {
 			create_pop = {
-				culture = nilotic
+				culture = maasai
 				size = 80360
 			}
 			create_pop = {
-				culture = bedouine
+				culture = bedouin
 				size = 6000
 			}
 			create_pop = {
@@ -1612,17 +1612,17 @@
 				size = 26000
 			}
 			create_pop = {
-				culture = nuba
+				culture = maasai
 				size = 19000
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = nilotic
+				culture = maasai
 				size = 4000
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = bedouine
+				culture = bedouin
 				size = 2000
 			}
 			create_pop = {
@@ -1642,7 +1642,7 @@
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = nuba
+				culture = maasai
 				size = 1000
 			}
 		}
@@ -1652,22 +1652,22 @@
 				size = 188000
 			}
 			create_pop = {
-				culture = bedouine
+				culture = bedouin
 				size = 4000
 			}
 			create_pop = {
-				culture = nuba
+				culture = maasai
 				size = 37004
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = nuba
+				culture = maasai
 				size = 15000
 			}
 		}
 		region_state:DFT = {
 			create_pop = {
-				culture = nilotic
+				culture = maasai
 				size = 48036
 			}
 			create_pop = {
@@ -1695,12 +1695,12 @@
 		}
 		region_state:TPS = {
 			create_pop = {
-				culture = nilotic
+				culture = maasai
 				size = 76000
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = nilotic
+				culture = maasai
 				size = 4000
 			}
 		}
@@ -1776,12 +1776,12 @@
 				size = 32000
 			}
 			create_pop = {
-				culture = sara
+				culture = kanuri
 				size = 68000
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = sara
+				culture = kanuri
 				size = 8000
 			}
 		}
@@ -1876,7 +1876,7 @@
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = sara
+				culture = kanuri
 				size = 12000
 			}
 			create_pop = {
