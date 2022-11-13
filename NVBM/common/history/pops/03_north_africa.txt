@@ -42,7 +42,7 @@
 				size = 26410
 			}
 			create_pop = {
-				culture = armenian
+				culture = georgian
 				size = 2741
 			}
 			create_pop = {
@@ -271,7 +271,7 @@
 				size = 40004
 			}
 			create_pop = {
-				culture = beja
+				culture = maasai
 				size = 82000
 			}
 			# 20-30% of Northern Sudan's population may have been enslaved in the early 19th century
@@ -282,7 +282,7 @@
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = beja
+				culture = maasai
 				size = 40000
 			}
 		}
@@ -361,7 +361,7 @@
 				size = 60000
 			}
 			create_pop = {
-				culture = beja
+				culture = maasai
 				size = 16000
 			}
 			create_pop = {
@@ -560,7 +560,7 @@
 				size = 19204
 			}
 			create_pop = {
-				culture = maltese
+				culture = south_italian
 				size = 2000
 			}
 			create_pop = {
@@ -721,12 +721,12 @@
 				size = 52000
 			}
 			create_pop = {
-				culture = haratin
+				culture = hausa
 				size = 22000
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = haratin
+				culture = hausa
 				size = 10000
 			}
 		}
@@ -736,12 +736,12 @@
 				size = 80000
 			}
 			create_pop = {
-				culture = haratin
+				culture = hausa
 				size = 40000
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = haratin
+				culture = hausa
 				size = 4000
 			}
 		}
@@ -755,7 +755,7 @@
 				size = 33000
 			}
 			create_pop = {
-				culture = haratin
+				culture = hausa
 				size = 28000
 			}
 			create_pop = {
@@ -770,7 +770,7 @@
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = haratin
+				culture = hausa
 				size = 4000
 			}
 		}

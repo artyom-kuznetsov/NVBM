@@ -26,11 +26,11 @@
 				size = 158000
 			}
 			create_pop = {
-				culture = swahili
+				culture = lacustrine_bantu
 				size = 8400
 			}
 			create_pop = {
-				culture = baluchi
+				culture = kazak
 				size = 9200
 			}
 			create_pop = {
@@ -107,7 +107,7 @@
 				size = 100
 			}
 			create_pop = {
-				culture = baluchi
+				culture = kazak
 				# religion = shiite
 				size = 230
 			}
@@ -439,7 +439,7 @@
 				size = 18000
 			}
 			create_pop = {
-				culture = armenian
+				culture = georgian
 				size = 1400
 			}
 			create_pop = {
@@ -486,12 +486,12 @@
 				size = 78000
 			}
 			create_pop = {
-				culture = armenian
+				culture = georgian
 				# religion = catholic
 				size = 4000
 			}
 			create_pop = {
-				culture = armenian
+				culture = georgian
 				size = 1000
 			}
 			create_pop = {
@@ -587,7 +587,7 @@
 				size = 96000
 			}
 			create_pop = {
-				culture = armenian
+				culture = georgian
 				size = 29000
 			}
 			create_pop = {
@@ -777,7 +777,7 @@
 				size = 1004
 			}
 			create_pop = {
-				culture = baluchi
+				culture = kazak
 				size = 36000
 			}
 			create_pop = {
@@ -836,7 +836,7 @@
 				size = 113192
 			}
 			create_pop = {
-				culture = baluchi
+				culture = kazak
 				size = 82300
 			}
 			create_pop = {
@@ -857,7 +857,7 @@
 				size = 1004
 			}
 			create_pop = {
-				culture = turkmen
+				culture = kazak
 				size = 79996
 			}
 			create_pop = {
@@ -899,11 +899,11 @@
 				size = 2996
 			}
 			create_pop = {
-				culture = armenian
+				culture = georgian
 				size = 13996
 			}
 			create_pop = {
-				culture = armenian
+				culture = georgian
 				size = 39648
 				pop_type = slaves
 			}
@@ -916,7 +916,7 @@
 				size = 416996
 			}
 			create_pop = {
-				culture = turkmen
+				culture = kazak
 				size = 36000
 			}
 			create_pop = {
@@ -937,11 +937,11 @@
 				size = 2000
 			}
 			create_pop = {
-				culture = armenian
+				culture = georgian
 				size = 5996
 			}
 			create_pop = {
-				culture = armenian
+				culture = georgian
 				size = 25887
 				pop_type = slaves
 			}
@@ -981,7 +981,7 @@
 				size = 79996
 			}
 			create_pop = {
-				culture = armenian
+				culture = georgian
 				size = 5996
 			}
 			create_pop = {
@@ -1002,7 +1002,7 @@
 				size = 343204
 			}
 			create_pop = {
-				culture = armenian
+				culture = georgian
 				size = 2000
 			}
 			create_pop = {
@@ -1019,7 +1019,7 @@
 				size = 2996
 			}
 			create_pop = {
-				culture = armenian
+				culture = georgian
 				size = 23848
 				pop_type = slaves
 			}
@@ -1036,7 +1036,7 @@
 				size = 2010
 			}
 			create_pop = {
-				culture = armenian
+				culture = georgian
 				size = 63277
 			}
 			create_pop = {
@@ -1071,7 +1071,7 @@
 				size = 598129
 			}
 			create_pop = {
-				culture = armenian
+				culture = georgian
 				size = 7368
 			}
 			create_pop = {
@@ -1118,7 +1118,7 @@
 				size = 20102
 			}
 			create_pop = {
-				culture = armenian
+				culture = georgian
 				size = 9020
 			}
 			create_pop = {
@@ -1152,7 +1152,7 @@
 				size = 16426
 			}
 			create_pop = {
-				culture = armenian
+				culture = georgian
 				size = 404
 			}
 			create_pop = {
@@ -1188,7 +1188,7 @@
 				size = 29129
 			}
 			create_pop = {
-				culture = armenian
+				culture = georgian
 				size = 219482
 			}
 			create_pop = {
@@ -1214,7 +1214,7 @@
 				size = 24002
 			}
 			create_pop = {
-				culture = armenian
+				culture = georgian
 				size = 33596
 			}
 			create_pop = {
@@ -1243,7 +1243,7 @@
 				size = 30012
 			}
 			create_pop = {
-				culture = armenian
+				culture = georgian
 				size = 2010
 			}
 			create_pop = {
@@ -1269,11 +1269,11 @@
 				size = 678712
 			}
 			create_pop = {
-				culture = armenian
+				culture = georgian
 				size = 36003
 			}
 			create_pop = { # Hemshin
-				culture = armenian
+				culture = georgian
 				# religion = sunni
 				size = 10103
 			}
@@ -1322,11 +1322,11 @@
 				size = 160
 			}
 			create_pop = {
-				culture = armenian
+				culture = georgian
 				size = 255800
 			}
 			create_pop = {
-				culture = armenian
+				culture = georgian
 				# religion = catholic
 				size = 4010
 			}
@@ -1368,7 +1368,7 @@
 				size = 15000
 			}
 			create_pop = {
-				culture = armenian
+				culture = georgian
 				size = 28500
 			}
 			create_pop = {
@@ -1396,7 +1396,7 @@
 				size = 7000
 			}
 			create_pop = {
-				culture = armenian
+				culture = georgian
 				size = 11000
 			}
 		}
@@ -1416,11 +1416,11 @@
 				size = 89187
 			}
 			create_pop = {
-				culture = armenian
+				culture = georgian
 				size = 153262
 			}
 			create_pop = {
-				culture = armenian
+				culture = georgian
 				# religion = catholic
 				size = 4201
 			}

@@ -2,11 +2,11 @@
 	s:STATE_DZUNGARIA = {
 		region_state:CHI = {
 			create_pop = {
-				culture = uighur
+				culture = kazak
 				size = 412588
 			}
 			create_pop = {
-				culture = kirgiz
+				culture = kazak
 				# religion = animist
 				size = 15996
 			}
@@ -23,15 +23,15 @@
 	s:STATE_TIANSHAN = {
 		region_state:CHI = {
 			create_pop = {
-				culture = uighur
+				culture = kazak
 				size = 684180
 			}
 			create_pop = {
-				culture = uzbek
+				culture = kazak
 				size = 3996
 			}
 			create_pop = {
-				culture = kirgiz
+				culture = kazak
 				# religion = animist
 				size = 32072
 			}
@@ -45,7 +45,7 @@
 				size = 16196
 			}
 			create_pop = {
-				culture = tajik
+				culture = kazak
 				size = 8004
 			}
 		}

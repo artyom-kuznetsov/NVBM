@@ -3,12 +3,12 @@ POPS = {
 	#s:STATE_MINSK = {
 	#	region_state:RUS = {
 	#		create_pop = {
-	#			culture = byelorussian
+	#			culture = russian
 	#			size = 176925
 	#		}
 	#
 	#		create_pop = {
-	#			culture = ukrainian
+	#			culture = russian
 	#			size = 24700
 	#		}
 	#
@@ -24,7 +24,7 @@ POPS = {
 	#		}
 	#
 	#		create_pop = {
-	#			culture = lithuanian
+	#			culture = latvian
 	#			size = 1002
 	#		}
 	#
@@ -55,11 +55,11 @@ POPS = {
 	#		# NOTE: This isn't accurate, it's here as an example
 	#		create_pop = {
 	#			cultures = {
-	#				lithuanian = 0.33
+	#				latvian = 0.33
 	#				russian = 0.67
 	#			}
 	#			split_# religion = {
-	#				lithuanian = {
+	#				latvian = {
 	#					catholic = 0.5
 	#					orthodox = 0.5
 	#				}

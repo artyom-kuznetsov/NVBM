@@ -40,7 +40,7 @@
 	s:STATE_MALTA = {
 		region_state:GBR = {
 			create_pop = {
-				culture = maltese
+				culture = south_italian
 				size = 117192
 			}
 			create_pop = {
@@ -200,7 +200,7 @@
 		# 840792
 		region_state:SPA = {
 			create_pop = {
-				culture = galician
+				culture = portuguese
 				size = 828528
 			}
 			create_pop = {
@@ -217,7 +217,7 @@
 				size = 614264
 			}
 			create_pop = {
-				culture = basque
+				culture = catalan
 				size = 32000
 			}
 		}	
@@ -229,7 +229,7 @@
 				size = 1430808
 			}
 			create_pop = {
-				culture = basque
+				culture = catalan
 				size = 4000
 			}
 		}
@@ -245,7 +245,7 @@
 				size = 32220
 			}
 			create_pop = {
-				culture = basque
+				culture = catalan
 				size = 700060
 			}
 		}
@@ -257,7 +257,7 @@
 				size = 401200
 			}
 			create_pop = {
-				culture = basque
+				culture = catalan
 				size = 100008
 			}
 			create_pop = {
@@ -430,7 +430,7 @@
 				size = 80004
 			}
 			create_pop = {
-				culture = armenian
+				culture = georgian
 				size = 67996
 			}
 			create_pop = {
@@ -456,7 +456,7 @@
 				size = 59044
 			}
 			create_pop = {
-				culture = ukrainian
+				culture = russian
 				size = 3000
 			}
 			create_pop = {
@@ -478,7 +478,7 @@
 				size = 2560
 			}
 			create_pop = {
-				culture = ukrainian
+				culture = russian
 				size = 9000
 			}
 			create_pop = {

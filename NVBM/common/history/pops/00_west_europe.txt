@@ -70,7 +70,7 @@
 	s:STATE_JUTLAND = {
 		region_state:DEN = {
 			create_pop = {
-				culture = danish
+				culture = swedish
 				size = 548908
 			}
 		}
@@ -78,7 +78,7 @@
 	s:STATE_ZEALAND = {
 		region_state:DEN = {
 			create_pop = {
-				culture = danish
+				culture = swedish
 				size = 647996
 			}
 			create_pop = {
@@ -94,7 +94,7 @@
 	s:STATE_WESTERN_NORWAY = {
 		region_state:NOR = {
 			create_pop = {
-				culture = norwegian
+				culture = swedish
 				size = 546800
 			}
 		}
@@ -102,7 +102,7 @@
 	s:STATE_NORTHERN_NORWAY = {
 		region_state:NOR = {
 			create_pop = {
-				culture = norwegian
+				culture = swedish
 				size = 284860
 			}
 			create_pop = {
@@ -118,7 +118,7 @@
 	s:STATE_EASTERN_NORWAY = {
 		region_state:NOR = {
 			create_pop = {
-				culture = norwegian
+				culture = swedish
 				size = 345800
 			}
 			create_pop = {
@@ -130,11 +130,11 @@
 	s:STATE_ICELAND = {
 		region_state:DEN = {
 			create_pop = {
-				culture = icelandic
+				culture = swedish
 				size = 63200
 			}
 			create_pop = {
-				culture = danish
+				culture = swedish
 				size = 520
 			}
 		}
@@ -142,7 +142,7 @@
 	s:STATE_GREENLAND = {
 		region_state:DEN = {
 			create_pop = {
-				culture = danish
+				culture = swedish
 				size = 410
 			}
 			create_pop = {
@@ -504,7 +504,7 @@
 		}
 		region_state:FRA = {
 			create_pop = {
-				culture = occitan
+				culture = french
 				size = 1362200
 			}
 		}
@@ -520,7 +520,7 @@
 	s:STATE_LANGUEDOC = {
 		region_state:FRA = {
 			create_pop = {
-				culture = occitan
+				culture = french
 				size = 1517200
 			}
 			create_pop = {
@@ -536,7 +536,7 @@
 				size = 1753794
 			}
 			create_pop = {
-				culture = occitan
+				culture = french
 				size = 584598
 			}
 			create_pop = {
@@ -560,7 +560,7 @@
 				size = 2238408
 			}
 			create_pop = {
-				culture = flemish
+				culture = dutch
 				size = 71200
 			}
 		}
@@ -597,7 +597,7 @@
 	s:STATE_ARMAGNAC = {
 		region_state:FRA = {
 			create_pop = {
-				culture = occitan
+				culture = french
 				size = 1564400
 			}
 		}
@@ -605,7 +605,7 @@
 	s:STATE_LIMOUSIN = {
 		region_state:FRA = {
 			create_pop = {
-				culture = occitan
+				culture = french
 				size = 1280010
 			}
 			create_pop = {
@@ -661,7 +661,7 @@
 	s:STATE_AUVERGNE = {
 		region_state:FRA = {
 			create_pop = {
-				culture = occitan
+				culture = french
 				size = 1442392
 			}
 		}
@@ -669,11 +669,11 @@
 	s:STATE_AQUITAINE = {
 		region_state:FRA = {
 			create_pop = {
-				culture = occitan
+				culture = french
 				size = 1546844
 			}
 			create_pop = {
-				culture = basque
+				culture = catalan
 				size = 180000
 			}
 		}
@@ -693,7 +693,7 @@
 				size = 1096204
 			}
 			create_pop = {
-				culture = flemish
+				culture = dutch
 				size = 21400
 			}
 			create_pop = {
@@ -729,7 +729,7 @@
 				size = 3000
 			}
 			create_pop = {
-				culture = flemish
+				culture = dutch
 				size = 17200
 			}
 			create_pop = {
@@ -760,7 +760,7 @@
 				size = 36000
 			}
 			create_pop = {
-				culture = flemish
+				culture = dutch
 				size = 132800
 			}
 			create_pop = {
@@ -772,7 +772,7 @@
 	s:STATE_FLANDERS = {
 		region_state:BEL = {
 			create_pop = {
-				culture = flemish
+				culture = dutch
 				size = 2317000
 			}
 			create_pop = {
@@ -1114,7 +1114,7 @@
 				size = 8000
 			}
 			create_pop = {
-				culture = danish
+				culture = swedish
 				size = 20000
 			}
 		}
@@ -1135,7 +1135,7 @@
 				size = 200000
 			}
 			create_pop = {
-				culture = danish
+				culture = swedish
 				size = 136404
 			}
 		}

@@ -439,7 +439,7 @@
 				size = 249384
 			}
 			create_pop = {
-				culture = pashtun
+				culture = kazak
 				size = 37727
 			}
 		}
@@ -851,7 +851,7 @@
 				size = 68000
 			}
 			create_pop = {
-				culture = swahili
+				culture = lacustrine_bantu
 				size = 2000
 			}
 			create_pop = {

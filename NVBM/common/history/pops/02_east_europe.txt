@@ -51,21 +51,21 @@
 				size = 143992
 			}
 			create_pop = {
-				culture = byelorussian
+				culture = russian
 				size = 698996
 			}
 			create_pop = {
-				culture = lithuanian
+				culture = latvian
 				# religion = orthodox
 				size = 20000
 			}
 			create_pop = {
-				culture = byelorussian
+				culture = russian
 				# religion = catholic
 				size = 300000
 			}
 			create_pop = {
-				culture = ukrainian
+				culture = russian
 				size = 180400
 			}
 			create_pop = {
@@ -73,7 +73,7 @@
 				size = 200000
 			}
 			create_pop = {
-				culture = lithuanian
+				culture = latvian
 				size = 95996
 			}
 		}
@@ -85,7 +85,7 @@
 				size = 140004
 			}
 			create_pop = {
-				culture = ukrainian
+				culture = russian
 				size = 1093200
 			}
 			create_pop = {
@@ -101,7 +101,7 @@
 	s:STATE_KIEV = {
 		region_state:RUS = {
 			create_pop = {
-				culture = ukrainian
+				culture = russian
 				size = 3923992
 			}
 			create_pop = {
@@ -129,11 +129,11 @@
 				size = 10800
 			}
 			create_pop = {
-				culture = ukrainian
+				culture = russian
 				size = 344004
 			}
 			create_pop = {
-				culture = byelorussian
+				culture = russian
 				size = 80000
 			}
 		}
@@ -162,7 +162,7 @@
 				size = 88400
 			}
 			create_pop = {
-				culture = byelorussian
+				culture = russian
 				size = 1753376
 			}
 			create_pop = {
@@ -170,7 +170,7 @@
 				size = 260004
 			}
 			create_pop = {
-				culture = lithuanian
+				culture = latvian
 				size = 256000
 			}
 			create_pop = {
@@ -238,7 +238,7 @@
 				size = 28004
 			}
 			create_pop = {
-				culture = ukrainian
+				culture = russian
 				size = 11996
 			}
 			create_pop = {
@@ -254,7 +254,7 @@
 	s:STATE_LUHANSK = {
 		region_state:RUS = {
 			create_pop = {
-				culture = ukrainian
+				culture = russian
 				size = 1914584
 			}
 			create_pop = {
@@ -286,7 +286,7 @@
 				size = 2295600
 			}
 			create_pop = {
-				culture = ukrainian
+				culture = russian
 				size = 1428000
 			}
 		}
@@ -311,7 +311,7 @@
 	s:STATE_CHERSON = {
 		region_state:RUS = {
 			create_pop = {
-				culture = ukrainian
+				culture = russian
 				size = 986108
 			}
 			create_pop = {
@@ -372,11 +372,11 @@
 				size = 139932
 			}
 			create_pop = {
-				culture = byelorussian
+				culture = russian
 				size = 707700
 			}
 			create_pop = {
-				culture = ukrainian
+				culture = russian
 				size = 98800
 			}
 			create_pop = {
@@ -384,7 +384,7 @@
 				size = 104400
 			}
 			create_pop = {
-				culture = lithuanian
+				culture = latvian
 				size = 4008
 			}
 			create_pop = {
@@ -396,7 +396,7 @@
 	s:STATE_ROSTOV = {
 		region_state:RUS = {
 			create_pop = {
-				culture = ukrainian
+				culture = russian
 				size = 356600
 			}
 			create_pop = {
@@ -498,7 +498,7 @@
 				size = 111796
 			}
 			create_pop = {
-				culture = lithuanian
+				culture = latvian
 				size = 729000
 			}
 			create_pop = {
@@ -522,7 +522,7 @@
 				size = 1676000
 			}
 			create_pop = {
-				culture = lithuanian
+				culture = latvian
 				size = 20000
 			}
 			create_pop = {
@@ -603,7 +603,7 @@
 				size = 119212
 			}
 			create_pop = {
-				culture = ukrainian
+				culture = russian
 				size = 88000
 			}
 			create_pop = {
@@ -649,7 +649,7 @@
 				size = 2600
 			}
 			create_pop = {
-				culture = lithuanian
+				culture = latvian
 				# religion = protestant
 				size = 117196
 			}
@@ -697,7 +697,7 @@
 				size = 28000
 			}
 			create_pop = {
-				culture = ukrainian
+				culture = russian
 				size = 152000
 			}
 			create_pop = {
@@ -719,7 +719,7 @@
 				size = 32004
 			}
 			create_pop = {
-				culture = ukrainian
+				culture = russian
 				size = 16000
 			}
 		}
@@ -731,7 +731,7 @@
 				size = 832800
 			}
 			create_pop = {
-				culture = ukrainian
+				culture = russian
 				size = 1544404
 			}
 			create_pop = {
@@ -765,7 +765,7 @@
 				size = 71996
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				size = 31996
 			}
 		}
@@ -833,7 +833,7 @@
 				size = 1100
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				size = 128000
 			}
 			create_pop = {
@@ -858,7 +858,7 @@
 				size = 160000
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				size = 40000
 			}
 			create_pop = {
@@ -924,11 +924,11 @@
 				size = 152800
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				size = 1140796
 			}
 			create_pop = {
-				culture = ukrainian
+				culture = russian
 				size = 244000
 			}
 			create_pop = {
@@ -953,7 +953,7 @@
 				size = 150848
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				size = 606000
 			}
 			create_pop = {
@@ -961,7 +961,7 @@
 				size = 4000
 			}
 			create_pop = {
-				culture = ukrainian
+				culture = russian
 				size = 164000
 			}
 			create_pop = {
@@ -1060,7 +1060,7 @@
 				size = 11996
 			}
 			create_pop = {
-				culture = ukrainian
+				culture = russian
 				size = 144400
 			}
 			create_pop = {
@@ -1113,7 +1113,7 @@
 				size = 32000
 			}
 			create_pop = {
-				culture = ukrainian
+				culture = russian
 				size = 40000
 			}
 		}
