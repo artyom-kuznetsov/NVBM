@@ -6,7 +6,7 @@ POPS = {
 			}
 			region_state:USA = {
 				create_pop = {
-					culture = siouan
+					culture = dakota
 					size = 7000
 				}
 				create_pop = {
@@ -16,13 +16,13 @@ POPS = {
 			}
 			region_state:ORG = {
 				create_pop = {
-					culture = siouan
+					culture = dakota
 					size = 3000
 				}
 			}
 			region_state:ABS = {
 				create_pop = {
-					culture = siouan
+					culture = dakota
 					size = 28000
 				}
 			}
@@ -34,7 +34,7 @@ POPS = {
 			}
 			region_state:BLF = {
 				create_pop = {
-					culture = siouan
+					culture = dakota
 					size = 14000
 				}
 			}
@@ -42,7 +42,7 @@ POPS = {
 		else = {
 			region_state:USA = {
 				create_pop = {
-					culture = siouan
+					culture = dakota
 					size = 52000
 				}
 				create_pop = {
@@ -52,7 +52,7 @@ POPS = {
 			}
 			region_state:ORG = {
 				create_pop = {
-					culture = siouan
+					culture = dakota
 					size = 3000
 				}
 			}
@@ -65,17 +65,17 @@ POPS = {
 				size = 8000
 			}		
 			create_pop = {
-				culture = salish
+				culture = dakota
 				size = 27396
 			}
 			create_pop = {
-				culture = athabaskan
+				culture = dakota
 				size = 25200
 			}
 		}
 		region_state:HBC = {
 			create_pop = {
-				culture = athabaskan
+				culture = dakota
 				size = 30000
 			}
 		}
@@ -87,7 +87,7 @@ POPS = {
 			}
 			region_state:USA = {
 				create_pop = {
-					culture = siouan
+					culture = dakota
 					size = 6000
 				}
 			}
@@ -97,7 +97,7 @@ POPS = {
 					size = 30000
 				}
 				create_pop = {
-					culture = siouan
+					culture = dakota
 					size = 4000
 				}
 			}
@@ -105,7 +105,7 @@ POPS = {
 		else = {
 			region_state:USA = {
 				create_pop = {
-					culture = siouan
+					culture = dakota
 					size = 10000
 				}
 				create_pop = {
@@ -128,7 +128,7 @@ POPS = {
 			}
 			region_state:USA = {
 				create_pop = {
-					culture = siouan
+					culture = dakota
 					size = 4000
 				}
 			}
@@ -136,7 +136,7 @@ POPS = {
 		else = {
 			region_state:USA = {
 				create_pop = {
-					culture = siouan
+					culture = dakota
 					size = 4000
 				}
 				create_pop = {
@@ -153,13 +153,13 @@ POPS = {
 				}
 			region_state:USA = {
 				create_pop = {
-					culture = algonquian
+					culture = dakota
 					size = 14000
 				}
 			}
 			region_state:ONT = {
 				create_pop = {
-					culture = algonquian
+					culture = dakota
 					size = 2000
 				}
 			}
@@ -173,7 +173,7 @@ POPS = {
 		else = {
 			region_state:USA = {
 				create_pop = {
-					culture = algonquian
+					culture = dakota
 					size = 14000
 				}
 				create_pop = {
@@ -183,7 +183,7 @@ POPS = {
 			}
 			region_state:ONT = {
 				create_pop = {
-					culture = algonquian
+					culture = dakota
 					size = 2000
 				}
 			}
@@ -196,7 +196,7 @@ POPS = {
 			}
 			region_state:USA = {
 				create_pop = {
-					culture = siouan
+					culture = dakota
 					size = 4000
 				}
 			}
@@ -208,11 +208,11 @@ POPS = {
 			}
 			region_state:PWN = {
 				create_pop = {
-					culture = caddoan
+					culture = dakota
 					size = 10000
 				}
 				create_pop = {
-					culture = siouan
+					culture = dakota
 					size = 2000
 				}
 			}
@@ -220,11 +220,11 @@ POPS = {
 		else = {
 			region_state:USA = {
 				create_pop = {
-					culture = siouan
+					culture = dakota
 					size = 6000
 				}
 				create_pop = {
-					culture = caddoan
+					culture = dakota
 					size = 10000
 				}
 				create_pop = {
