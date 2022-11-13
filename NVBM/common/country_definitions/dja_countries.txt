@@ -282,6 +282,613 @@ APC = { # Apacheria
 	capital = STATE_NEW_MEXICO
 }
 
+ACH = {
+	color = { 166 225 217 }
+	
+	country_type = unrecognized
+	
+	tier = principality
+	
+	cultures = { maasai lacustrine_bantu }
+	capital = STATE_UGANDA
+}
+
+
+LUO = {
+	color = { 153 153 168 }
+	
+	country_type = decentralized
+	
+	tier = principality
+	
+	cultures = { maasai }
+	capital = STATE_RIFT_VALLEY
+}
+
+NUE = {
+	color = { 230 227 240 }
+	
+	country_type = decentralized
+	
+	tier = principality
+	
+	cultures = { maasai }
+	capital = STATE_EQUATORIA
+}
+
+ZND = {
+	color = { 208 225 57 }
+	
+	country_type = decentralized
+	
+	tier = principality
+	
+	cultures = { maasai }
+	capital = STATE_CONGO_ORIENTALE
+}
+
+DFR = {
+	color = { 44 160 70 }
+	
+	country_type = unrecognized
+	
+	tier = principality
+	
+	cultures = { maasai bedouin }
+	capital = STATE_DARFUR
+}
+
+DAK = {
+	color = { 123 134 74 }
+	
+	country_type = decentralized
+	
+	tier = principality
+	
+	cultures = { maasai fluvian_bantu }
+	capital = STATE_UBANGI_SHARI
+}
+
+WAD = {
+	color = { 194 66 41 }
+	country_type = unrecognized
+	
+	tier = principality
+	
+	cultures = { maasai }
+	capital = STATE_WADDAI
+}
+
+FNG = {
+	color = { 193 170 57 }
+	
+	country_type = decentralized
+	
+	tier = principality
+	
+	cultures = { fluvian_bantu }
+	capital = STATE_GABON
+}
+
+DFT = {
+	color = { 167 92 56 }
+	
+	country_type = decentralized
+	
+	tier = principality
+	
+	cultures = { fluvian_bantu maasai }
+	capital = STATE_EQUATORIA
+}
+
+DLA = {
+	color = { 22 121 17 }
+	country_type = decentralized
+	
+	tier = principality
+	
+	cultures = { fluvian_bantu }
+	capital = STATE_SOUTH_CAMEROON
+}
+
+IBO = {
+	color = { 119 24 85 }
+	country_type = decentralized
+	
+	tier = principality
+	
+	cultures = { hausa }
+	capital = STATE_NIGER_DELTA
+}
+
+BEN = {
+	color = { 110 173 129 }
+	country_type = unrecognized
+	
+	tier = principality
+	
+	cultures = { hausa }
+	capital = STATE_BENIN
+}
+
+OYO = {
+	color = { 211 184 179 }
+	country_type = unrecognized
+	
+	tier = principality
+	
+	cultures = { hausa }
+	capital = STATE_YORUBA_STATES
+}
+
+DAH = {
+	color = { 11 84 179 }
+	country_type = unrecognized
+	
+	tier = principality
+	
+	cultures = { hausa }
+	capital = STATE_DAHOMEY
+}
+
+MOS = {
+	color = { 27 128 45 }
+	country_type = decentralized
+	
+	tier = principality
+	
+	cultures = { hausa }
+	capital = STATE_VOLTA
+}
+
+ASH = {
+	color = { 97 98 195 }
+	
+	country_type = unrecognized
+	
+	tier = kingdom
+	
+	cultures = { hausa }
+	capital = STATE_GHANA
+}
+
+BLE = {
+	color = { 218 104 44 }
+	country_type = decentralized
+	
+	tier = principality
+	
+	cultures = { hausa }
+	capital = STATE_WINDWARD_COAST
+}
+
+AYI = {
+	color = { 131 210 34 }
+	country_type = decentralized
+	
+	tier = principality
+	
+	cultures = { hausa }
+	capital = STATE_IVORY_COAST
+}
+
+KRT = {
+	color = { 127 28 45 }
+	country_type = unrecognized
+	
+	tier = principality
+	
+	cultures = { hausa }
+	capital = STATE_WESTERN_MALI
+}
+
+MAL = {
+	color = { 75 179 27}
+	country_type = unrecognized
+	tier = kingdom
+	cultures = { hausa }
+	capital = STATE_WESTERN_MALI
+}
+
+SOK = {
+	color = { 0 135 81 }
+	
+	country_type = unrecognized
+	
+	tier = kingdom
+	
+	cultures = { hausa }
+	capital = STATE_HAUSALAND
+}
+
+FTJ = {
+	color = { 230 125 127 }
+	
+	country_type = unrecognized
+	
+	tier = principality
+	
+	cultures = { hausa }
+	capital = STATE_GUINEA
+}
+
+MSN = {
+	color = { 230 231 62 }
+	country_type = unrecognized
+	
+	tier = principality
+	
+	cultures = { hausa }
+	capital = STATE_EASTERN_MALI
+}
+
+FTR = {
+	color = { 115 204 102 }
+	country_type = unrecognized
+	
+	tier = principality
+	
+	cultures = { hausa }
+	capital = STATE_SENEGAL
+}
+
+CAY = {
+	color = { 189 187 166 }
+	country_type = decentralized
+	
+	tier = principality
+	
+	cultures = { hausa }
+	capital = STATE_SENEGAL
+}
+
+KRU = {
+	color = { 94 168 142 }
+	country_type = decentralized
+	
+	tier = principality
+	
+	cultures = { hausa }
+	capital = STATE_WINDWARD_COAST
+}
+
+KBU = {
+	color = { 101 63 41 }
+	country_type = decentralized
+	
+	tier = principality
+	
+	cultures = { hausa }
+	
+	religion = animist
+	
+	capital = STATE_GAMBIA
+}
+
+SRR = {
+	color = { 57 121 111 }
+	country_type = decentralized
+	
+	tier = principality
+
+	religion = animist
+	
+	cultures = { hausa }
+	capital = STATE_GAMBIA
+}
+
+SSU = {
+	color = { 69 109 142 }
+	country_type = decentralized
+	
+	tier = principality
+	
+	cultures = { hausa }
+	capital = STATE_GUINEA
+}
+
+MDK = {
+	color = { 191 83 53 }
+	country_type = decentralized
+	
+	tier = principality
+	
+	cultures = { hausa }
+	capital = STATE_GUINEA
+}
+
+KBD = {
+	color = { 117 36 54 }
+	country_type = decentralized
+	
+	tier = principality
+	
+	cultures = { hausa }
+	capital = STATE_WINDWARD_COAST
+}
+
+JLF = {
+	color = { 215  215  125 }
+	country_type = decentralized
+	
+	tier = principality
+	
+	cultures = { hausa }
+	capital = STATE_SENEGAL
+}
+
+BND = {
+	color = { 60 118 54 }
+	country_type = decentralized
+	
+	tier = principality
+	
+	cultures = { hausa }
+	capital = STATE_GAMBIA
+}
+
+GAO = { # Gao
+	color = { 62 175 151 }
+	
+	country_type = decentralized
+	
+	tier = principality
+	
+	cultures = { hausa }
+	capital = STATE_TIMBUKTU
+}
+
+AIR = {
+	color = { 30 31 162 }
+	country_type = decentralized
+	
+	tier = principality
+	
+	cultures = { hausa }
+	capital = STATE_NIGER
+}
+
+TBI = {
+	color = { 220 210 97 }
+	country_type = decentralized
+	
+	tier = principality
+	
+	cultures = { bedouin }
+	capital = STATE_CHAD
+}
+
+MOR = {
+	color = { 224  146  113 }
+	
+	country_type = unrecognized
+	
+	tier = kingdom
+	
+	cultures = { maghrebi }
+	capital = STATE_FEZ
+}
+
+SAH = { # Sahrawi
+	color = { 220  202  96 }	
+	country_type = decentralized
+	
+	tier = principality
+	
+	cultures = { maghrebi }
+	capital = STATE_WEST_SAHARA
+}
+
+EGY = {
+	color = { 255  205  155 }
+	
+	country_type = unrecognized
+	
+	tier = kingdom
+	
+	cultures = { bedouin }
+	capital = STATE_LOWER_EGYPT
+}
+
+IRQ = {
+	color = { 122 132 110 }
+	
+	country_type = unrecognized
+	
+	tier = kingdom
+	
+	cultures = { bedouin }
+	capital = STATE_BAGHDAD
+}
+
+AHG = {
+	color = { 138 168 70 }
+	country_type = decentralized
+	
+	tier = principality
+	
+	cultures = { hausa }
+	capital = STATE_EAST_SAHARA
+}
+
+TUA = {
+	color = { 142 88 74 }
+	country_type = decentralized
+	
+	tier = principality
+	
+	cultures = { hausa }
+	capital = STATE_SAHARA
+}
+
+ARA = {
+	color = { 66  111  19 }
+	
+	country_type = unrecognized
+	
+	tier = empire
+	
+	cultures = { bedouin }
+	capital = STATE_HEDJAZ
+}
+
+EOT = {
+	color = { 212 11 27 }
+	country_type = unrecognized
+	tier = principality
+	cultures = { bedouin }
+	capital = STATE_TRANSJORDAN
+}
+
+SYR = {
+	color = { 241 245 240 }
+	country_type = unrecognized
+	tier = principality
+	cultures = { bedouin }
+	religion = sunni
+	capital = STATE_SYRIA
+}
+
+LEB = {
+	color = { 18 201 27 }
+	country_type = unrecognized
+	tier = principality
+	cultures = { bedouin }
+	capital = STATE_LEBANON
+}
+
+YEM = {
+	color = { 255  191  191 }
+	
+	country_type = unrecognized
+	
+	tier = principality
+	
+	cultures = { bedouin }
+	capital = STATE_YEMEN
+	is_named_from_capital = yes
+}
+
+MAH = {
+	color = { 0  153  76 }
+	
+	country_type = unrecognized
+	
+	tier = principality
+	
+	cultures = { bedouin }
+	capital = STATE_YEMEN
+}
+
+KAT = {
+	color = { 79  152  64 }
+	
+	country_type = unrecognized
+	
+	tier = principality
+	
+	cultures = { bedouin }
+	capital = STATE_YEMEN
+}
+
+ZAI = {
+	color = { 153  76  0 }
+	
+	country_type = unrecognized
+	
+	tier = principality
+	
+	cultures = { bedouin }
+#   religion = Technically Sunni at game start, but if it re-emerges, it should be Shiite
+	capital = STATE_YEMEN
+}
+
+LAH = {
+	color = { 209  41  41 }
+	
+	country_type = unrecognized
+	
+	tier = principality
+	
+	cultures = { bedouin }
+	religion = sunni
+	capital = STATE_YEMEN
+}
+
+PAL = {
+	color = { 0  142  76 }
+	
+	country_type = unrecognized
+	
+	tier = principality
+	
+	cultures = { bedouin }
+	religion = sunni
+	capital = STATE_PALESTINE
+}
+
+
+ADG = {
+	color = { 215 132 165 }
+	country_type = decentralized
+	
+	tier = principality
+	
+	cultures = { hausa }
+	capital = STATE_TIMBUKTU
+}
+
+TRZ = {
+	color = { 230 123 17 }
+	country_type = decentralized
+	
+	tier = principality
+	
+	cultures = { hausa }
+	capital = STATE_MAURITANIA
+}
+
+OUA = {
+	color = { 113 95 122 }
+	country_type = decentralized
+	
+	tier = principality
+	
+	cultures = { hausa }
+	capital = STATE_INNER_MAURITANIA
+}
+
+SGU = {
+	color = { 27 28 145 }
+	country_type = unrecognized
+	
+	tier = principality
+	
+	cultures = { hausa }
+	capital = STATE_WESTERN_MALI
+}
+
+KNG = {
+	color = { 137 98 195 }
+	country_type = decentralized
+	
+	tier = principality
+	
+	cultures = { hausa }
+	capital = STATE_IVORY_COAST
+}
+
+DNK = {
+	color = { 78 99 75 }
+	
+	country_type = decentralized
+	
+	tier = principality
+	
+	cultures = { maasai }
+	capital = STATE_EQUATORIA
+}
+
 BLF = { # Niitsitapi / Blackfoot Confederacy
 	color = hsv{ 0.63 0.68 0.60 }
 	
@@ -445,17 +1052,6 @@ KKY = {
 	capital = STATE_KENYA
 }
 
-MSI = {
-	color = { 190 103 84 }
-	
-	country_type = decentralized
-	
-	tier = principality
-	
-	cultures = { somali }
-	capital = STATE_RIFT_VALLEY
-}
-
 TRK = {
 	color = { 103 84 190 }
 	
@@ -463,7 +1059,7 @@ TRK = {
 	
 	tier = principality
 	
-	cultures = { nilotic somali }
+	cultures = { maasai }
 	capital = STATE_RIFT_VALLEY
 }
 
@@ -840,4 +1436,35 @@ UYA = { # Uyao
 	
 	cultures = { bakongo }
 	capital = STATE_MOCAMBIQUE
+}
+
+KFA = {
+	color = { 150 0 25 }
+	country_type = unrecognized
+	
+	tier = principality
+	
+	cultures = { oromo }
+	capital = STATE_AMHARA
+}
+
+SDM = {
+	color = { 83 65 167 }
+	country_type = unrecognized
+	
+	tier = principality
+	
+	cultures = { oromo }
+	capital = STATE_AMHARA
+}
+
+SUD = { # Sudanese
+	color = { 189 159 69 }
+	
+	country_type = decentralized
+	
+	tier = kingdom
+	
+	cultures = { beja bedouin }
+	capital = STATE_BLUE_NILE
 }
