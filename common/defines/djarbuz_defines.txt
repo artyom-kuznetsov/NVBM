@@ -8,3 +8,8 @@ NBattle = {
 	CASUALTY_ROLL_MIN = 10
 	CASUALTY_ROLL_MAX = 100
 }
+
+NPops = {
+	ASSIMILATION_RATE = 0.01					# Percentage of pops who will Assimilate into a different Culture each month, if eligible
+	MIN_ASSIMILATION = 100
+}
