@@ -2163,7 +2163,7 @@ sami={
 }
 
 british={ # "English" in localization
-	color= rgb{ 210 156 140 }
+	color= rgb{ 170 80 79 }
 	religion = orthodox = protestant
 	traits = { anglophone european_heritage }
 	
@@ -5166,7 +5166,7 @@ polish={
 }
 
 lithuanian={
-	color= hsv{ 0.42 0.48 0.83 }
+	color= rgb{ 120 75 90 }
 	religion = orthodox = catholic
 	traits = { baltic_culture_group european_heritage }
 	male_common_first_names={
@@ -9488,7 +9488,7 @@ malagasy={
 }
 
 filipino={
-	color= hsv{ 0.18 0.56 0.86 }
+	color= rgb{ 150 67 137 }
 	religion = orthodox = catholic
 	traits = { southeast_asian_heritage malay_culture }
 	male_common_first_names={
@@ -12332,7 +12332,7 @@ metis={
 }
 
 dakota={
-	color= hsv{ 0.63 0.30 0.52 }
+	color= rgb{ 164 160 116 }
 	religion = orthodox = animist
 	traits = { indigenous_american_heritage north_american_group }
 	male_common_first_names={
@@ -13558,7 +13558,7 @@ cariban={ # Hispanicized. Also includes some Garifuna and Warao names.
 }
 	
 yankee={
-	color= rgb{ 135 206 235 } # Sky Blue
+	color= rgb{ 65 65 129 } # Sky Blue
 	religion = orthodox = protestant
 	traits = { anglophone european_heritage }
 	male_common_first_names = {
@@ -13683,7 +13683,7 @@ yankee={
 }
 
 dixie={
-	color=rgb{ 204 154 91 } # Butternut
+	color=rgb{ 129 129 129 } # Butternut
 	religion = orthodox = protestant
 	traits = { anglophone european_heritage }
 	male_common_first_names = {
@@ -13801,7 +13801,7 @@ dixie={
 }
 
 mexican={
-	color=hsv{ 0.99 0.50 0.65 }
+	color=rgb{ 110 157 166 }
 	religion = orthodox = catholic
 	traits = { hispanophone european_heritage }
 	male_common_first_names={
@@ -19352,7 +19352,7 @@ kavango_bantu={ # Angola + Namibia
 }
 
 anglo_canadian={
-	color= hsv{ 0.22 0.22 0.45 }
+	color= rgb{ 210 156 140 }
 	religion = orthodox = protestant
 	traits = { anglophone european_heritage }
 	male_common_first_names={

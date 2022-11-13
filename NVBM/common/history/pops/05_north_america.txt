@@ -232,6 +232,18 @@
 				size = 4000
 			}
 		}
+		region_state:MEX = {
+			create_pop = {
+				culture = dakota
+				size = 2000
+			}
+		}
+		region_state:COM = {
+			create_pop = {
+				culture = dakota
+				size = 2000
+			}
+		}
 	}
 	s:STATE_MONTANA = {
 		region_state:USA = {
@@ -334,6 +346,12 @@
 				size = 8000
 			}
 		}
+		region_state:MEX = {
+			create_pop = {
+				culture = dakota
+				size = 2000
+			}
+		}
 		region_state:COM = {
 			create_pop = {
 				culture = dakota
@@ -365,6 +383,12 @@
 			create_pop = {
 				culture = dakota
 				size = 18000
+			}
+		}
+		region_state:MEX = {
+			create_pop = {
+				culture = dakota
+				size = 1000
 			}
 		}
 	}
