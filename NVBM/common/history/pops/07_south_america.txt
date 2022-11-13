@@ -29,7 +29,7 @@ POPS = {
 	s:STATE_GUAYANA = {
 		region_state:NET = {
 			create_pop = {
-				culture = afro_caribbean
+				culture = afro_american
 				# religion = animist
 				size = 36000
 			}
@@ -42,7 +42,7 @@ POPS = {
 				size = 7796
 			}
 			create_pop = {
-				culture = afro_caribbean
+				culture = afro_american
 				size = 12000
 			}
 		}
@@ -62,7 +62,7 @@ POPS = {
 		}
 		region_state:GBR = {
 			create_pop = {
-				culture = afro_caribbean
+				culture = afro_american
 				size = 92000
 			}
 			create_pop = {

@@ -213,7 +213,7 @@
 	s:STATE_ERITREA = {
 		region_state:EGY = {
 			create_pop = {
-				culture = tigray
+				culture = oromo
 				size = 75764
 			}
 			create_pop = {
@@ -221,7 +221,7 @@
 				size = 96
 			}
 			create_pop = {
-				culture = tigray
+				culture = oromo
 				# religion = sunni
 				size = 64000
 			}
@@ -230,7 +230,7 @@
 				size = 15900
 			}
 			create_pop = {
-				culture = afar
+				culture = oromo
 				size = 32000
 			}
 			create_pop = {
@@ -241,12 +241,12 @@
 		}
 		region_state:AWS = {
 			create_pop = {
-				culture = tigray
+				culture = oromo
 				# religion = sunni
 				size = 8000
 			}
 			create_pop = {
-				culture = afar
+				culture = oromo
 				size = 8000
 			}
 			create_pop = {
