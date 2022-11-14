@@ -1,0 +1,124 @@
+
+diplo_play_start_notification = {
+	type = diplomatic_play
+	texture = "gfx/interface/icons/notification_icons/diplomatic_play.dds"
+
+	notification_type = toast
+	days = 21
+	
+	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/native_uprising"
+}
+
+diplo_play_start_third_party_notification = {
+	type = diplomatic_play
+	texture = "gfx/interface/icons/notification_icons/diplomatic_play.dds"
+
+	notification_type = feed
+	days = 21
+}
+
+diplo_play_back_down_notification = {
+	type = diplomatic_play
+	texture = "gfx/interface/icons/notification_icons/diplomatic_play.dds"
+
+	notification_type = toast
+	days = 21
+	
+	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/peace_agreement"
+}
+
+diplo_play_back_down_involved_notification = {
+	type = diplomatic_play
+	texture = "gfx/interface/icons/notification_icons/diplomatic_play.dds"
+
+	notification_type = toast
+	days = 21
+	
+	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/peace_agreement"
+}
+
+diplo_play_declare_neutrality_notification = {
+	type = diplomatic_play
+	texture = "gfx/interface/icons/notification_icons/diplomatic_play.dds"
+
+	notification_type = feed
+	days = 21
+}
+
+diplo_play_join_side_notification = {
+	type = diplomatic_play
+	texture = "gfx/interface/icons/notification_icons/diplomatic_play.dds"
+
+	notification_type = toast
+	days = 21
+	
+	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/peace_agreement"
+}
+
+diplo_play_abandon_side_notification = {
+	type = diplomatic_play
+	texture = "gfx/interface/icons/notification_icons/diplomatic_play.dds"
+
+	notification_type = toast
+	days = 21
+	
+	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/peace_agreement"
+}
+
+diplo_play_war_start_notification = {
+	type = diplomatic_play
+	texture = "gfx/interface/icons/notification_icons/diplomatic_play.dds"
+
+	notification_type = popup
+	popup_name = war_started
+
+	months = 1
+}
+
+diplo_play_war_start_third_party_notification = {
+	type = diplomatic_play
+	texture = "gfx/interface/icons/notification_icons/diplomatic_play.dds"
+
+	notification_type = feed
+	days = 21
+}
+
+diplo_play_subject_released_notification = {
+	type = diplomatic_play
+	texture = "gfx/interface/icons/notification_icons/diplomatic_play.dds"
+
+	notification_type = feed
+	days = 21
+}
+
+diplo_play_subject_released_overlord_notification = {
+	type = diplomatic_play
+	texture = "gfx/interface/icons/notification_icons/diplomatic_play.dds"
+
+	notification_type = feed
+	days = 21
+}
+
+country_swayed = {
+	type = diplomatic_play
+	texture = "gfx/interface/icons/notification_icons/diplomatic_play.dds"
+
+	notification_type = feed
+	days = 21
+}
+
+sway_offer_accepted = {
+	type = diplomatic_play
+	texture = "gfx/interface/icons/notification_icons/diplomatic_play.dds"
+
+	notification_type = feed
+	days = 21
+}
+
+sway_offer_rejected = {
+	type = diplomatic_play
+	texture = "gfx/interface/icons/notification_icons/diplomatic_play.dds"
+
+	notification_type = feed
+	days = 21
+}
