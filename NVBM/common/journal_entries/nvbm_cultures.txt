@@ -1,0 +1,23 @@
+﻿je_east_slavic_cultures = {
+	icon = "gfx/interface/icons/event_icons/event_protest.dds"
+	
+	possible = {
+		OR = {
+			country_has_primary_culture = cu:ukrainian
+			country_has_primary_culture = cu:byelorussian
+		}
+	}
+	immediate = {
+		trigger_event = {
+			id = nvbm_title_cultures.1
+		}
+	}
+	complete = {
+		NOT = {
+			OR = {
+				country_has_primary_culture = cu:ukrainian
+				country_has_primary_culture = cu:byelorussian
+			}
+		}
+	}
+}
