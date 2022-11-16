@@ -10,6 +10,12 @@ NBattle = {
 }
 
 NPops = {
-	ASSIMILATION_RATE = 0.008					# Percentage of pops who will Assimilate into a different Culture each month, if eligible
-	MIN_ASSIMILATION = 50
+	ASSIMILATION_RATE = 0.01					# Percentage of pops who will Assimilate into a different Culture each month, if eligible
+	MIN_ASSIMILATION = 100
+	
+	CONVERSION_RATE = 0.2
+	MIN_CONVERSION = 1000
+	
+	LOW_POP_THRESHOLD = 12000
+	HIGH_POP_THRESHOLD = 100000
 }
