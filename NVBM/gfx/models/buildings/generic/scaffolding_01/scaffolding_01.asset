@@ -1,0 +1,4 @@
+pdxmesh = {
+	name = "scaffolding_01_mesh"
+	file = "scaffolding_01.mesh"
+}

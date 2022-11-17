@@ -1,0 +1,16 @@
+### SEAGULL ENTITY ###
+
+pdxmesh = {
+	name = "bird_seagull_01_mesh"
+	file = "bird_seagull_01.mesh"
+}
+
+
+
+
+### FRAME ###
+
+pdxmesh = {
+	name = "seagull_port_frame_mesh"
+	file = "seagull_port_frame.mesh"
+}

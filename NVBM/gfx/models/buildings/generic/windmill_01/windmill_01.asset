@@ -1,0 +1,4 @@
+pdxmesh = {
+	name = "windmill_01_mesh"
+	file = "windmill_01.mesh"
+}

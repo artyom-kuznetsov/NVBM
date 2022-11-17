@@ -1,0 +1,4 @@
+pdxmesh = {
+	name = "furniture_manufactory_01_mesh"
+	file = "furniture_manufactory_01.mesh"
+}

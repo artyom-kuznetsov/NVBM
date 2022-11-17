@@ -1,0 +1,4 @@
+pdxmesh = {
+	name = "generic_rural_mining_entrance_01_mesh"
+	file = "generic_rural_mining_entrance_01.mesh"
+}
