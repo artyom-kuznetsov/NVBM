@@ -411,8 +411,6 @@
 				# religion = animist
 				size = 8000
 			}
-		}
-		region_state:CHI = {
 			create_pop = {
 				culture = kazak1
 				size = 100150

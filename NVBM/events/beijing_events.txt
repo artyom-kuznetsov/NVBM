@@ -1,0 +1,98 @@
+namespace = beijing
+
+beijing.2 = {
+	type = country_event
+	placement = ROOT
+	
+	event_image = {
+		video = "gfx/event_pictures/europenorthamerica_capitalists_meeting.bk2"
+	}
+
+	on_created_soundeffect = "event:/SFX/UI/Alerts/event_appear"
+	on_opened_soundeffect = "event:/SFX/Events/europenorthamerica/capitalists_meeting"
+
+	icon = "gfx/interface/icons/event_icons/event_default.dds"
+	
+	title = beijing.2
+	desc = beijing.2
+	flavor = beijing.2
+	
+	duration = 3
+	
+	imediate = {
+		s:STATE_JETISY = {
+			random_scope_state = {
+				limit = {
+					exists = c:CHI
+					owner = {
+						c:CHI = THIS
+					}
+				save_scope_as = jetisy_scope
+				}
+			}
+		}
+		s:STATE_OUTER_MANCHURIA = {
+			random_scope_state = {
+				limit = {
+					exists = c:CHI
+					owner = {
+						c:CHI = THIS
+					}
+				save_scope_as = outer_manchuria_scope
+				}
+			}
+		}
+		s:STATE_TUVA = {
+			random_scope_state = {
+				limit = {
+					exists = c:CHI
+					owner = {
+						c:CHI = THIS
+					}
+				save_scope_as = tuva_scope
+				}
+			}
+		}
+	}
+	
+	option = {
+		name = beijing.2.a
+		default_option = yes
+		s:STATE_JETISY = {
+			add_homeland = russian
+			random_scope_state = {
+				limit = {
+					exists = c:CHI
+					owner = {
+						c:CHI = THIS
+					}
+				}
+			set_state_owner = c:RUS
+			}
+		}
+		s:STATE_OUTER_MANCHURIA = {
+			add_homeland = russian
+			random_scope_state = {
+				limit = {
+					exists = c:CHI
+					owner = {
+						c:CHI = THIS
+					}
+				}
+			set_state_owner = c:RUS
+			}
+		}
+		s:STATE_TUVA = {
+			add_homeland = russian
+			random_scope_state = {
+				limit = {
+					exists = c:CHI
+					owner = {
+						c:CHI = THIS
+					}
+				}
+			set_state_owner = c:RUS
+			}
+		}
+	}
+}

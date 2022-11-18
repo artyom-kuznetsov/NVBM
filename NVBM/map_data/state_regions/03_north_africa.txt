@@ -299,6 +299,10 @@ STATE_CONSTANTINE = {
     capped_resources = {
         bg_sulfur_mining = 20
     }
+	resource = {
+        type = "bg_oil_extraction"
+        undiscovered_amount = 5
+    }
 }
 
 STATE_TLEMCEN = {
@@ -355,6 +359,10 @@ STATE_TRIPOLI = {
     capped_resources = {
         bg_fishing = 5
     }
+	resource = {
+        type = "bg_oil_extraction"
+        undiscovered_amount = 30
+    }
     naval_exit_id = 3033
 }
 
@@ -405,6 +413,10 @@ STATE_SAHARA = {
     wood = "x6F252B"
     arable_land = 10
     arable_resources = { "bg_livestock_ranches" }
+	resource = {
+        type = "bg_oil_extraction"
+        undiscovered_amount = 5
+    }
 }
 
 STATE_EAST_SAHARA = {
@@ -419,6 +431,10 @@ STATE_EAST_SAHARA = {
     wood = "x873702"
     arable_land = 10
     arable_resources = { "bg_livestock_ranches" }
+	resource = {
+        type = "bg_oil_extraction"
+        undiscovered_amount = 5
+    }
 }
 
 STATE_WEST_SAHARA = {
@@ -475,6 +491,10 @@ STATE_INNER_MAURITANIA = {
     capped_resources = {
         bg_iron_mining = 27
     }
+	resource = {
+        type = "bg_oil_extraction"
+        undiscovered_amount = 5
+    }
 }
 
 STATE_EASTERN_MALI = {
@@ -522,6 +542,10 @@ STATE_TIMBUKTU = {
         bg_coal_mining = 36
         bg_sulfur_mining = 36
     }
+	resource = {
+        type = "bg_oil_extraction"
+        undiscovered_amount = 5
+    }
 }
 
 STATE_NIGER = {
@@ -541,6 +565,10 @@ STATE_NIGER = {
         bg_lead_mining = 18
         bg_sulfur_mining = 24
     }
+	resource = {
+        type = "bg_oil_extraction"
+        undiscovered_amount = 30
+    }
 }
 
 STATE_CHAD = {
@@ -554,5 +582,9 @@ STATE_CHAD = {
     wood = "x815967"
     arable_land = 32
     arable_resources = { "bg_livestock_ranches" }
+	resource = {
+        type = "bg_oil_extraction"
+        undiscovered_amount = 10
+    }
 }
 

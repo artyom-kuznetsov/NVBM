@@ -1,0 +1,91 @@
+je_beijing_convention = {
+	icon = "gfx/interface/icons/event_icons/event_map.dds"
+	is_shown_when_inactive = {
+		exists = c:RUS
+		exists = c:CHI
+		c:RUS = ROOT
+		s:STATE_JETISY = {
+			any_scoper_state = {
+				owner = {
+					c:CHI = THIS
+				}
+			}
+		}
+		s:STATE_OUTER_MANCHURIA = {
+			any_scoper_state = {
+				owner = {
+					c:CHI = THIS
+				}
+			}
+		}
+		s:STATE_TUVA = {
+			any_scoper_state = {
+				owner = {
+					c:CHI = THIS
+				}
+			}
+		}
+	}
+	
+	possible = {
+		c:CHI = {
+			relations:ROOT >= relations_threshold:cordial
+		}
+	}
+	
+	complete = {
+		AND = {
+			c:CHI = {
+				relations:ROOT >= relations_threshold:cordial
+			}
+			has_technology_researched = nationalism
+		}
+	}
+	
+	on_complete = {
+		if = {
+			limit = {
+				s:STATE_JETISY = {
+					any_scope_state = {
+						owner = {
+							c:CHI = THIS
+						}
+					}
+				}
+				s:STATE_OUTER_MANCHURIA = {
+					any_scope_state = {
+						owner = {
+							c:CHI = THIS
+						}
+					}
+				}
+				s:STATE_TUVA = {
+					any_scope_state = {
+						owner = {
+							c:CHI = THIS
+						}
+					}
+				}
+			}
+			c:CHI = { trigger_event = { id = beijing.2 } }
+		}
+		else = {
+			s:STATE_JETISY = {
+				add_homeland = russian
+			}
+			s:STATE_OUTER_MANCHURIA = {
+				add_homeland = russian
+			}
+			s:STATE_TUVA = {
+				add_homeland = russian
+			}
+			add_modifier = {
+				name = beijing_resolved
+				months = normal_modifier_time
+			}
+		}
+	}
+	
+	weight = 100
+
+}
