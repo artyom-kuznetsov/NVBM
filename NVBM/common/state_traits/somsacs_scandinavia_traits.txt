@@ -1,0 +1,43 @@
+﻿state_trait_odensefjorden = {
+	icon = "gfx/interface/icons/state_trait_icons/fjords.dds"
+	
+	modifier = {
+		building_shipyards_throughput_mult = 0.15
+		building_military_shipyards_throughput_mult = 0.15
+		state_building_port_max_level_add = 3
+		state_building_naval_base_max_level_add = 15		
+	}
+}
+
+state_trait_trondhjemsfjorden = {
+	icon = "gfx/interface/icons/state_trait_icons/fjords.dds"
+	
+	modifier = {
+		building_shipyards_throughput_mult = 0.15
+		building_military_shipyards_throughput_mult = 0.15
+		state_building_port_max_level_add = 3
+		state_building_naval_base_max_level_add = 15		
+	}
+}
+
+state_trait_hardangerfjorden = {
+	icon = "gfx/interface/icons/state_trait_icons/fjords.dds"
+	
+	modifier = {
+		building_shipyards_throughput_mult = 0.15
+		building_military_shipyards_throughput_mult = 0.15
+		state_building_port_max_level_add = 3
+		state_building_naval_base_max_level_add = 15		
+	}
+}
+
+state_trait_christianiafjorden = {
+	icon = "gfx/interface/icons/state_trait_icons/fjords.dds"
+	
+	modifier = {
+		building_shipyards_throughput_mult = 0.15
+		building_military_shipyards_throughput_mult = 0.15
+		state_building_port_max_level_add = 2
+		state_building_naval_base_max_level_add = 10	
+	}
+}

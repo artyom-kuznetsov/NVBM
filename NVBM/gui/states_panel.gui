@@ -2723,6 +2723,29 @@ types building_item_types
 							size = { 60 12 }
 							alpha = "[TransparentIfFalse(Building.IsActive)]"
 							visible = "[And(GreaterThan_CFixedPoint(Building.GetMaxCashReserves, '(CFixedPoint)0'), Building.IsActive)]"
+
+							default_progressbar_horizontal = {
+								size = { 100% 100% }
+								alpha = "[TransparentIfFalse(Building.IsActive)]"
+								visible = "[And(GreaterThan_int32(Building.GetEmployeeCap, '(CFixedPoint)0'), Building.IsActive)]"
+
+								blockoverride "glow_size" {
+									size = { 40 100% }
+								}
+
+								blockoverride "values" {
+									min = 0
+									max = "[Building.GetEmployeeCap]"
+									value = "[Building.GetNoOfEmployed]"
+								}
+							}
+						}
+
+						widget = {
+							size = { 60 12 }
+							alpha = "[TransparentIfFalse(Building.IsActive)]"
+							visible = "[And(GreaterThan_CFixedPoint(Building.GetMaxCashReserves, '(CFixedPoint)0'), Building.IsActive)]"
+							using = cash_reserves_tooltip_with_graph
 							using = cash_reserves_tooltip_with_graph
 
 							gold_progressbar_horizontal = {
