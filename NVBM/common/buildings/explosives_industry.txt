@@ -24,7 +24,7 @@ building_explosives_industry = {
 	texture = "gfx/interface/icons/building_icons/explosives_industry.dds"
 	
 	unlocking_technologies = {
-		percussion_cap
+		nitroglycerin
 	}
 	
 	city_type = city

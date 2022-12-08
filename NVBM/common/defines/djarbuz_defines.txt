@@ -1,5 +1,5 @@
 ﻿NEconomy = {
-	MAX_WEEKLY_CONSTRUCTION_PROGRESS = 200
+	MAX_WEEKLY_CONSTRUCTION_PROGRESS = 2000
 }
 
 NBattle = {
@@ -13,8 +13,8 @@ NPops = {
 	ASSIMILATION_RATE = 0.01					# Percentage of pops who will Assimilate into a different Culture each month, if eligible
 	MIN_ASSIMILATION = 1
 	
-	CONVERSION_RATE = 0.2
-	MIN_CONVERSION = 1000
+	CONVERSION_RATE = 0.5
+	MIN_CONVERSION = 1
 	
 	LOW_POP_THRESHOLD = 12000
 	HIGH_POP_THRESHOLD = 100000

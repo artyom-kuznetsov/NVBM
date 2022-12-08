@@ -2063,7 +2063,7 @@
 		region_state:KOR={
 			create_building={
 				building="building_government_administration"
-				level=3
+				level=2
 				reserves=1
 				activate_production_methods={ "pm_horizontal_drawer_cabinets" }
 			}
@@ -2107,12 +2107,6 @@
 	}
 	s:STATE_BUSAN={
 		region_state:KOR={
-			create_building={
-				building="building_government_administration"
-				level=1
-				reserves=1
-				activate_production_methods={ "pm_horizontal_drawer_cabinets" }
-			}
 			create_building={
 				building="building_shipyards"
 				level=1
@@ -2161,7 +2155,7 @@
 		region_state:KOR={
 			create_building={
 				building="building_government_administration"
-				level=2
+				level=1
 				reserves=1
 				activate_production_methods={ "pm_horizontal_drawer_cabinets" }
 			}	
@@ -2200,12 +2194,6 @@
 	s:STATE_SARIWON={
 		region_state:KOR={
 			create_building={
-				building="building_government_administration"
-				level=1
-				reserves=1
-				activate_production_methods={ "pm_horizontal_drawer_cabinets" }
-			}
-			create_building={
 				building="building_rice_farm"
 				level=1
 				reserves=1
@@ -2235,7 +2223,7 @@
 		region_state:KOR={
 			create_building={
 				building="building_government_administration"
-				level=2
+				level=1
 				reserves=1
 				activate_production_methods={ "pm_horizontal_drawer_cabinets" }
 			}

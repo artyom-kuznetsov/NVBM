@@ -909,7 +909,7 @@
 		region_state:GBR={
 			create_building={
 				building="building_government_administration"
-				level=10
+				level=7
 				reserves=1
 				activate_production_methods={ "pm_vertical_filing_cabinets" }
 			}		
@@ -985,13 +985,13 @@
 		region_state:GBR={
 			create_building={
 				building="building_government_administration"
-				level=5
+				level=1
 				reserves=1
 				activate_production_methods={ "pm_vertical_filing_cabinets" }
 			}			
 			create_building={
 				building="building_university"
-				level=2
+				level=1
 				reserves=1
 				activate_production_methods={ "pm_scholastic_education" }
 			}
@@ -1073,7 +1073,7 @@
 		region_state:GBR={
 			create_building={
 				building="building_government_administration"
-				level=5
+				level=4
 				reserves=1
 				activate_production_methods={ "pm_vertical_filing_cabinets" }
 			}			
@@ -1385,7 +1385,7 @@
 			}			
 			create_building={
 				building="building_furniture_manufacturies"
-				level=8
+				level=15
 				reserves=1
 				activate_production_methods={ "pm_lathe" "pm_privately_owned_building_furniture_manufacturies" "pm_automation_disabled" "pm_luxury_furniture" }
 			}
@@ -1543,7 +1543,7 @@
 		region_state:FRA={
 			create_building={
 				building="building_university"
-				level=2
+				level=1
 				reserves=1
 				activate_production_methods={ "pm_scholastic_education" }
 			}
@@ -1699,7 +1699,7 @@
 		region_state:FRA={
 			create_building={
 				building="building_government_administration"
-				level=5
+				level=3
 				reserves=1
 				activate_production_methods={ "pm_vertical_filing_cabinets" }
 			}		
@@ -1933,7 +1933,7 @@
 		region_state:FRA={
 			create_building={
 				building="building_government_administration"
-				level=5
+				level=3
 				reserves=1
 				activate_production_methods={ "pm_vertical_filing_cabinets" }
 			}		
@@ -1945,7 +1945,7 @@
 			}
 			create_building={
 				building="building_furniture_manufacturies"
-				level=10
+				level=4
 				reserves=1
 				activate_production_methods={ "pm_lathe" "pm_luxury_furniture" "pm_automation_disabled" "pm_privately_owned_building_furniture_manufacturies" }
 			}
@@ -2007,7 +2007,7 @@
 		region_state:FRA={
 			create_building={
 				building="building_government_administration"
-				level=5
+				level=2
 				reserves=1
 				activate_production_methods={ "pm_vertical_filing_cabinets" }
 			}		
@@ -2121,7 +2121,7 @@
 		region_state:FRA={
 			create_building={
 				building="building_government_administration"
-				level=5
+				level=2
 				reserves=1
 				activate_production_methods={ "pm_vertical_filing_cabinets" }
 			}
