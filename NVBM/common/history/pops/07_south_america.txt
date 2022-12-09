@@ -66,7 +66,7 @@ POPS = {
 				size = 92000
 			}
 			create_pop = {
-				culture = british1
+				culture = british
 				size = 3588
 			}
 			create_pop = {
@@ -799,7 +799,7 @@ POPS = {
 	s:STATE_SOUTH_ATLANTIC_ISLANDS = {
 		region_state:GBR = {
 			create_pop = {
-				culture = british1
+				culture = british
 				size = 14540
 			}
 		}

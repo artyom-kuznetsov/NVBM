@@ -1040,7 +1040,7 @@
 				size = 63277
 			}
 			create_pop = {
-				culture = serb1
+				culture = serb
 				size = 931
 			}
 			create_pop = {
@@ -1088,7 +1088,7 @@
 				size = 14059
 			}
 			create_pop = {
-				culture = serb1
+				culture = serb
 				size = 240
 			}
 			create_pop = { # "Latins"
