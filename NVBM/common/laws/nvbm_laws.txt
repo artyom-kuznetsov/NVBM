@@ -52,16 +52,16 @@ law_protectionism = {
 	}
 	
 	tariff_modifier_no_priority = {
-		tariff_export_add = 0.10
-		tariff_import_add = 0.10
+		tariff_export_add = 0.05
+		tariff_import_add = 0.05
 	}	
 	
 	tariff_modifier_export_priority = {
-		tariff_import_add = 0.5
+		tariff_import_add = 0.4
 	}
 	
 	tariff_modifier_import_priority = {
-		tariff_export_add = 0.5
+		tariff_export_add = 0.4
 	}	
 	
 	possible_political_movements = {

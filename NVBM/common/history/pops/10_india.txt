@@ -439,7 +439,7 @@
 				size = 249384
 			}
 			create_pop = {
-				culture = kazak1
+				culture = kazak
 				size = 37727
 			}
 		}

@@ -2,11 +2,11 @@
 	s:STATE_DZUNGARIA = {
 		region_state:CHI = {
 			create_pop = {
-				culture = kazak1
+				culture = kazak
 				size = 412588
 			}
 			create_pop = {
-				culture = kazak1
+				culture = kazak
 				# religion = animist
 				size = 15996
 			}
@@ -15,7 +15,7 @@
 				size = 68000
 			}
 			create_pop = {
-				culture = kazak1
+				culture = kazak
 				size = 68004
 			}
 		}
@@ -23,15 +23,15 @@
 	s:STATE_TIANSHAN = {
 		region_state:CHI = {
 			create_pop = {
-				culture = kazak1
+				culture = kazak
 				size = 684180
 			}
 			create_pop = {
-				culture = kazak1
+				culture = kazak
 				size = 3996
 			}
 			create_pop = {
-				culture = kazak1
+				culture = kazak
 				# religion = animist
 				size = 32072
 			}
@@ -45,7 +45,7 @@
 				size = 16196
 			}
 			create_pop = {
-				culture = kazak1
+				culture = kazak
 				size = 8004
 			}
 		}
@@ -358,7 +358,7 @@
 				size = 401660
 			}
 			create_pop = {
-				culture = kazak1
+				culture = kazak
 				size = 48000
 			}
 		}
@@ -399,12 +399,12 @@
 				size = 264000
 			}
 			create_pop = {
-				culture = kazak1
+				culture = kazak
 				# religion = animist
 				size = 100000
 			}
 			create_pop = {
-				culture = kazak1
+				culture = kazak
 				size = 56000
 			}
 			create_pop = {
@@ -750,7 +750,7 @@
 				size = 12000
 			}
 			create_pop = {
-				culture = kazak1
+				culture = kazak
 				size = 48000
 			}
 		}
@@ -1300,7 +1300,7 @@
 				size = 3170167
 			}
 			create_pop = {
-				culture = melanesian1
+				culture = melanesian
 				size = 132
 			}
 			create_pop = {

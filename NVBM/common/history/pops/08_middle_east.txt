@@ -30,7 +30,7 @@
 				size = 8400
 			}
 			create_pop = {
-				culture = kazak1
+				culture = kazak
 				size = 9200
 			}
 			create_pop = {
@@ -107,7 +107,7 @@
 				size = 100
 			}
 			create_pop = {
-				culture = kazak1
+				culture = kazak
 				# religion = shiite
 				size = 230
 			}
@@ -777,7 +777,7 @@
 				size = 1004
 			}
 			create_pop = {
-				culture = kazak1
+				culture = kazak
 				size = 36000
 			}
 			create_pop = {
@@ -836,7 +836,7 @@
 				size = 113192
 			}
 			create_pop = {
-				culture = kazak1
+				culture = kazak
 				size = 82300
 			}
 			create_pop = {
@@ -857,7 +857,7 @@
 				size = 1004
 			}
 			create_pop = {
-				culture = kazak1
+				culture = kazak
 				size = 79996
 			}
 			create_pop = {
@@ -916,7 +916,7 @@
 				size = 416996
 			}
 			create_pop = {
-				culture = kazak1
+				culture = kazak
 				size = 36000
 			}
 			create_pop = {

@@ -1,8 +1,8 @@
 {
-  "name" : "NVBM v2",
+  "name" : "NVBM v2.1",
   "id" : "",
-  "version" : "1.1",
-  "supported_game_version" : "1.1.1",
+  "version" : "2.1",
+  "supported_game_version" : "1.1.2",
   "short_description" : "",
   "tags" : ["Graphics","Economy And Buildings"],
   "relationships" : [],
