@@ -1,0 +1,66 @@
+﻿
+pm_traditional_art = {
+	texture = "gfx/interface/icons/production_method_icons/traditional_art.dds"
+	
+	building_modifiers = {
+		workforce_scaled = {
+			building_input_paper_add = 4 # 120
+			building_output_fine_art_add = 2 # 400
+		}
+	}
+}
+
+pm_realist_art = {
+	texture = "gfx/interface/icons/production_method_icons/realist_art.dds"
+
+	unlocking_technologies = {
+		realism
+	}
+
+	building_modifiers = {		
+	
+		workforce_scaled = {
+			building_input_paper_add = 6 # 150
+			building_output_fine_art_add = 4 # 600
+		}				
+	}
+}
+
+pm_photographic_art = {
+	texture = "gfx/interface/icons/production_method_icons/photographic_art.dds"
+
+	unlocking_technologies = {
+		camera
+	}
+	
+	building_modifiers = {		
+	
+		workforce_scaled = {
+			building_input_paper_add = 10 # 300
+			building_input_tools_add = 5 # 200
+
+			building_output_fine_art_add = 6 # 1000
+			building_output_services_add = 5 # 150
+		}					
+	}
+}
+
+pm_film_art = {
+	texture = "gfx/interface/icons/production_method_icons/film_art.dds"
+
+	unlocking_technologies = {
+		film
+	}
+
+	building_modifiers = {		
+	
+		workforce_scaled = {
+			building_input_tools_add = 12 # 400
+			building_input_paper_add = 12 # 300
+			building_input_electricity_add = 5 # 150
+			
+			building_output_fine_art_add = 10 # 1600
+			building_output_services_add = 10 # 300
+		}					
+	}
+}	

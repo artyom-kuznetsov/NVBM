@@ -1,4 +1,13 @@
 ﻿l_russian:
+ pmg_construction_sector_throughput:0 "Скорость строительства"
+ pm_throughput_full:0 "Полная скорость"
+ pm_throughput_three_quarters:0 "Три четверти скорости"
+ pm_throughput_half:0 "Половина скорости"
+ pm_throughput_quarter:0 "Четверть скорости"
+ pm_no_forestry:0 "Нет производства древесины"
+ pm_sugarbeet:0 "Сахарная свёкла (@grain!#N 20#!@sugar!#P 15#!)"
+ pm_saw_hardwood:0 "Лесопилки твёрдой древесины (@tools!#N 5#!@hardwood!#P 20#!)"
+ pm_electric_saw_hardwood:0 "Электропилы для твёрдой древесины (@tools!#N 10#!@electricity!#N 5#!@hardwood!#P 35#!)"
  modifier_state_building_university_max_level_add:0 "к  макс. уровню университетов"
  dakota1:0 "Североамериканские меньшинства"
  amazonian1:0 "Южноамериканские меньшинства"

@@ -138,3 +138,42 @@ pm_arc_welded_buildings = {
 		}	
 	}
 }
+
+pm_throughput_full = {
+	texture = "gfx/interface/icons/production_method_icons/const_throughput_full.dds"
+	
+	
+}
+
+pm_throughput_three_quarters = {
+	texture = "gfx/interface/icons/production_method_icons/const_throughput_34.dds"
+	
+	building_modifiers = {
+		unscaled = {
+			building_throughput_mult = -0.25
+		}
+	}
+	
+}
+
+pm_throughput_half = {
+	texture = "gfx/interface/icons/production_method_icons/const_throughput_12.dds"
+	
+	building_modifiers = {
+		unscaled = {
+			building_throughput_mult = -0.5
+		}
+	}
+	
+}
+
+pm_throughput_quarter = {
+	texture = "gfx/interface/icons/production_method_icons/const_throughput_14.dds"
+	
+	building_modifiers = {
+		unscaled = {
+			building_throughput_mult = -0.75
+		}
+	}
+	
+}

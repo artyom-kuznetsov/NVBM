@@ -1,4 +1,13 @@
-﻿l_russian:
+﻿l_english:
+ pmg_construction_sector_throughput:0 "Consctruction Speed"
+ pm_throughput_full:0 "Full Speed"
+ pm_throughput_three_quarters:0 "Three Quarters Speed"
+ pm_throughput_half:0 "Half Speed"
+ pm_throughput_quarter:0 "Quarter Speed"
+ pm_no_forestry:0 "No Forestry"
+ pm_saw_hardwood:0 "Hardwood Sawmills (@tools!#N 5#!@hardwood!#P 20#!)"
+ pm_sugarbeet:0 "Sugarbeet (@grain!#N 20#!@sugar!#P 15#!)"
+ pm_electric_saw_hardwood:0 "Hardwood Electric Saw Mills (@tools!#N 10#!@electricity!#N 5#!@hardwood!#P 35#!)"
  modifier_state_building_university_max_level_add:0 "university max level"
  dakota1:0 "North American Minorities"
  amazonian1:0 "South American Minorities"
