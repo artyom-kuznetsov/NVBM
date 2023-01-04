@@ -1,0 +1,67 @@
+﻿building_suez_canal = {
+	building_group = bg_canals
+	texture = "gfx/interface/icons/building_icons/suez_canal.dds"
+	canal = canal_suez
+	expandable = no
+	downsizeable = no
+	unique = yes
+	required_construction = construction_cost_canal
+	
+
+	entity_not_constructed = { }
+	entity_under_construction = { "canal_suezcanal_under_construction_01_entity" }
+	entity_constructed = { "canal_suezcanal_01_entity" }
+	locator = "canal_suez_locator"
+
+	city_gfx_interactions = {
+		clear_collision_mesh_area = yes
+		clear_size_area = no
+	}
+
+	production_method_groups = {
+		pmg_canal_power
+		pm_canal_pwr_none
+		pm_canal_pwr_coal
+		pm_canal_pwr_oil
+		pm_canal_pwr_electricity
+
+		pmg_canal_taxation
+		pm_canal_tax_none
+		pm_canal_tax_low
+		pm_canal_tax_med
+		pm_canal_tax_high
+	}
+}
+
+building_panama_canal = {
+	building_group = bg_canals
+	texture = "gfx/interface/icons/building_icons/panama_canal.dds"
+	canal = canal_panama
+	expandable = no
+	downsizeable = no
+	unique = yes
+	required_construction = construction_cost_canal
+	
+	entity_not_constructed = { }
+	entity_under_construction = { "canal_panamacanal_under_construction_01_entity" }
+	entity_constructed = { "canal_panamacanal_01_entity" }
+	locator = "canal_panama_locator"
+
+	city_gfx_interactions = {
+		clear_collision_mesh_area = yes
+		clear_size_area = no
+	}
+
+	production_method_groups = {
+		pmg_canal_power
+		pm_canal_pwr_coal
+		pm_canal_pwr_oil
+		pm_canal_pwr_electricity
+
+		pmg_canal_taxation
+		pm_canal_tax_none
+		pm_canal_tax_low
+		pm_canal_tax_med
+		pm_canal_tax_high
+	}
+}
