@@ -1,0 +1,9 @@
+﻿pm_no_rifle = {
+	texture = "gfx/interface/icons/production_method_icons/no_rifle.dds"
+	
+	unlocking_production_methods = {
+		pm_cannons
+		pm_smoothbores
+		pm_breech_loaders
+	}
+}

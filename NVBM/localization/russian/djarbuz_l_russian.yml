@@ -5,6 +5,7 @@
  pm_throughput_half:0 "Половина скорости"
  pm_throughput_quarter:0 "Четверть скорости"
  pm_no_forestry:0 "Нет производства древесины"
+ pm_no_rifle:0 "Нет производства оружия"
  pm_sugarbeet:0 "Сахарная свёкла (@grain!#N 20#!@sugar!#P 15#!)"
  pm_saw_hardwood:0 "Лесопилки твёрдой древесины (@tools!#N 5#!@hardwood!#P 20#!)"
  pm_electric_saw_hardwood:0 "Электропилы для твёрдой древесины (@tools!#N 10#!@electricity!#N 5#!@hardwood!#P 35#!)"
