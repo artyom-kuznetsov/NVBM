@@ -44,10 +44,10 @@ pmg_secondary_building_rye_farm = {
 	production_methods = {
 		pm_no_secondary
 		pm_potatoes
-		pm_potatoes_intensive
 		pm_apple_orchards
-		pm_apple_orchards_intensive
 		pm_sugarbeet
+		pm_potatoes_intensive
+		pm_apple_orchards_intensive
 		pm_sugarbeet_intensive
 	}
 }
@@ -57,10 +57,10 @@ pmg_secondary_building_wheat_farm = {
 	production_methods = {
 		pm_no_secondary
 		pm_citrus_orchards
-		pm_citrus_orchards_intensive
 		pm_vineyards
-		pm_vineyards_distillation
 		pm_sugarbeet
+		pm_citrus_orchards_intensive
+		pm_vineyards_distillation
 		pm_sugarbeet_intensive
 	}
 }
@@ -78,8 +78,8 @@ pmg_secondary_building_maize_farm = {
 	texture = "gfx/interface/icons/generic_icons/mixed_icon_refining.dds"
 	production_methods = {
 		pm_no_secondary
-		pm_citrus_orchards_intensive
 		pm_vineyards_building_maize_farm
+		pm_citrus_orchards_intensive
 		pm_vineyards_building_maize_farm_distillation
 	}
 }
