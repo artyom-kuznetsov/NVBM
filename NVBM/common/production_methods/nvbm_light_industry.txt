@@ -1,0 +1,22 @@
+﻿pm_assembly_lines_building_furniture_manufacturies = {
+	texture = "gfx/interface/icons/production_method_icons/assembly_lines.dds"
+	
+	pollution_generation = 10
+	
+	unlocking_technologies = {
+		conveyors
+	}
+	
+	building_modifiers = {
+		workforce_scaled = {
+			# input goods
+			building_input_tools_add = 5
+			building_input_oil_add = 2			# *40 = 100 was 200
+			building_input_electricity_add = 7	# *30 = 210 was 150
+		}
+
+		level_scaled = {
+			building_employment_laborers_add = -3000
+		}
+	}
+}

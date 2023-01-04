@@ -1,0 +1,26 @@
+﻿# ERA 2
+# ERA 3
+intensive_secondary = {
+	# Unlocks Chemical Plants
+	# Unlocks Intensive Agriculture PM on Rye Farms, Wheat Farms, Rice Farms, Maize Farms, Millet Farms
+	# Unlocks Intensize Grazing Ranch PM on Livestock Ranches
+	era = era_3
+	texture = "gfx/interface/icons/invention_icons/intensive_secondary.dds"
+	category = production
+	
+	unlocking_technologies = {
+		intensive_agriculture
+	}
+}
+
+improved_fertilizer = {
+	# Unlocks Improved Fertilizer PM in Chemical Plants
+	# Unlocks Fertilization PM in Rye, Wheat, Rice, Maize, Millet Farms
+	era = era_3
+	texture = "gfx/interface/icons/invention_icons/improved_fertilizer.dds"
+	category = production
+	
+	unlocking_technologies = {	
+		intensive_secondary
+	}
+}

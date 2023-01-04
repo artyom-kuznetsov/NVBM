@@ -44,8 +44,11 @@ pmg_secondary_building_rye_farm = {
 	production_methods = {
 		pm_no_secondary
 		pm_potatoes
+		pm_potatoes_intensive
 		pm_apple_orchards
+		pm_apple_orchards_intensive
 		pm_sugarbeet
+		pm_sugarbeet_intensive
 	}
 }
 
@@ -54,9 +57,30 @@ pmg_secondary_building_wheat_farm = {
 	production_methods = {
 		pm_no_secondary
 		pm_citrus_orchards
-		pm_sugarbeet
+		pm_citrus_orchards_intensive
 		pm_vineyards
-		pm_cellar
+		pm_vineyards_distillation
+		pm_sugarbeet
+		pm_sugarbeet_intensive
+	}
+}
+
+pmg_secondary_building_rice_farm = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_refining.dds"
+	production_methods = {
+		pm_no_secondary
+		pm_fig_orchards
+		pm_fig_orchards_intensive
+	}
+}
+
+pmg_secondary_building_maize_farm = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_refining.dds"
+	production_methods = {
+		pm_no_secondary
+		pm_citrus_orchards_intensive
+		pm_vineyards_building_maize_farm
+		pm_vineyards_building_maize_farm_distillation
 	}
 }
 
@@ -65,7 +89,7 @@ pmg_secondary_building_millet_farm = {
 	production_methods = {
 		pm_no_secondary
 		pm_fig_orchards
-		pm_sugarbeet
+		pm_fig_orchards_intensive
 	}
 }
 
@@ -82,5 +106,18 @@ pmg_firearms_manufacturing = {
 		pm_rifles
 		pm_repeaters
 		pm_bolt_action_rifles
+	}
+}
+
+# FOOD INDUSTRIES
+
+pmg_canning = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_disabled_canning
+		pm_cannery
+		pm_cannery_meat
+		pm_vacuum_canning
+		pm_vacuum_canning_meat
 	}
 }

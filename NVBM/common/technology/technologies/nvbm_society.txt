@@ -1,0 +1,67 @@
+﻿### ERA 1
+academia = {
+	# Unlocks University building
+	era = era_1
+	texture = "gfx/interface/icons/invention_icons/academia.dds"
+	category = society
+	modifier = {
+		state_building_university_max_level_add = 1
+	}
+	unlocking_technologies = {
+		rationalism
+	}
+}
+
+empiricism = {
+	# Unlocks Total Separation - Church and State Law
+	era = era_1
+	texture = "gfx/interface/icons/invention_icons/empiricism.dds"
+	category = society
+	
+	modifier = {
+		country_influence_mult = 0.1
+		country_institution_schools_max_investment_add = 1
+		state_building_university_max_level_add = 1
+	}
+	
+	unlocking_technologies = {
+		academia
+	}
+}
+
+### ERA 2
+
+dialectics = {
+	# Unlocks Philosophy Department PM in Universities
+	
+	era = era_2
+	texture = "gfx/interface/icons/invention_icons/dialectics.dds"
+	category = society
+	
+	modifier = {
+		country_institution_schools_max_investment_add = 1
+		state_building_university_max_level_add = 1
+	}
+	
+	unlocking_technologies = {
+		empiricism
+	}
+}
+
+### ERA 3
+
+### ERA 4
+### ERA 5
+
+analytical_philosophy = {
+	# #todo#! Does nothing at the moment
+	era = era_5
+	texture = "gfx/interface/icons/invention_icons/analytical_philosophy.dds"
+	category = society
+	modifier = {
+		state_building_university_max_level_add = 1
+	}
+	unlocking_technologies = {
+		psychoanalysis
+	}
+}
