@@ -29,6 +29,8 @@
 	
 	country_construction_add = 10
 	
+	state_infrastructure_from_population_max_add = 10000
+	
 	building_mobilization_cost_mult = 0.6
 	
 	building_economy_of_scale_level_cap_add = 20
