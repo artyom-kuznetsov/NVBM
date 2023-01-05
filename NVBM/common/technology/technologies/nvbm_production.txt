@@ -65,7 +65,7 @@ steel_railways = {
 	texture = "gfx/interface/icons/invention_icons/steel_railways.dds"
 	category = production
 	modifier = {
-		state_building_railway_max_level_add = 1
+		state_building_railway_max_level_add = 2
 	}
 	
 	unlocking_technologies = {

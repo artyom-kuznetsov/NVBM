@@ -186,6 +186,22 @@ quinine = {
 
 ### ERA 3
 
+steel_frame_buildings = {
+	# Unlocks Covered Markets PM in Urban Centers
+	era = era_3
+	texture = "gfx/interface/icons/invention_icons/steel_frame_buildings.dds"
+	category = society
+	modifier = {
+		state_infrastructure_from_population_add = 0.05
+		state_infrastructure_from_population_max_add = 50
+		state_building_construction_sector_max_level_add = 5
+	}
+	
+	unlocking_technologies = {
+		modern_sewerage
+	}
+}
+
 ### ERA 4
 elevator = {
 	# Unlocks Arcades PM in Urban Center

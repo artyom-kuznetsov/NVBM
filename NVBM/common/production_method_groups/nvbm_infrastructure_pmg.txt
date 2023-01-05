@@ -85,5 +85,6 @@ pmg_passenger_trains = {
 		pm_wooden_cargo_carriages
 		pm_steel_passenger_carriages_dja
 		pm_steel_cargo_carriages
+		pm_steel_long_carriages
 	}
 }

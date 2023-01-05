@@ -155,8 +155,7 @@ pm_basic_maintenance = {
 
 	state_modifiers = {
 		workforce_scaled = {
-			state_infrastructure_from_population_add = 0.02
-			state_infrastructure_from_population_max_add = 5
+			state_infrastructure_from_population_max_add = 10
 		}
 	}
 }
@@ -190,8 +189,7 @@ pm_improved_maintenance = {
 
 	state_modifiers = {
 		workforce_scaled = {
-			state_infrastructure_from_population_add = 0.04
-			state_infrastructure_from_population_max_add = 10
+			state_infrastructure_from_population_max_add = 20
 		}
 	}
 }
@@ -225,8 +223,7 @@ pm_season_maintenance = {
 
 	state_modifiers = {
 		workforce_scaled = {
-			state_infrastructure_from_population_add = 0.06
-			state_infrastructure_from_population_max_add = 15
+			state_infrastructure_from_population_max_add = 40
 		}
 	}
 }
@@ -254,7 +251,7 @@ pm_railroad_material_iron = {
 
 	state_modifiers = {
 		workforce_scaled = {
-			state_infrastructure_add = 8
+			state_infrastructure_add = 10
 		}
 	}
 	
@@ -279,7 +276,7 @@ pm_railroad_material_steel = {
 
 	state_modifiers = {
 		workforce_scaled = {
-			state_infrastructure_add = 15
+			state_infrastructure_add = 20
 		}
 	}
 	
@@ -310,7 +307,7 @@ pm_railroad_semaphore = {
 	}
 	state_modifiers = {
 		workforce_scaled = {
-			state_infrastructure_add = 5
+			state_infrastructure_add = 10
 		}
 	}
 }
@@ -338,7 +335,7 @@ pm_railroad_perfect_schedule = {
 	}
 	state_modifiers = {
 		workforce_scaled = {
-			state_infrastructure_add = 15
+			state_infrastructure_add = 25
 		}
 	}
 }
@@ -416,7 +413,7 @@ pm_oil_train = {
 
 	state_modifiers = {
 		workforce_scaled = {
-			state_infrastructure_add = 40
+			state_infrastructure_add = 50
 		}
 	}
 }
@@ -443,7 +440,7 @@ pm_electric_train = {
 
 	state_modifiers = {
 		workforce_scaled = {
-			state_infrastructure_add = 40
+			state_infrastructure_add = 50
 		}
 	}
 }
@@ -470,7 +467,7 @@ pm_fast_train = {
 
 	state_modifiers = {
 		workforce_scaled = {
-			state_infrastructure_add = 65
+			state_infrastructure_add = 80
 		}
 	}
 }
@@ -497,7 +494,7 @@ pm_electric_fast_train = {
 
 	state_modifiers = {
 		workforce_scaled = {
-			state_infrastructure_add = 65
+			state_infrastructure_add = 80
 		}
 	}
 }
@@ -587,11 +584,37 @@ pm_steel_cargo_carriages = {
 	building_modifiers = {
 		workforce_scaled = {
 			building_input_steel_add = 5
-			building_output_transportation_add = 10
+			building_output_transportation_add = 20
 		}
 		level_scaled = {
 			building_employment_machinists_add = 250
 			building_employment_clerks_add = 250
+		}
+	}
+}
+
+pm_steel_long_carriages = {
+	texture = "gfx/interface/icons/production_method_icons/long_cargo_trains.dds"
+	pollution_generation = 10
+
+	unlocking_technologies = {
+		steel_railway_cars
+	}
+	
+	building_modifiers = {
+		workforce_scaled = {
+			building_input_steel_add = 10
+			building_input_electricity_add = 10
+			building_output_transportation_add = 30
+		}
+		level_scaled = {
+			building_employment_machinists_add = 500
+			building_employment_clerks_add = 500
+		}
+	}
+	state_modifiers = {
+		workforce_scaled = {
+			state_infrastructure_add = 20
 		}
 	}
 }
