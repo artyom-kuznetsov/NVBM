@@ -1,4 +1,74 @@
 ﻿l_english:
+# RAILROADING UPDATE NVBM v4
+ # Carriages
+ pm_wooden_passenger_carriages_dja:0 "Wooden Passenger Carriages (@wood!#N 5#!@transportation!#P 25#!"
+ pm_wooden_cargo_carriages:0 "Wooden Cargo Carriages (@wood!#N 5#!@transportation!#P 10#!"
+ pm_steel_cargo_carriages:0 "Steel Cargo Carriages (@steel!#N 5#!@transportation!#P 20#!"
+ pm_steel_passenger_carriages_dja:0 "Steel Passenger Carriages (@steel!#N 5#!@transportation!#P 40#!"
+ pm_no_passenger_trains:0 "Standard Composition"
+ pmg_passenger_trains:0 "Railway Train"
+ 
+ # Train types
+ pm_early_trains:0 "Early Locomotives (@engines!#N 10#!@coal!#N 5#!@wood!#N 5#! @arrow_right! @transportation!#P 50#!"
+ pm_steam_trains_dja:0 "Steam Trains (@engines!#N 15#!@coal!#N 15#! @arrow_right! @transportation!#P 75#!"
+ pm_oil_train:0 "Diesel Train (@engines!#N 20#!@oil!#N 15#! @arrow_right! @transportation!#P 100#!"
+ pm_electric_train:0 "Electric Train (@engines!#N 20#!@electricity!#N 25#! @arrow_right! @transportation!#P 100#!"
+ 
+ # Railway upgrades
+ pm_railroad_no_upgrade:0 "No Upgrade"
+ pm_railroad_semaphore:0 "Semaphore Usage"
+ pm_railroad_perfect_schedule:0 "Perfect Schedule"
+ pmg_railroad_upgrade:0 "Railroad Upgrade" 
+ 
+ # Railway material
+ pm_railroad_material_default:0 "Iron Rails"
+ pm_railroad_material_iron:0 "Pig Iron Rails"
+ pm_railroad_material_steel:0 "Steel Rails"
+ pmg_railroad_material:0 "Railway Material"
+ 
+ # Road types
+ pmg_base_building_roads:0 "Road Type"
+ pm_dirt_roads:0 "Dirt Roads (@tools!#N 1#!@wood!#N 5#! @arrow_right! @transportation!#P 5#!)"
+ pm_gravel_roads:0 "Gravel Roads(@tools!#N 2#!@wood!#N 3#!@iron!#N 2#! @arrow_right! @transportation!#P 10#!)"
+ pm_paved_roads:0 "Paved Roads (@tools!#N 3#!@iron!#N 5#! @arrow_right! @transportation!#P 15#!)"
+ pm_asphalt_roads:0 "Asphalt Roads"
+ 
+ # Road maintenance
+ pmg_maintenance_building_roads:0 "Road Maintenance"
+ pm_no_maintenance:0 "No Maintenance"
+ pm_basic_maintenance:0 "Has Road Maintenance (@wood!#N 5#! @arrow_right! @transportation!#P 5#!)"
+ pm_improved_maintenance:0 "Extensive Road Maintenance (@wood!#N 5#!@fabric!#N 5#! @arrow_right! @transportation!#P 12#!)"
+ pm_season_maintenance:0 "Year-Round Road Maintenance"(@glass!#N 5#!@electricity!#N 5#! @arrow_right! @transportation!#P 20#!)
+ 
+ # Misc
+ pm_sewerage:0 "Sewerage"
+ 
+ # Buildings
+ bulding_road_network:0 "Road Network"
+ 
+ # Technologies
+    # production
+ railways:0 "Experimental Railroad"
+ railways_normal:0 "Early Railroad"
+ steam_trains:0 "Steam Train"
+ iron_railways:0 "Iron Railroad"
+ iron_railways_desc:0 "Pig iron rails are much stronger than iron rails. So they don't rust yet!"
+ steel_railways:0 "Steel Railroad"
+ steel_railways_desc:0 "Steel is a much more flexible and durable material than cast iron. The transition to steel rails will greatly improve our railway network."
+ semaphore_signalling:0 "Semaphore"
+ semaphore_signalling_desc:0 "Semaphore is a mechanical signalling device for rolling stock on railways."
+    # society
+ developed_road_network:0 "Developed Road Network"
+ developed_road_network_desc:0 "We will pave roads to any backwater!"
+ developed_sewer_network:0 "Urban Sewer Network"
+ developed_sewer_network_desc:0 "The city sewer network will be laid in all the houses of each city."
+ stone_roads:0 "Paved Road"
+ stone_roads_desc:0 "Forming a road of stone bricks allows to significantly improve road smoothness and lenght of life."
+ gravel_roads:0 "Gravel Road"
+ gravel_roads_desc:0 "If you fill up the path with rubble and mash everything thoroughly, you will get a more durable and comfortable coating than just earth."
+ paved_roads:0 "Highway"
+ 
+ 
  pm_vineyards_building_maize_farm_distillation:0 "Fertilized Vineyards (@grain!#N 15#!@glass!#N 4#!@wine!#P 10#!)"
  pm_vineyards_distillation:0 "Fertilized Vineyards (@grain!#N 20#!@glass!#N 5#!@wine!#P 15#!)"
  intensive_secondary:0 "Extensive Fertilizers Usage"
@@ -21,6 +91,12 @@
  pm_sugarbeet:0 "Sugarbeet (@grain!#N 20#!@sugar!#P 15#!)"
  pm_electric_saw_hardwood:0 "Hardwood Electric Saw Mills (@tools!#N 10#!@electricity!#N 5#!@hardwood!#P 35#!)"
  modifier_state_building_university_max_level_add:0 "university max level"
+ modifier_state_building_sewers_max_level_add:0 "sewers max level"
+ modifier_state_building_road_network_max_level_add:0 "road network max level"
+ modifier_state_building_railway_max_level_add:0 "railway max level"
+ building_sewer_network:0 "Sewers"
+ pmg_base_building_sewers:0 "Sewer Type"
+ pmg_ownership_building_sewers:0 "Ownership"
  dakota1:0 "North American Minorities"
  amazonian1:0 "South American Minorities"
  mexican:0 "Latino-American"

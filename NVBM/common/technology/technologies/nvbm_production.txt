@@ -24,3 +24,148 @@ improved_fertilizer = {
 		intensive_secondary
 	}
 }
+
+railways = {
+	# Unlocks Railways
+	# Unlocks Rail Transport PM in Coal, Iron, Lead, Sulfur Mines
+	# Unlocks Rail Transport PM in Coffee, Cotton, Dye, Opium, Tea, Tobacco, Sugar, Rubber, Banana Plantations
+	# Unlocks Rail Transport PM in Logging Camp
+	# Unlocks Rail Transport PM in Oil Rig
+	# Unlocks Public Trams in Urban Centers
+	# Increases Railway max level by 1
+	era = era_2
+	texture = "gfx/interface/icons/invention_icons/railways.dds"
+	category = production
+	modifier = {
+		state_building_railway_max_level_add = 2
+	}
+	unlocking_technologies = {
+		mechanical_tools
+		atmospheric_engine
+	}
+}
+
+iron_railways = {
+	# Increases Railway max level by 1
+	era = era_3
+	texture = "gfx/interface/icons/invention_icons/iron_railways.dds"
+	category = production
+	modifier = {
+		state_building_railway_max_level_add = 1
+	}
+	
+	unlocking_technologies = {
+		railways
+	}
+}
+
+steel_railways = {
+	# Increases Railway max level by 1
+	era = era_4
+	texture = "gfx/interface/icons/invention_icons/steel_railways.dds"
+	category = production
+	modifier = {
+		state_building_railway_max_level_add = 1
+	}
+	
+	unlocking_technologies = {
+		iron_railways
+		steel_railway_cars
+	}
+}
+
+steam_trains = {
+	# Increases Railway max level by 1
+	era = era_3
+	texture = "gfx/interface/icons/invention_icons/steam_trains.dds"
+	category = production
+	
+	unlocking_technologies = {
+		railways
+		watertube_boiler
+	}
+}
+
+combustion_engine = {
+	# Unlocks Automobile Production PM in Motor Industries
+	# Unlocks Diesel Pump PM in Coal, Iron, Lead, Sulfur Mines
+	# Unlocks Chainsaws PM in Logging Camps
+	# Unlocks Combustion Derricks PM in Oil Rigs
+	# Unlocks Public Motor Carriages PM in Urban Centers
+	era = era_4
+	texture = "gfx/interface/icons/invention_icons/combustion_engine.dds"
+	category = production
+	
+	modifier = {
+		state_building_railway_max_level_add = 1
+	}
+	unlocking_technologies = {	
+		steam_trains
+		rotary_valve_engine
+	}
+}
+
+electric_railway = {
+	# Unlocks Electric Trains PM in Railways
+	# Unlocks Log Carts PM in Logging Camps
+	# Unlocks Refrigerated Rail Carts in Fishing Wharfs
+	# Increases Railway max level by 1
+	era = era_4
+	texture = "gfx/interface/icons/invention_icons/electric_railway.dds"
+	category = production		
+	
+	modifier = {
+		state_building_railway_max_level_add = 1
+	}
+	unlocking_technologies = {
+		electrical_capacitors
+		steel_railway_cars
+	}	
+}
+
+steel_railway_cars = {
+	# Unlocks Steel Passenger Carriages PM and Armored Cars PM in Railways
+	# Unlocks Tanker Cars PM in Oil Rig buildings
+	# Increases Railway max level by 1
+	era = era_3
+	texture = "gfx/interface/icons/invention_icons/steel_railway_cars.dds"
+	category = production	
+	modifier = {
+		state_building_railway_max_level_add = 1
+	}
+	unlocking_technologies = {	
+		steam_trains
+		railways
+	}
+}
+
+semaphore_signalling = {
+	# Unlocks Steel Passenger Carriages PM and Armored Cars PM in Railways
+	# Unlocks Tanker Cars PM in Oil Rig buildings
+	# Increases Railway max level by 1
+	era = era_3
+	texture = "gfx/interface/icons/invention_icons/semaphore_signalling.dds"
+	category = production	
+	
+	modifier = {
+		state_building_railway_max_level_add = 1
+	}
+	unlocking_technologies = {	
+		steam_trains
+	}
+}
+
+compression_ignition = {
+	# Unlocks Diesel Trains PM in Railways
+	# Unlocks Compression Ignition Tractors PM in Rye Farms, Wheat Farms, Millet Farms
+	era = era_5
+	texture = "gfx/interface/icons/invention_icons/compression_ignition.dds"
+	category = production
+	
+	modifier = {
+		state_building_railway_max_level_add = 1
+	}
+	unlocking_technologies = {
+		combustion_engine
+	}
+}

@@ -1,6 +1,6 @@
 ﻿base_values = {
-	country_weekly_innovation_add = 50
-	country_weekly_innovation_max_add = 50
+	country_weekly_innovation_add = 55
+	country_weekly_innovation_max_add = 55
 	country_tech_spread_add = 25
 	
 	country_loan_interest_rate_add = 0.2
@@ -46,7 +46,7 @@ battle_army_average_morale_protection = {
 
 country_literacy_rate = {
 	icon = gfx/interface/icons/timed_modifier_icons/modifier_lightbulb_positive.dds
-	country_weekly_innovation_max_add = 100
-	country_weekly_innovation_add = 100
+	country_weekly_innovation_max_add = 110
+	country_weekly_innovation_add = 110
 	country_tech_spread_add = 75
 }

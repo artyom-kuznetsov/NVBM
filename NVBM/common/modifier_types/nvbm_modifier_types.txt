@@ -9,3 +9,21 @@ state_building_university_max_level_add = {
 	percent = no
 	num_decimals = 0
 }
+
+state_building_sewer_network_max_level_add = {
+	good = yes
+	percent = no
+	num_decimals = 0
+}
+
+state_building_road_network_max_level_add = {
+	good = yes
+	percent = no
+	num_decimals = 0
+}
+
+state_building_railway_max_level_add = {
+	good = yes
+	percent = no
+	num_decimals = 0
+}

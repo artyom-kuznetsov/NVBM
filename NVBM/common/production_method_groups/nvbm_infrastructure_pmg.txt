@@ -1,0 +1,89 @@
+﻿pmg_base_building_sewers = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	ai_selection = most_productive
+
+	production_methods = {
+		pm_sewerage
+	}
+}
+
+pmg_base_building_roads = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	ai_selection = most_productive
+
+	production_methods = {
+		pm_dirt_roads
+		pm_gravel_roads
+		pm_paved_roads
+		pm_asphalt_roads
+	}
+}
+
+pmg_maintenance_building_roads = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	ai_selection = most_productive
+
+	production_methods = {
+		pm_no_maintenance
+		pm_basic_maintenance
+		pm_improved_maintenance
+		pm_season_maintenance
+	}
+}
+
+pmg_ownership_building_sewers = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	ai_selection = most_productive
+
+	production_methods = {
+		pm_trade_center_government_run
+	}
+}
+pmg_base_building_railway = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	ai_selection = most_productive
+
+	production_methods = {
+		pm_early_trains
+		pm_steam_trains_dja
+		pm_oil_train
+		pm_electric_train
+		pm_fast_train
+		pm_electric_fast_train
+	}
+}
+
+pmg_railroad_upgrade = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	ai_selection = most_productive
+
+	production_methods = {
+		pm_railroad_no_upgrade
+		pm_railroad_semaphore
+		pm_railroad_perfect_schedule
+	}
+}
+
+pmg_railroad_material = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	ai_selection = most_productive
+
+	production_methods = {
+		pm_railroad_material_default
+		pm_railroad_material_iron
+		pm_railroad_material_steel
+	}
+}
+
+pmg_passenger_trains = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_refining.dds"
+	ai_selection = most_productive
+
+	production_methods = {
+		pm_no_passenger_trains
+		pm_wooden_passenger_carriages_dja
+		pm_wooden_cargo_carriages
+		pm_steel_passenger_carriages_dja
+		pm_steel_cargo_carriages
+	}
+}
