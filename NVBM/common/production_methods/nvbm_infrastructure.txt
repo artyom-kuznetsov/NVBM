@@ -155,7 +155,7 @@ pm_basic_maintenance = {
 
 	state_modifiers = {
 		workforce_scaled = {
-			state_infrastructure_from_population_add = 0.03
+			state_infrastructure_from_population_add = 0.02
 		}
 	}
 }
@@ -189,7 +189,7 @@ pm_improved_maintenance = {
 
 	state_modifiers = {
 		workforce_scaled = {
-			state_infrastructure_from_population_add = 0.05
+			state_infrastructure_from_population_add = 0.03
 		}
 	}
 }
@@ -223,7 +223,7 @@ pm_season_maintenance = {
 
 	state_modifiers = {
 		workforce_scaled = {
-			state_infrastructure_from_population_add = 0.08
+			state_infrastructure_from_population_add = 0.05
 		}
 	}
 }

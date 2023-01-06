@@ -13,6 +13,8 @@
  pm_steam_trains_dja:0 "Паровозы (@engines!#N 15#!@coal!#N 15#! @arrow_right! @transportation!#P 75#!"
  pm_oil_train:0 "Тепловозы (@engines!#N 20#!@oil!#N 15#! @arrow_right! @transportation!#P 100#!"
  pm_electric_train:0 "Электровозы (@engines!#N 20#!@electricity!#N 25#! @arrow_right! @transportation!#P 100#!"
+ pm_fast_train:0 "Скорый поезд (@engines!#N 30#!@oil!#N 30#! @arrow_right! @transportation!#P 160#!"
+ pm_electric_fast_train:0 "Скорая электричка (@engines!#N 30#!@electricity!#N 50#! @arrow_right! @transportation!#P 160#!"
  
  # Railway upgrades
  pm_railroad_no_upgrade:0 "Нет улучшений"
@@ -42,6 +44,7 @@
  
  # Misc
  pm_sewerage:0 "Канализация"
+ pm_smoke_powder:0 "Дымный порох (@sulphur!#N 20#!@lead!#N 15#! @arrow_right! @ammunition!#P 40#!"
  
  # Buildings
  building_road_network:0 "Дорожная сеть"
@@ -72,8 +75,8 @@
  intensive_secondary:0 "Экстенсивное использование удобрений"
  intensive_secondary_desc:0 "Технология применения удобрений для прочих культур, таких как картофель, разные сорта деревьев, свёкла и т.д."
  pm_sugarbeet_intensive:0 "Сахарная свёкла с использованием удобрений (@grain!#N 20#!@fertilizer!#N 5#!@sugar!#P 20#!)"
- pm_vineyards_building_maize_farm_distillation:0 "Виноградники с использованием удобрений (@grain!#N 15#!@glass!#N 4#!@wine!#P 10#!)"
- pm_vineyards_distillation:0 "Виноградники с использованием удобрений (@grain!#N 20#!@glass!#N 5#!@wine!#P 15#!)"
+ pm_vineyards_building_maize_farm_distillation:0 "Винокурни (@grain!#N 15#!@glass!#N 4#!@wine!#P 10#!)"
+ pm_vineyards_distillation:0 "Винокурни (@grain!#N 20#!@glass!#N 5#!@wine!#P 15#!)"
  pm_potatoes_intensive:0 "Картофель с использованием удобрений (@grain!#N 20#!@fertilizer!#N 6#!@liquor!#P 15#!)"
  pm_apple_orchards_intensive:0 "Яблочные сады с использованием удобрений (@grain!#N 20#!@fertilizer!#N 5#!@fruit!#P 14#!@sugar!#P 10#!)"
  pm_citrus_orchards_intensive:0 "Сады цитрусов с использованием удобрений (@grain!#N 20#!@fertilizer!#N 5#!@fruit!#P 15#!@sugar!#P 9#!)"

@@ -81,10 +81,9 @@ law_isolationism = {
 	}		
 	
 	modifier = {
-		country_authority_mult = 0.5
+		country_authority_mult = 0.1
 		state_tax_capacity_mult = 0.25
 		
-		country_max_declared_interests_mult = -0.5
 		
 		market_disallow_trade_routes = yes
 	}

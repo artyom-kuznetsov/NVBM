@@ -13,6 +13,8 @@
  pm_steam_trains_dja:0 "Steam Trains (@engines!#N 15#!@coal!#N 15#! @arrow_right! @transportation!#P 75#!"
  pm_oil_train:0 "Diesel Train (@engines!#N 20#!@oil!#N 15#! @arrow_right! @transportation!#P 100#!"
  pm_electric_train:0 "Electric Train (@engines!#N 20#!@electricity!#N 25#! @arrow_right! @transportation!#P 100#!"
+ pm_fast_train:0 "Fast Train (@engines!#N 30#!@oil!#N 30#! @arrow_right! @transportation!#P 160#!"
+ pm_electric_fast_train:0 "Electric Fast Train (@engines!#N 30#!@electricity!#N 50#! @arrow_right! @transportation!#P 160#!"
  
  # Railway upgrades
  pm_railroad_no_upgrade:0 "No Upgrade"
@@ -69,8 +71,8 @@
  paved_roads:0 "Highway"
  
  
- pm_vineyards_building_maize_farm_distillation:0 "Fertilized Vineyards (@grain!#N 15#!@glass!#N 4#!@wine!#P 10#!)"
- pm_vineyards_distillation:0 "Fertilized Vineyards (@grain!#N 20#!@glass!#N 5#!@wine!#P 15#!)"
+ pm_vineyards_building_maize_farm_distillation:0 "Distillery (@grain!#N 15#!@glass!#N 4#!@wine!#P 10#!)"
+ pm_vineyards_distillation:0 "Distillery (@grain!#N 20#!@glass!#N 5#!@wine!#P 15#!)"
  intensive_secondary:0 "Extensive Fertilizers Usage"
  intensive_secondary_desc:0 "A technology for using fertilizers for different crops, like potatoes, beet and various tree types."
  pm_sugarbeet_intensive:0 "Fertilized Sugarbeet (@grain!#N 20#!@fertilizer!#N 5#!@sugar!#P 15#!)"

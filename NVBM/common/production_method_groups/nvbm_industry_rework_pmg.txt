@@ -1,4 +1,18 @@
-﻿# LOGGING CAMPS # WOOD # HARDWOOD
+﻿# MUNITIONS INDUSTRY
+
+pmg_base_building_munition_plants = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	ai_selection = most_productive
+
+	production_methods = {
+		pm_smoke_powder
+		pm_percussion_caps
+		pm_explosive_shells
+	}
+}
+
+
+# LOGGING CAMPS # WOOD # HARDWOOD
 pmg_base_building_logging_camp = {
 	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
 	production_methods = {

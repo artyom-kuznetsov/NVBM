@@ -33,7 +33,6 @@ gravel_roads = {
 	category = society
 	
 	modifier = {
-		state_infrastructure_from_population_max_add = 5
 		state_building_road_network_max_level_add = 1
 	}
 	
