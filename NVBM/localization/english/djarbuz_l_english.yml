@@ -44,9 +44,10 @@
  
  # Misc
  pm_sewerage:0 "Sewerage"
+ pm_smoke_powder:0 "Smoke Powder (@sulphur!#N 20#!@lead!#N 15#! @arrow_right! @ammunition!#P 40#!"
  
  # Buildings
- bulding_road_network:0 "Road Network"
+ building_road_network:0 "Road Network"
  
  # Technologies
     # production
@@ -93,7 +94,7 @@
  pm_sugarbeet:0 "Sugarbeet (@grain!#N 20#!@sugar!#P 15#!)"
  pm_electric_saw_hardwood:0 "Hardwood Electric Saw Mills (@tools!#N 10#!@electricity!#N 5#!@hardwood!#P 35#!)"
  modifier_state_building_university_max_level_add:0 "university max level"
- modifier_state_building_sewers_max_level_add:0 "sewers max level"
+ modifier_state_building_sewer_network_max_level_add:0 "sewers max level"
  modifier_state_building_road_network_max_level_add:0 "road network max level"
  modifier_state_building_railway_max_level_add:0 "railway max level"
  building_sewer_network:0 "Sewers"
