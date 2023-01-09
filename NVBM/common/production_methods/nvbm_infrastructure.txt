@@ -450,7 +450,7 @@ pm_electric_train = {
 }
 
 pm_fast_train = {
-	texture = "gfx/interface/icons/production_method_icons/trains_electric.dds"
+	texture = "gfx/interface/icons/production_method_icons/fast_train.dds"
 	pollution_generation = 15
 	unlocking_technologies = {
 		compression_ignition
@@ -477,7 +477,7 @@ pm_fast_train = {
 }
 
 pm_electric_fast_train = {
-	texture = "gfx/interface/icons/production_method_icons/trains_electric.dds"
+	texture = "gfx/interface/icons/production_method_icons/fast_train_electric.dds"
 	pollution_generation = 15
 	unlocking_technologies = {
 		compression_ignition
