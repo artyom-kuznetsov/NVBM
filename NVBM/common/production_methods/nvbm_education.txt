@@ -15,7 +15,7 @@
 	state_modifiers = {
 		workforce_scaled = { 
 			state_pop_qualifications_mult = 0.1
-			state_education_access_add = 0.08
+			state_education_access_add = 0.06
 		}	
 	}
 }
@@ -41,7 +41,7 @@ pm_philosophy_department = {
 	state_modifiers = {
 		workforce_scaled = { 
 			state_pop_qualifications_mult = 0.15
-			state_education_access_add = 0.12
+			state_education_access_add = 0.09
 		}	
 	}
 }
@@ -67,7 +67,7 @@ pm_analytical_philosophy_department = {
 	state_modifiers = {
 		workforce_scaled = { 
 			state_pop_qualifications_mult = 0.2
-			state_education_access_add = 0.15
+			state_education_access_add = 0.12
 		}	
 	}
 }	
